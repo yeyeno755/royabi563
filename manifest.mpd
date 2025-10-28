@@ -729,13 +729,12 @@
     contentType="text"
     lang="ms"
     label="Bahasa Melayu"
-    mimeType="application/ttml+xml">
+    mimeType="text/vtt">
     
-    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
-    <Representation id="textstream_ms_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+    <Representation id="textstream_ms_1" bandwidth="0">
+        <BaseURL>https://yeyeno755.github.io/royabi563/</BaseURL>
         <SegmentList>
-            <SegmentURL media="subtitles_msa.ttml"/>
+            <SegmentURL media="subtitles_msa.vtt"/>
         </SegmentList>
     </Representation>
 </AdaptationSet>
@@ -745,13 +744,12 @@
     contentType="text"
     lang="en"
     label="English"
-    mimeType="application/ttml+xml">
+    mimeType="text/vtt">
     
-    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
-    <Representation id="textstream_en_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+    <Representation id="textstream_en_1" bandwidth="0">
+        <BaseURL>https://yeyeno755.github.io/royabi563/</BaseURL>
         <SegmentList>
-            <SegmentURL media="subtitles_eng.ttml"/>
+            <SegmentURL media="subtitles_eng.vtt"/>
         </SegmentList>
     </Representation>
 </AdaptationSet>		
