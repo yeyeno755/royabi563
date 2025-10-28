@@ -1,0 +1,2872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="msa">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:24.250"
+        end="00:00:27.666"><span region="Default">Selama ribuan tahun,<br/>manusia telah menguasai planet ini.</span></p>
+      <p
+        begin="00:00:27.833"
+        end="00:00:30.500"><span region="Default">Keangkuhan akan membawa<br/>kepada kejatuhan mereka.</span></p>
+      <p
+        begin="00:00:30.666"
+        end="00:00:33.666"><span region="Default">Virus buatan manusia<br/>telah mencipta spesies mawas yang bijak.</span></p>
+      <p
+        begin="00:00:33.833"
+        end="00:00:35.833"><span region="Default">Namun, kesannya terbalik terhadap manusia</span></p>
+      <p
+        begin="00:00:36.000"
+        end="00:00:39.000"><span region="Default">iaitu merampas kebijakan mereka<br/>dan buat mereka menjadi bisu.</span></p>
+      <p
+        begin="00:00:39.166"
+        end="00:00:44.166"><span region="Default">Apabila mawas dan manusia berebut<br/>untuk wujud bersama,</span></p>
+      <p
+        begin="00:00:44.333"
+        end="00:00:49.333"><span region="Default">seekor mawas bangkit<br/>dan mengorbankan semua untuk bangsanya.</span></p>
+      <p
+        begin="00:00:49.500"
+        end="00:00:53.958"><span region="Default">Namanya ialah Caesar.</span></p>
+      <p
+        begin="00:02:39.333"
+        end="00:02:44.416"><span region="Default">BEBERAPA GENERASI KEMUDIAN</span></p>
+      <p
+        begin="00:04:20.458"
+        end="00:04:22.083"><span region="Default">Berlagak.</span></p>
+      <p
+        begin="00:04:42.625"
+        end="00:04:46.250"><span region="Default">Ketua Luna suruh bersabar.</span></p>
+      <p
+        begin="00:04:46.416"
+        end="00:04:48.458"><span region="Default">Telur yang sesuai akan memanggil.</span></p>
+      <p
+        begin="00:04:49.500"
+        end="00:04:52.541"><span region="Default">Ketua Luna dah tua.</span></p>
+      <p
+        begin="00:05:13.416"
+        end="00:05:14.416"><span region="Default">Tiga.</span></p>
+      <p
+        begin="00:05:16.166"
+        end="00:05:17.625"><span region="Default">Cuma tiga biji.</span></p>
+      <p
+        begin="00:05:18.083"
+        end="00:05:20.000"><span region="Default">Kita ambil semua.</span></p>
+      <p
+        begin="00:05:20.166"
+        end="00:05:21.500"><span region="Default">Tak boleh! Jangan.</span></p>
+      <p
+        begin="00:05:22.416"
+        end="00:05:24.583"><span region="Default">Sentiasa tinggalkan sebiji.</span></p>
+      <p
+        begin="00:05:26.291"
+        end="00:05:27.541"><span region="Default">Itu undang-undangnya.</span></p>
+      <p
+        begin="00:05:30.166"
+        end="00:05:31.791"><span region="Default">Esok ialah hari ikatan.</span></p>
+      <p
+        begin="00:05:34.291"
+        end="00:05:35.833"><span region="Default">Ini awak punya.</span></p>
+      <p
+        begin="00:05:37.583"
+        end="00:05:38.583"><span region="Default">Awak lebih tua.</span></p>
+      <p
+        begin="00:05:38.750"
+        end="00:05:41.708"><span region="Default">- Tempoh lahir kita tak jauh.<br/>- Tetap lebih tua.</span></p>
+      <p
+        begin="00:05:44.750"
+        end="00:05:45.750"><span region="Default">Soona.</span></p>
+      <p
+        begin="00:05:47.083"
+        end="00:05:49.125"><span region="Default">Mana satu yang memanggil awak?</span></p>
+      <p
+        begin="00:05:54.291"
+        end="00:05:55.291"><span region="Default">Yang ini.</span></p>
+      <p
+        begin="00:06:00.666"
+        end="00:06:01.666"><span region="Default">Sutera.</span></p>
+      <p
+        begin="00:06:13.416"
+        end="00:06:15.916"><span region="Default">Kita akan membesarkannya bersama-sama.</span></p>
+      <p
+        begin="00:06:16.833"
+        end="00:06:18.958"><span region="Default">Sepertimana kita dibesarkan.</span></p>
+      <p
+        begin="00:06:20.458"
+        end="00:06:22.500"><span region="Default">Ia akan sama.</span></p>
+      <p
+        begin="00:06:24.125"
+        end="00:06:25.250"><span region="Default">Betul tak?</span></p>
+      <p
+        begin="00:06:37.750"
+        end="00:06:39.916"><span region="Default">Pergi!</span></p>
+      <p
+        begin="00:06:41.541"
+        end="00:06:43.250"><span region="Default">- Noa!<br/>- Noa, tunggu!</span></p>
+      <p
+        begin="00:06:57.708"
+        end="00:06:59.000"><span region="Default">Terlalu jauh.</span></p>
+      <p
+        begin="00:06:59.166"
+        end="00:07:00.541"><span region="Default">Cari jalan lain.</span></p>
+      <p
+        begin="00:07:04.833"
+        end="00:07:05.833"><span region="Default">Noa?</span></p>
+      <p
+        begin="00:07:06.875"
+        end="00:07:08.333"><span region="Default">Jangan!</span></p>
+      <p
+        begin="00:07:11.291"
+        end="00:07:12.875"><span region="Default">Hore!</span></p>
+      <p
+        begin="00:08:01.750"
+        end="00:08:02.750"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:08:05.875"
+        end="00:08:07.375"><span region="Default">Anaya! Soona!</span></p>
+      <p
+        begin="00:08:07.916"
+        end="00:08:08.916"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:08:12.541"
+        end="00:08:14.083"><span region="Default">- Noa!<br/>- Tidak!</span></p>
+      <p
+        begin="00:08:38.333"
+        end="00:08:40.166"><span region="Default">Awak nak tahu rupa burung awak nanti?</span></p>
+      <p
+        begin="00:08:40.333"
+        end="00:08:42.833"><span region="Default">Asalkan rupanya tak macam awak, Anaya.</span></p>
+      <p
+        begin="00:08:56.875"
+        end="00:08:58.083"><span region="Default">Takut.</span></p>
+      <p
+        begin="00:09:03.541"
+        end="00:09:05.208"><span region="Default">Selimut hilang.</span></p>
+      <p
+        begin="00:09:09.875"
+        end="00:09:11.458"><span region="Default">Apa dia, Noa?</span></p>
+      <p
+        begin="00:09:12.041"
+        end="00:09:14.541"><span region="Default">Ada sesuatu dekat pokok.</span></p>
+      <p
+        begin="00:09:30.708"
+        end="00:09:32.250"><span region="Default">Ia terlepas!</span></p>
+      <p
+        begin="00:09:44.291"
+        end="00:09:46.875"><span region="Default">Benda lain.</span></p>
+      <p
+        begin="00:09:47.291"
+        end="00:09:48.875"><span region="Default">Noa takut.</span></p>
+      <p
+        begin="00:09:51.500"
+        end="00:09:52.958"><span region="Default">Anaya tak takut.</span></p>
+      <p
+        begin="00:10:16.833"
+        end="00:10:18.875"><span region="Default">Bukan mawas.</span></p>
+      <p
+        begin="00:10:23.250"
+        end="00:10:24.333"><span region="Default">Mungkin</span></p>
+      <p
+        begin="00:10:25.625"
+        end="00:10:26.708"><span region="Default">Echo?</span></p>
+      <p
+        begin="00:10:28.500"
+        end="00:10:33.500"><span region="Default">Echo bukan datang dari lembah.</span></p>
+      <p
+        begin="00:10:53.291"
+        end="00:10:55.041"><span region="Default">Awak takut?</span></p>
+      <p
+        begin="00:10:55.208"
+        end="00:10:57.208"><span region="Default">Tak setakut Anaya!</span></p>
+      <p
+        begin="00:11:25.166"
+        end="00:11:26.750"><span region="Default">Mereka dah balik!</span></p>
+      <p
+        begin="00:11:26.916"
+        end="00:11:28.500"><span region="Default">- Soona!<br/>- Dah dapat telur?</span></p>
+      <p
+        begin="00:11:28.666"
+        end="00:11:30.875"><span region="Default">- Sejauh mana awak panjat?<br/>- Bahaya tak?</span></p>
+      <p
+        begin="00:11:31.250"
+        end="00:11:33.375"><span region="Default">Sangat bahaya.</span></p>
+      <p
+        begin="00:11:33.541"
+        end="00:11:36.083"><span region="Default">Anaya menangis macam bayi baru lahir.</span></p>
+      <p
+        begin="00:11:45.083"
+        end="00:11:46.833"><span region="Default">Berapa banyak telur awak ambil?</span></p>
+      <p
+        begin="00:11:47.000"
+        end="00:11:48.125"><span region="Default">- Nak tengok.<br/>- Cekap panjat?</span></p>
+      <p
+        begin="00:11:48.291"
+        end="00:11:50.041"><span region="Default">- Tunjukkan telur itu.<br/>- Tunjuklah.</span></p>
+      <p
+        begin="00:11:50.333"
+        end="00:11:51.166"><span region="Default">Telur.</span></p>
+      <p
+        begin="00:11:51.333"
+        end="00:11:54.500"><span region="Default">Tunjukkan kepada kami, Anaya. Tolonglah.</span></p>
+      <p
+        begin="00:12:17.791"
+        end="00:12:19.625"><span region="Default">- Siapa nak?<br/>- Saya!</span></p>
+      <p
+        begin="00:12:22.500"
+        end="00:12:26.000"><span region="Default">Jom! Hei, beri kepada saya!</span></p>
+      <p
+        begin="00:12:26.500"
+        end="00:12:27.583"><span region="Default">Anak.</span></p>
+      <p
+        begin="00:12:36.000"
+        end="00:12:37.000"><span region="Default">Mak nak tengok.</span></p>
+      <p
+        begin="00:12:37.166"
+        end="00:12:39.291"><span region="Default">Semua kena tunggu untuk ikatan.</span></p>
+      <p
+        begin="00:12:39.458"
+        end="00:12:42.041"><span region="Default">Termasuk Guru Dihormati.</span></p>
+      <p
+        begin="00:12:42.208"
+        end="00:12:44.041"><span region="Default">Mak ialah ibu kamu.</span></p>
+      <p
+        begin="00:12:53.375"
+        end="00:12:56.208"><span region="Default">Mak tahu kamu cekap memanjat.</span></p>
+      <p
+        begin="00:12:58.791"
+        end="00:13:00.000"><span region="Default">Dia menunggu.</span></p>
+      <p
+        begin="00:13:09.541"
+        end="00:13:10.583"><span region="Default">Patah?</span></p>
+      <p
+        begin="00:13:12.875"
+        end="00:13:15.125"><span region="Default">Itu kemudian.</span></p>
+      <p
+        begin="00:13:18.625"
+        end="00:13:21.416"><span region="Default">Ayah kamu nak jumpa.</span></p>
+      <p
+        begin="00:13:26.416"
+        end="00:13:31.416"><span region="Default">Dia pasti bangga.</span></p>
+      <p
+        begin="00:13:47.125"
+        end="00:13:49.083"><span region="Default">- Noa.<br/>- Noa.</span></p>
+      <p
+        begin="00:13:49.250"
+        end="00:13:52.208"><span region="Default">Noa, kami ingatkan kamu<br/>takkan selamat balik.</span></p>
+      <p
+        begin="00:14:24.500"
+        end="00:14:26.291"><span region="Default">Terlalu padat.</span></p>
+      <p
+        begin="00:14:26.625"
+        end="00:14:29.000"><span region="Default">Ya. Baiklah, Koro.</span></p>
+      <p
+        begin="00:14:44.833"
+        end="00:14:46.791"><span region="Default">Ayah, Ketua Burung.</span></p>
+      <p
+        begin="00:14:57.375"
+        end="00:14:58.291"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:15:01.125"
+        end="00:15:02.291"><span region="Default">Anak ayah.</span></p>
+      <p
+        begin="00:15:07.291"
+        end="00:15:13.125"><span region="Default">Helang Sun tak suka kerja<br/>untuk upacara esok.</span></p>
+      <p
+        begin="00:15:15.625"
+        end="00:15:17.000"><span region="Default">Kamu cekap memanjat?</span></p>
+      <p
+        begin="00:15:17.541"
+        end="00:15:19.416"><span region="Default">Lebih tinggi daripada Sarang Teratas.</span></p>
+      <p
+        begin="00:15:20.458"
+        end="00:15:21.666"><span region="Default">Kamu semua?</span></p>
+      <p
+        begin="00:15:21.833"
+        end="00:15:23.333"><span region="Default">Tak.</span></p>
+      <p
+        begin="00:15:23.500"
+        end="00:15:24.916"><span region="Default">Cuma saya.</span></p>
+      <p
+        begin="00:15:30.500"
+        end="00:15:32.708"><span region="Default">Bau apa itu?</span></p>
+      <p
+        begin="00:15:43.041"
+        end="00:15:46.416"><span region="Default">Kamu tak ke Lembah Seberang Sana, bukan?</span></p>
+      <p
+        begin="00:15:46.583"
+        end="00:15:47.833"><span region="Default">Takkan.</span></p>
+      <p
+        begin="00:15:48.000"
+        end="00:15:50.166"><span region="Default">Ia dilarang.</span></p>
+      <p
+        begin="00:15:51.333"
+        end="00:15:55.125"><span region="Default">Tapi, ada darah Echo pada selimut kamu.</span></p>
+      <p
+        begin="00:15:55.291"
+        end="00:15:58.500"><span region="Default">Kami tak pergi ke Lembah Seberang Sana.</span></p>
+      <p
+        begin="00:16:02.375"
+        end="00:16:04.083"><span region="Default">Ayah terima.</span></p>
+      <p
+        begin="00:16:05.291"
+        end="00:16:07.458"><span region="Default">Kamu jujur, Noa.</span></p>
+      <p
+        begin="00:16:09.291"
+        end="00:16:10.708"><span region="Default">Banyak untuk dipelajari.</span></p>
+      <p
+        begin="00:16:12.458"
+        end="00:16:13.708"><span region="Default">Banyak untuk diajar.</span></p>
+      <p
+        begin="00:16:15.208"
+        end="00:16:17.458"><span region="Default">Selepas upacara ikatan esok.</span></p>
+      <p
+        begin="00:16:18.750"
+        end="00:16:21.250"><span region="Default">Sekarang, semua ketua harus tahu.</span></p>
+      <p
+        begin="00:16:22.208"
+        end="00:16:25.458"><span region="Default">Echo hanya membawa masalah.</span></p>
+      <p
+        begin="00:16:29.333"
+        end="00:16:32.375"><span region="Default">Oda akan halau pengacau itu.</span></p>
+      <p
+        begin="00:16:40.375"
+        end="00:16:42.875"><span region="Default">Boleh saya minta nasihat awak?</span></p>
+      <p
+        begin="00:16:45.166"
+        end="00:16:50.250"><span region="Default">Selimut ini ada darah Echo.</span></p>
+      <p
+        begin="00:16:50.416"
+        end="00:16:51.458"><span region="Default">Echo.</span></p>
+      <p
+        begin="00:16:51.625"
+        end="00:16:53.000"><span region="Default">Saya minta maaf.</span></p>
+      <p
+        begin="00:16:53.166"
+        end="00:16:56.291"><span region="Default">Ini petanda buruk buat kita semua.</span></p>
+      <p
+        begin="00:16:56.458"
+        end="00:16:58.583"><span region="Default">- Bau itu.<br/>- Saya cadangkan…</span></p>
+      <p
+        begin="00:17:05.791"
+        end="00:17:08.333"><span region="Default">Awak panjat Sarang Teratas?</span></p>
+      <p
+        begin="00:17:12.250"
+        end="00:17:14.041"><span region="Default">Pendakian yang mencabar.</span></p>
+      <p
+        begin="00:17:20.416"
+        end="00:17:21.333"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:17:21.500"
+        end="00:17:23.583"><span region="Default">Mungkin berbahaya.</span></p>
+      <p
+        begin="00:17:23.750"
+        end="00:17:24.791"><span region="Default">Bahaya.</span></p>
+      <p
+        begin="00:17:29.666"
+        end="00:17:30.666"><span region="Default">Anaya!</span></p>
+      <p
+        begin="00:17:35.416"
+        end="00:17:37.583"><span region="Default">Awak dah jumpa ayah awak?</span></p>
+      <p
+        begin="00:17:44.208"
+        end="00:17:47.750"><span region="Default">Saya tak faham Helang Sun.</span></p>
+      <p
+        begin="00:17:47.916"
+        end="00:17:50.625"><span region="Default">Saya faham. Dia benci Noa.</span></p>
+      <p
+        begin="00:17:55.625"
+        end="00:17:57.166"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:17:57.333"
+        end="00:17:58.875"><span region="Default">Selimut awak?</span></p>
+      <p
+        begin="00:17:59.416"
+        end="00:18:01.166"><span region="Default">Ketua ambil.</span></p>
+      <p
+        begin="00:18:03.041"
+        end="00:18:06.000"><span region="Default">Mereka hantar Oda untuk takutkan Echo.</span></p>
+      <p
+        begin="00:18:06.625"
+        end="00:18:07.833"><span region="Default">Baiklah, ketua.</span></p>
+      <p
+        begin="00:18:08.833"
+        end="00:18:11.708"><span region="Default">Sewaktu mak kecil,</span></p>
+      <p
+        begin="00:18:12.375"
+        end="00:18:14.791"><span region="Default">musim kemarau mengeringkan anak sungai.</span></p>
+      <p
+        begin="00:18:14.958"
+        end="00:18:16.416"><span region="Default">Echo keluar mencari makanan.</span></p>
+      <p
+        begin="00:18:17.625"
+        end="00:18:20.791"><span region="Default">Dia nampak yang kecil dan yang besar.</span></p>
+      <p
+        begin="00:18:22.166"
+        end="00:18:24.625"><span region="Default">Kita ada hujan yang beri manfaat.</span></p>
+      <p
+        begin="00:18:26.333"
+        end="00:18:27.416"><span region="Default">Kata-katanya.</span></p>
+      <p
+        begin="00:18:32.750"
+        end="00:18:35.000"><span region="Default">Selamat menunggang, Oda.</span></p>
+      <p
+        begin="00:21:08.208"
+        end="00:21:09.250"><span region="Default">Tidak.</span></p>
+      <p
+        begin="00:21:15.625"
+        end="00:21:18.166"><span region="Default">Ikatan kita ialah ketika matahari terbit.</span></p>
+      <p
+        begin="00:21:19.000"
+        end="00:21:21.708"><span region="Default">Ketua Burung akan buat pengecualian.</span></p>
+      <p
+        begin="00:21:21.875"
+        end="00:21:24.833"><span region="Default">Mereka takkan buat dia tunggu musim depan.</span></p>
+      <p
+        begin="00:21:25.000"
+        end="00:21:26.333"><span region="Default">Ya, dia akan tunggu.</span></p>
+      <p
+        begin="00:21:28.250"
+        end="00:21:30.166"><span region="Default">Dia ayah awak.</span></p>
+      <p
+        begin="00:21:30.333"
+        end="00:21:34.375"><span region="Default">Saya ialah anaknya.</span></p>
+      <p
+        begin="00:21:35.583"
+        end="00:21:37.958"><span region="Default">Kalau begitu, saya akan tunggu awak.</span></p>
+      <p
+        begin="00:21:40.666"
+        end="00:21:42.250"><span region="Default">Anaya pun tunggu.</span></p>
+      <p
+        begin="00:21:44.208"
+        end="00:21:45.375"><span region="Default">Tak boleh.</span></p>
+      <p
+        begin="00:21:52.041"
+        end="00:21:54.583"><span region="Default">Saya mesti cari yang lain.</span></p>
+      <p
+        begin="00:23:43.708"
+        end="00:23:44.708"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:23:45.500"
+        end="00:23:46.500"><span region="Default">Oda!</span></p>
+      <p
+        begin="00:23:47.000"
+        end="00:23:49.291"><span region="Default">Ada…</span></p>
+      <p
+        begin="00:23:50.750"
+        end="00:23:52.041"><span region="Default">ramai.</span></p>
+      <p
+        begin="00:24:36.333"
+        end="00:24:37.916"><span region="Default">Apa dah jadi di sini?</span></p>
+      <p
+        begin="00:24:38.416"
+        end="00:24:40.041"><span region="Default">Peninjau kita.</span></p>
+      <p
+        begin="00:24:40.541"
+        end="00:24:42.708"><span region="Default">Dibunuh oleh dia.</span></p>
+      <p
+        begin="00:24:50.958"
+        end="00:24:52.083"><span region="Default">Manusia!</span></p>
+      <p
+        begin="00:24:53.000"
+        end="00:24:54.208"><span region="Default">Angkara dia!</span></p>
+      <p
+        begin="00:24:54.625"
+        end="00:24:56.083"><span region="Default">Lightning, naik kuda kau.</span></p>
+      <p
+        begin="00:24:56.250"
+        end="00:24:57.458"><span region="Default">Berpecah!</span></p>
+      <p
+        begin="00:24:57.625"
+        end="00:24:59.583"><span region="Default">Cari puak dia!</span></p>
+      <p
+        begin="00:24:59.958"
+        end="00:25:01.500"><span region="Default">Cari di semua tempat!</span></p>
+      <p
+        begin="00:25:09.416"
+        end="00:25:11.083"><span region="Default">Kuda mawas itu!</span></p>
+      <p
+        begin="00:25:11.250"
+        end="00:25:12.583"><span region="Default">Lightning, jom!</span></p>
+      <p
+        begin="00:25:21.708"
+        end="00:25:23.750"><span region="Default">Mereka pasti tak jauh.</span></p>
+      <p
+        begin="00:25:24.625"
+        end="00:25:27.500"><span region="Default">Ikut kuda ini! Cari puak dia!</span></p>
+      <p
+        begin="00:25:29.291"
+        end="00:25:30.708"><span region="Default">Cari manusia!</span></p>
+      <p
+        begin="00:25:31.625"
+        end="00:25:32.750"><span region="Default">Gerak!</span></p>
+      <p
+        begin="00:25:36.708"
+        end="00:25:39.041"><span region="Default">Pergi!</span></p>
+      <p
+        begin="00:26:40.583"
+        end="00:26:41.791"><span region="Default">Kumpulkan mereka!</span></p>
+      <p
+        begin="00:26:41.958"
+        end="00:26:43.541"><span region="Default">Jangan! Tolonglah!</span></p>
+      <p
+        begin="00:26:47.375"
+        end="00:26:48.833"><span region="Default">Kau, tawanan!</span></p>
+      <p
+        begin="00:26:53.208"
+        end="00:26:54.500"><span region="Default">Bakar!</span></p>
+      <p
+        begin="00:26:57.916"
+        end="00:26:59.500"><span region="Default">Soona! Anaya!</span></p>
+      <p
+        begin="00:26:59.666"
+        end="00:27:00.791"><span region="Default">Noa, tolong!</span></p>
+      <p
+        begin="00:27:11.375"
+        end="00:27:12.416"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:13.458"
+        end="00:27:14.750"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:14.916"
+        end="00:27:16.083"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:16.791"
+        end="00:27:17.791"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:19.250"
+        end="00:27:20.208"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:21.250"
+        end="00:27:23.500"><span region="Default">Anaya! Mak!</span></p>
+      <p
+        begin="00:27:25.375"
+        end="00:27:26.375"><span region="Default">Di mana Soona?</span></p>
+      <p
+        begin="00:27:26.541"
+        end="00:27:28.416"><span region="Default">Mereka dah bawa dia!</span></p>
+      <p
+        begin="00:27:28.583"
+        end="00:27:30.500"><span region="Default">Mereka pecahkan telur saya!</span></p>
+      <p
+        begin="00:27:31.541"
+        end="00:27:32.708"><span region="Default">Mak.</span></p>
+      <p
+        begin="00:27:32.875"
+        end="00:27:34.125"><span region="Default">Tolong ayah kamu!</span></p>
+      <p
+        begin="00:27:35.208"
+        end="00:27:36.541"><span region="Default">Tidak!</span></p>
+      <p
+        begin="00:27:38.000"
+        end="00:27:38.833"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:40.291"
+        end="00:27:41.291"><span region="Default">Jangan!</span></p>
+      <p
+        begin="00:27:43.833"
+        end="00:27:45.166"><span region="Default">Lari, Noa! Lari!</span></p>
+      <p
+        begin="00:27:46.458"
+        end="00:27:48.083"><span region="Default">Tolong ayah kamu!</span></p>
+      <p
+        begin="00:27:48.250"
+        end="00:27:50.083"><span region="Default">Pergi, Noa! Lari!</span></p>
+      <p
+        begin="00:27:52.583"
+        end="00:27:53.541"><span region="Default">Tidak!</span></p>
+      <p
+        begin="00:27:57.625"
+        end="00:27:59.458"><span region="Default">Dia ialah ketua mereka.</span></p>
+      <p
+        begin="00:28:06.666"
+        end="00:28:07.500"><span region="Default">Jangan!</span></p>
+      <p
+        begin="00:28:15.666"
+        end="00:28:18.083"><span region="Default">Untuk Caesar!</span></p>
+      <p
+        begin="00:28:18.583"
+        end="00:28:20.250"><span region="Default">Untuk Caesar!</span></p>
+      <p
+        begin="00:28:22.750"
+        end="00:28:24.916"><span region="Default">Bawa mereka kepada Proximus!</span></p>
+      <p
+        begin="00:28:26.333"
+        end="00:28:28.041"><span region="Default">Cari manusia itu!</span></p>
+      <p
+        begin="00:28:28.208"
+        end="00:28:29.375"><span region="Default">Caesar!</span></p>
+      <p
+        begin="00:28:31.708"
+        end="00:28:34.250"><span region="Default">Caesar!</span></p>
+      <p
+        begin="00:28:45.625"
+        end="00:28:47.250"><span region="Default">- Ayah!<br/>- Anak.</span></p>
+      <p
+        begin="00:28:47.416"
+        end="00:28:48.958"><span region="Default">Maafkan saya. Salah saya.</span></p>
+      <p
+        begin="00:28:49.125"
+        end="00:28:51.083"><span region="Default">Noa, bebaskan semua burung.</span></p>
+      <p
+        begin="00:28:51.541"
+        end="00:28:52.416"><span region="Default">Pergi.</span></p>
+      <p
+        begin="00:29:28.500"
+        end="00:29:31.666"><span region="Default">Tunduk hormat.</span></p>
+      <p
+        begin="00:31:14.166"
+        end="00:31:15.458"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:31:21.625"
+        end="00:31:23.083"><span region="Default">Untuk Caesar.</span></p>
+      <p
+        begin="00:34:21.916"
+        end="00:34:22.916"><span region="Default">Ayah.</span></p>
+      <p
+        begin="00:34:26.250"
+        end="00:34:27.750"><span region="Default">Saya akan cari mereka.</span></p>
+      <p
+        begin="00:34:29.375"
+        end="00:34:32.500"><span region="Default">Saya akan bawa mereka balik.</span></p>
+      <p
+        begin="00:36:27.083"
+        end="00:36:28.541"><span region="Default">Mak.</span></p>
+      <p
+        begin="00:37:39.333"
+        end="00:37:40.333"><span region="Default">Sun.</span></p>
+      <p
+        begin="00:37:48.583"
+        end="00:37:50.125"><span region="Default">Mari, Sun.</span></p>
+      <p
+        begin="00:39:57.708"
+        end="00:39:59.916"><span region="Default">Awak semuda mana?</span></p>
+      <p
+        begin="00:40:01.791"
+        end="00:40:03.833"><span region="Default">Tanpa topeng.</span></p>
+      <p
+        begin="00:40:04.958"
+        end="00:40:06.416"><span region="Default">Tanpa ini!</span></p>
+      <p
+        begin="00:40:08.791"
+        end="00:40:09.833"><span region="Default">Cakap.</span></p>
+      <p
+        begin="00:40:11.375"
+        end="00:40:14.291"><span region="Default">Cakap.</span></p>
+      <p
+        begin="00:40:15.000"
+        end="00:40:16.416"><span region="Default">Bukan saya punya.</span></p>
+      <p
+        begin="00:40:17.541"
+        end="00:40:18.833"><span region="Default">Tak ada topeng.</span></p>
+      <p
+        begin="00:40:20.083"
+        end="00:40:21.291"><span region="Default">Saya bukan</span></p>
+      <p
+        begin="00:40:22.458"
+        end="00:40:23.500"><span region="Default">mereka.</span></p>
+      <p
+        begin="00:40:26.416"
+        end="00:40:27.916"><span region="Default">Sila jelaskan.</span></p>
+      <p
+        begin="00:40:29.625"
+        end="00:40:31.458"><span region="Default">Mereka bunuh ayah saya.</span></p>
+      <p
+        begin="00:40:32.708"
+        end="00:40:34.500"><span region="Default">Melarikan orang kampung saya.</span></p>
+      <p
+        begin="00:40:36.625"
+        end="00:40:38.416"><span region="Default">Saya ekori jejak mereka.</span></p>
+      <p
+        begin="00:40:50.125"
+        end="00:40:53.458"><span region="Default">Dulu, dia orang kampung saya.</span></p>
+      <p
+        begin="00:40:56.666"
+        end="00:40:58.666"><span region="Default">Mereka bunuh dia.</span></p>
+      <p
+        begin="00:41:00.208"
+        end="00:41:01.458"><span region="Default">Si Topeng.</span></p>
+      <p
+        begin="00:41:13.958"
+        end="00:41:15.291"><span region="Default">Saya Raka.</span></p>
+      <p
+        begin="00:41:18.541"
+        end="00:41:20.458"><span region="Default">Saya Noa.</span></p>
+      <p
+        begin="00:41:32.083"
+        end="00:41:35.500"><span region="Default">Mawas jatuh dari langit.</span></p>
+      <p
+        begin="00:41:40.333"
+        end="00:41:45.041"><span region="Default">Dia berada di luar ketika mereka tiba.</span></p>
+      <p
+        begin="00:41:45.208"
+        end="00:41:47.083"><span region="Default">Awak ada nampak puak saya?</span></p>
+      <p
+        begin="00:41:48.250"
+        end="00:41:49.291"><span region="Default">Tak.</span></p>
+      <p
+        begin="00:41:50.166"
+        end="00:41:51.583"><span region="Default">Saya sembunyi.</span></p>
+      <p
+        begin="00:41:52.791"
+        end="00:41:54.166"><span region="Default">Saya terselamat.</span></p>
+      <p
+        begin="00:41:55.625"
+        end="00:41:58.708"><span region="Default">Saya melindungi kerja kami.</span></p>
+      <p
+        begin="00:42:08.125"
+        end="00:42:13.750"><span region="Default">Ia cara lama untuk simpan idea.</span></p>
+      <p
+        begin="00:42:18.833"
+        end="00:42:21.458"><span region="Default">Simbol-simbol ini ada makna.</span></p>
+      <p
+        begin="00:42:25.541"
+        end="00:42:28.625"><span region="Default">Mawas faham makna ini</span></p>
+      <p
+        begin="00:42:28.791"
+        end="00:42:30.833"><span region="Default">pada zaman Caesar.</span></p>
+      <p
+        begin="00:42:33.416"
+        end="00:42:36.833"><span region="Default">Si Topeng, semasa di kampung saya,</span></p>
+      <p
+        begin="00:42:38.333"
+        end="00:42:40.333"><span region="Default">ada sebut nama…</span></p>
+      <p
+        begin="00:42:42.291"
+        end="00:42:43.750"><span region="Default">"Caesar".</span></p>
+      <p
+        begin="00:42:44.833"
+        end="00:42:46.208"><span region="Default">Memalukan.</span></p>
+      <p
+        begin="00:42:47.291"
+        end="00:42:49.500"><span region="Default">Si Topeng ambil nama dia.</span></p>
+      <p
+        begin="00:42:51.000"
+        end="00:42:52.375"><span region="Default">Putar belitkan kata-katanya.</span></p>
+      <p
+        begin="00:42:53.291"
+        end="00:42:55.000"><span region="Default">Dia siapa?</span></p>
+      <p
+        begin="00:42:55.791"
+        end="00:42:56.916"><span region="Default">Dia dah tak ada.</span></p>
+      <p
+        begin="00:42:58.041"
+        end="00:42:59.041"><span region="Default">Dia dah mati.</span></p>
+      <p
+        begin="00:43:02.625"
+        end="00:43:06.541"><span region="Default">Puak awak tak kenal Caesar yang sebenar.</span></p>
+      <p
+        begin="00:43:07.875"
+        end="00:43:11.083"><span region="Default">Terlalu ramai yang dah lupa tentang dia.</span></p>
+      <p
+        begin="00:43:13.208"
+        end="00:43:16.000"><span region="Default">Saya kenal ketua-ketua di kampung saya.</span></p>
+      <p
+        begin="00:43:16.166"
+        end="00:43:17.875"><span region="Default">Mereka yang buat undang-undang.</span></p>
+      <p
+        begin="00:43:18.041"
+        end="00:43:19.333"><span region="Default">Itu saja.</span></p>
+      <p
+        begin="00:43:21.166"
+        end="00:43:24.041"><span region="Default">Bukan itu saja.</span></p>
+      <p
+        begin="00:43:24.833"
+        end="00:43:26.958"><span region="Default">Sebelum adanya ketua-ketua awak,</span></p>
+      <p
+        begin="00:43:27.125"
+        end="00:43:31.375"><span region="Default">Caesar yang ajar kami erti menjadi mawas.</span></p>
+      <p
+        begin="00:43:31.541"
+        end="00:43:36.000"><span region="Default">Dialah ketua kami,<br/>pembuat undang-undang kami.</span></p>
+      <p
+        begin="00:43:36.166"
+        end="00:43:38.916"><span region="Default">Mawas kuat apabila bersatu.</span></p>
+      <p
+        begin="00:43:39.083"
+        end="00:43:41.791"><span region="Default">Mawas tak boleh bunuh mawas.</span></p>
+      <p
+        begin="00:43:41.958"
+        end="00:43:44.708"><span region="Default">Kami, Golongan Caesar</span></p>
+      <p
+        begin="00:43:44.875"
+        end="00:43:46.625"><span region="Default">mengikut cakapnya.</span></p>
+      <p
+        begin="00:43:46.791"
+        end="00:43:48.250"><span region="Default">Sehingga ke hari ini,</span></p>
+      <p
+        begin="00:43:49.625"
+        end="00:43:51.083"><span region="Default">saya ikut.</span></p>
+      <p
+        begin="00:43:52.750"
+        end="00:43:54.041"><span region="Default">Sekarang saya</span></p>
+      <p
+        begin="00:43:55.375"
+        end="00:43:56.791"><span region="Default">pengikut yang terakhir.</span></p>
+      <p
+        begin="00:43:58.875"
+        end="00:44:00.791"><span region="Default">Kerja diteruskan.</span></p>
+      <p
+        begin="00:44:04.833"
+        end="00:44:06.375"><span region="Default">Ini tempat apa?</span></p>
+      <p
+        begin="00:44:07.041"
+        end="00:44:09.916"><span region="Default">Kami percaya mawas membinanya</span></p>
+      <p
+        begin="00:44:10.083"
+        end="00:44:13.625"><span region="Default">sebagai tempat perlindungan untuk manusia.</span></p>
+      <p
+        begin="00:44:13.791"
+        end="00:44:15.666"><span region="Default">Kini jarang nampak walaupun seorang.</span></p>
+      <p
+        begin="00:44:15.833"
+        end="00:44:21.125"><span region="Default">Tapi, pada zaman Caesar,<br/>puak mereka besar.</span></p>
+      <p
+        begin="00:44:22.208"
+        end="00:44:23.541"><span region="Default">Boleh awak bayangkan?</span></p>
+      <p
+        begin="00:44:24.958"
+        end="00:44:29.500"><span region="Default">Mungkin di sini,<br/>manusia dijaga dan diberi makan,</span></p>
+      <p
+        begin="00:44:29.666"
+        end="00:44:32.458"><span region="Default">malah mungkin diajar.</span></p>
+      <p
+        begin="00:44:39.958"
+        end="00:44:41.041"><span region="Default">Apa dia?</span></p>
+      <p
+        begin="00:44:42.916"
+        end="00:44:44.083"><span region="Default">Echo.</span></p>
+      <p
+        begin="00:44:48.416"
+        end="00:44:49.458"><span region="Default">Manusia.</span></p>
+      <p
+        begin="00:44:52.250"
+        end="00:44:53.791"><span region="Default">Awak ada nampak?</span></p>
+      <p
+        begin="00:44:54.791"
+        end="00:44:55.625"><span region="Default">Seorang.</span></p>
+      <p
+        begin="00:44:57.458"
+        end="00:44:59.625"><span region="Default">Mereka pebangkai.</span></p>
+      <p
+        begin="00:44:59.791"
+        end="00:45:01.500"><span region="Default">Macam babi hutan.</span></p>
+      <p
+        begin="00:45:01.666"
+        end="00:45:03.291"><span region="Default">Cuma lemah.</span></p>
+      <p
+        begin="00:45:03.458"
+        end="00:45:07.083"><span region="Default">Manusia memang lembap,</span></p>
+      <p
+        begin="00:45:08.666"
+        end="00:45:10.208"><span region="Default">tapi pernah satu ketika,</span></p>
+      <p
+        begin="00:45:11.125"
+        end="00:45:15.041"><span region="Default">manusia dan mawas hidup bersama-sama.</span></p>
+      <p
+        begin="00:45:18.958"
+        end="00:45:24.125"><span region="Default">Ya, memang membingungkan. Saya tahu.</span></p>
+      <p
+        begin="00:45:25.541"
+        end="00:45:28.291"><span region="Default">Tapi, dulu mereka penting buat Caesar.</span></p>
+      <p
+        begin="00:45:28.458"
+        end="00:45:32.625"><span region="Default">Jadi, mereka penting buat saya.</span></p>
+      <p
+        begin="00:45:37.125"
+        end="00:45:39.208"><span region="Default">Saya kena cari kuda saya.</span></p>
+      <p
+        begin="00:45:40.500"
+        end="00:45:42.041"><span region="Default">Sudah tentu.</span></p>
+      <p
+        begin="00:45:42.208"
+        end="00:45:43.375"><span region="Default">Ikut saya.</span></p>
+      <p
+        begin="00:45:47.083"
+        end="00:45:49.750"><span region="Default">Awak tak kenal Caesar.</span></p>
+      <p
+        begin="00:45:51.250"
+        end="00:45:53.625"><span region="Default">Awak tak tahu buku.</span></p>
+      <p
+        begin="00:45:57.666"
+        end="00:45:59.625"><span region="Default">Awak patut tinggal di sini.</span></p>
+      <p
+        begin="00:45:59.791"
+        end="00:46:02.250"><span region="Default">Ada banyak yang saya boleh ajar awak.</span></p>
+      <p
+        begin="00:46:10.208"
+        end="00:46:11.208"><span region="Default">Pergi!</span></p>
+      <p
+        begin="00:46:11.375"
+        end="00:46:12.750"><span region="Default">Jangan! Mari sini balik!</span></p>
+      <p
+        begin="00:46:12.916"
+        end="00:46:13.750"><span region="Default">Pengacau!</span></p>
+      <p
+        begin="00:46:13.916"
+        end="00:46:16.041"><span region="Default">Tunggu! Datang balik!</span></p>
+      <p
+        begin="00:46:16.958"
+        end="00:46:19.833"><span region="Default">Tak bahaya!</span></p>
+      <p
+        begin="00:46:20.791"
+        end="00:46:22.875"><span region="Default">Itulah dia.</span></p>
+      <p
+        begin="00:46:23.041"
+        end="00:46:25.458"><span region="Default">Mencuri dari kampung saya.</span></p>
+      <p
+        begin="00:46:26.833"
+        end="00:46:30.250"><span region="Default">Dia ikut awak dari kampung?</span></p>
+      <p
+        begin="00:46:33.958"
+        end="00:46:38.708"><span region="Default">Mungkin Caesar mahu saya mengembara.</span></p>
+      <p
+        begin="00:46:42.791"
+        end="00:46:45.458"><span region="Default">Tunggu di sini. Kerja diteruskan.</span></p>
+      <p
+        begin="00:46:45.625"
+        end="00:46:46.791"><span region="Default">Saya tiada masa untuk…</span></p>
+      <p
+        begin="00:46:46.958"
+        end="00:46:50.125"><span region="Default">Saya takkan melambatkan awak.<br/>Saya pun ada kuda.</span></p>
+      <p
+        begin="00:46:57.416"
+        end="00:47:00.125"><span region="Default">Boleh tak kita perlahan sikit?</span></p>
+      <p
+        begin="00:47:00.291"
+        end="00:47:01.166"><span region="Default">Tak boleh.</span></p>
+      <p
+        begin="00:47:04.458"
+        end="00:47:06.416"><span region="Default">Saya yakin dia mengekori kita.</span></p>
+      <p
+        begin="00:47:06.583"
+        end="00:47:07.916"><span region="Default">Saya tak tahu sebabnya.</span></p>
+      <p
+        begin="00:47:14.000"
+        end="00:47:16.333"><span region="Default">Cantik burung itu!</span></p>
+      <p
+        begin="00:47:18.541"
+        end="00:47:20.083"><span region="Default">Helang Sun.</span></p>
+      <p
+        begin="00:47:21.166"
+        end="00:47:22.625"><span region="Default">Burung ayah saya.</span></p>
+      <p
+        begin="00:47:23.791"
+        end="00:47:25.666"><span region="Default">Dia mengekori saya untuk mencemuh.</span></p>
+      <p
+        begin="00:47:26.916"
+        end="00:47:30.708"><span region="Default">Burung ini mengekori awak juga?</span></p>
+      <p
+        begin="00:47:32.250"
+        end="00:47:35.166"><span region="Default">Puak saya memelihara helang.</span></p>
+      <p
+        begin="00:47:35.916"
+        end="00:47:36.958"><span region="Default">Nyanyi kepada mereka</span></p>
+      <p
+        begin="00:47:37.916"
+        end="00:47:39.333"><span region="Default">supaya mereka kenal kami.</span></p>
+      <p
+        begin="00:47:39.500"
+        end="00:47:40.666"><span region="Default">Sebuah ikatan.</span></p>
+      <p
+        begin="00:47:42.833"
+        end="00:47:44.166"><span region="Default">Nyanyikan lagu itu.</span></p>
+      <p
+        begin="00:47:45.125"
+        end="00:47:46.333"><span region="Default">Bolehlah.</span></p>
+      <p
+        begin="00:47:49.666"
+        end="00:47:50.666"><span region="Default">Tak nak.</span></p>
+      <p
+        begin="00:47:52.666"
+        end="00:47:54.625"><span region="Default">Ayah saya Ketua Burung.</span></p>
+      <p
+        begin="00:47:54.791"
+        end="00:47:56.291"><span region="Default">Dia menyanyi kepada helang.</span></p>
+      <p
+        begin="00:47:58.500"
+        end="00:48:00.458"><span region="Default">Tapi, saya bukan dia.</span></p>
+      <p
+        begin="00:48:02.416"
+        end="00:48:03.416"><span region="Default">Sayang sekali.</span></p>
+      <p
+        begin="00:48:04.833"
+        end="00:48:07.875"><span region="Default">Tentu saya seronok dengar lagu.</span></p>
+      <p
+        begin="00:48:30.000"
+        end="00:48:31.500"><span region="Default">Senjata yang pelik.</span></p>
+      <p
+        begin="00:48:32.833"
+        end="00:48:33.750"><span region="Default">Rosak.</span></p>
+      <p
+        begin="00:49:06.208"
+        end="00:49:07.291"><span region="Default">Raka.</span></p>
+      <p
+        begin="00:49:11.958"
+        end="00:49:12.916"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:49:19.250"
+        end="00:49:22.250"><span region="Default">Dia ikut sebab dia lapar.</span></p>
+      <p
+        begin="00:49:31.000"
+        end="00:49:32.500"><span region="Default">Tak boleh!</span></p>
+      <p
+        begin="00:49:34.500"
+        end="00:49:36.166"><span region="Default">Ini…</span></p>
+      <p
+        begin="00:49:38.083"
+        end="00:49:39.583"><span region="Default">penting.</span></p>
+      <p
+        begin="00:49:41.125"
+        end="00:49:43.291"><span region="Default">Dia sejuk.</span></p>
+      <p
+        begin="00:49:46.458"
+        end="00:49:48.041"><span region="Default">Tunjukkan belas kasihan.</span></p>
+      <p
+        begin="00:50:10.041"
+        end="00:50:12.416"><span region="Default">Dia lebih bijak daripada yang lain.</span></p>
+      <p
+        begin="00:50:18.208"
+        end="00:50:21.291"><span region="Default">Kita akan namakan dia Nova.</span></p>
+      <p
+        begin="00:50:23.458"
+        end="00:50:26.333"><span region="Default">Kita namakan mereka semua Nova.</span></p>
+      <p
+        begin="00:50:27.375"
+        end="00:50:30.375"><span region="Default">Saya tak tahu sebabnya.<br/>Ia dari zaman Caesar.</span></p>
+      <p
+        begin="00:50:31.333"
+        end="00:50:36.166"><span region="Default">Kenapa Caesar sangat ambil berat<br/>tentang Echo?</span></p>
+      <p
+        begin="00:50:36.708"
+        end="00:50:41.375"><span region="Default">Legenda mengatakan Caesar dibesarkan<br/>oleh manusia,</span></p>
+      <p
+        begin="00:50:42.916"
+        end="00:50:45.375"><span region="Default">walaupun itu mustahil.</span></p>
+      <p
+        begin="00:50:46.958"
+        end="00:50:49.083"><span region="Default">Legenda Caesar penting.</span></p>
+      <p
+        begin="00:50:51.083"
+        end="00:50:53.500"><span region="Default">Dia ialah ketua pertama.</span></p>
+      <p
+        begin="00:50:55.041"
+        end="00:50:57.916"><span region="Default">Dia memimpin dengan tatasusila,</span></p>
+      <p
+        begin="00:50:59.333"
+        end="00:51:00.625"><span region="Default">prinsip moral,</span></p>
+      <p
+        begin="00:51:02.375"
+        end="00:51:03.750"><span region="Default">kekuatan</span></p>
+      <p
+        begin="00:51:06.875"
+        end="00:51:08.250"><span region="Default">dan belas kasihan.</span></p>
+      <p
+        begin="00:51:13.125"
+        end="00:51:16.291"><span region="Default">Caesar tak pernah berkongsi kem</span></p>
+      <p
+        begin="00:51:16.875"
+        end="00:51:19.708"><span region="Default">dengan Nova ini.</span></p>
+      <p
+        begin="00:51:31.833"
+        end="00:51:33.875"><span region="Default">Baunya kuat.</span></p>
+      <p
+        begin="00:54:27.916"
+        end="00:54:32.625"><span region="Default">Lubang gelap?</span></p>
+      <p
+        begin="00:54:33.875"
+        end="00:54:35.791"><span region="Default">Dia nampak benda yang saya nampak.</span></p>
+      <p
+        begin="00:54:36.875"
+        end="00:54:38.458"><span region="Default">Ia ada di dalam matanya.</span></p>
+      <p
+        begin="00:54:38.625"
+        end="00:54:39.833"><span region="Default">Dia</span></p>
+      <p
+        begin="00:54:40.875"
+        end="00:54:42.166"><span region="Default">beri tindak balas.</span></p>
+      <p
+        begin="00:54:43.333"
+        end="00:54:44.333"><span region="Default">Bagaimana?</span></p>
+      <p
+        begin="00:54:47.875"
+        end="00:54:49.625"><span region="Default">Macam mawas beri tindak balas.</span></p>
+      <p
+        begin="00:54:57.375"
+        end="00:54:58.875"><span region="Default">Jika Echo datang, dia mesti ikut.</span></p>
+      <p
+        begin="00:55:00.000"
+        end="00:55:04.000"><span region="Default">Kawan muda saya menunjukkan belas kasihan<br/>kepada rakan pengembara kami?</span></p>
+      <p
+        begin="00:55:05.000"
+        end="00:55:06.208"><span region="Default">Dia lembap.</span></p>
+      <p
+        begin="00:55:23.916"
+        end="00:55:25.750"><span region="Default">Kuda.</span></p>
+      <p
+        begin="00:55:34.875"
+        end="00:55:38.250"><span region="Default">Kemudian, ada ungka.</span></p>
+      <p
+        begin="00:55:39.041"
+        end="00:55:40.833"><span region="Default">Tangannya sangat panjang.</span></p>
+      <p
+        begin="00:55:41.166"
+        end="00:55:47.291"><span region="Default">Malangnya manusia hanya boleh<br/>menggunakan kaki untuk berjalan.</span></p>
+      <p
+        begin="00:55:48.291"
+        end="00:55:50.750"><span region="Default">Bayangkan jika awak jatuh dari pokok.</span></p>
+      <p
+        begin="00:55:50.916"
+        end="00:55:53.458"><span region="Default">Awak cuma ada dua apendej<br/>untuk selamatkan nyawa.</span></p>
+      <p
+        begin="00:55:53.625"
+        end="00:55:56.916"><span region="Default">Tapi, jika awak boleh gunakan<br/>kedua-dua tangan</span></p>
+      <p
+        begin="00:55:57.083"
+        end="00:55:59.041"><span region="Default">dan kedua-dua kaki,</span></p>
+      <p
+        begin="00:55:59.208"
+        end="00:56:01.541"><span region="Default">itu empat kali lebih selamat.</span></p>
+      <p
+        begin="00:56:01.708"
+        end="00:56:06.583"><span region="Default">Saya membayangkan jika saya terjumpa…</span></p>
+      <p
+        begin="00:56:08.458"
+        end="00:56:10.958"><span region="Default">Itu apa?</span></p>
+      <p
+        begin="00:56:37.166"
+        end="00:56:39.875"><span region="Default">Kuda yang berbelang.</span></p>
+      <p
+        begin="00:56:42.125"
+        end="00:56:44.166"><span region="Default">Agak menarik.</span></p>
+      <p
+        begin="00:57:32.500"
+        end="00:57:36.750"><span region="Default">Kita sangka manusia dah tak wujud.</span></p>
+      <p
+        begin="00:58:00.500"
+        end="00:58:02.708"><span region="Default">Awak tak nak ucap selamat tinggal?</span></p>
+      <p
+        begin="00:58:05.083"
+        end="00:58:08.166"><span region="Default">Saya mesti cari puak saya.</span></p>
+      <p
+        begin="00:58:09.875"
+        end="00:58:12.583"><span region="Default">Nova tinggal bersama kaumnya.</span></p>
+      <p
+        begin="00:58:13.791"
+        end="00:58:15.416"><span region="Default">Awak besarkan mereka.</span></p>
+      <p
+        begin="00:58:16.916"
+        end="00:58:20.666"><span region="Default">Ikut cakap Caesar.</span></p>
+      <p
+        begin="00:58:30.583"
+        end="00:58:32.083"><span region="Default">Untuk mengingati…</span></p>
+      <p
+        begin="00:58:33.416"
+        end="00:58:35.250"><span region="Default">tentang dirinya.</span></p>
+      <p
+        begin="00:58:39.125"
+        end="00:58:41.125"><span region="Default">Ia penting.</span></p>
+      <p
+        begin="00:59:11.291"
+        end="00:59:12.750"><span region="Default">Mereka seperti awak.</span></p>
+      <p
+        begin="00:59:14.458"
+        end="00:59:16.416"><span region="Default">Awak nak bersama mereka?</span></p>
+      <p
+        begin="00:59:34.958"
+        end="00:59:36.958"><span region="Default">Dia ada perjalanannya.</span></p>
+      <p
+        begin="00:59:38.041"
+        end="00:59:39.916"><span region="Default">Kita ada perjalanan kita.</span></p>
+      <p
+        begin="00:59:40.541"
+        end="00:59:41.541"><span region="Default">Jom.</span></p>
+      <p
+        begin="01:00:30.041"
+        end="01:00:30.958"><span region="Default">Nova!</span></p>
+      <p
+        begin="01:00:31.916"
+        end="01:00:33.250"><span region="Default">Nova!</span></p>
+      <p
+        begin="01:00:59.916"
+        end="01:01:01.083"><span region="Default">Tangkap mereka!</span></p>
+      <p
+        begin="01:01:07.250"
+        end="01:01:08.666"><span region="Default">Kejar mereka!</span></p>
+      <p
+        begin="01:01:08.833"
+        end="01:01:10.708"><span region="Default">Tangkap yang itu!</span></p>
+      <p
+        begin="01:01:52.583"
+        end="01:01:53.583"><span region="Default">Yang ini?</span></p>
+      <p
+        begin="01:02:01.625"
+        end="01:02:02.625"><span region="Default">Di sana!</span></p>
+      <p
+        begin="01:02:24.541"
+        end="01:02:25.750"><span region="Default">Berpecah!</span></p>
+      <p
+        begin="01:02:26.083"
+        end="01:02:27.083"><span region="Default">Lightning.</span></p>
+      <p
+        begin="01:02:39.916"
+        end="01:02:40.916"><span region="Default">Arah sini.</span></p>
+      <p
+        begin="01:02:41.875"
+        end="01:02:42.875"><span region="Default">Cari dia!</span></p>
+      <p
+        begin="01:02:51.166"
+        end="01:02:53.875"><span region="Default">Aku tahu dia ada di sini!</span></p>
+      <p
+        begin="01:02:57.708"
+        end="01:02:59.041"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:03:00.958"
+        end="01:03:02.041"><span region="Default">Nova!</span></p>
+      <p
+        begin="01:03:03.833"
+        end="01:03:05.125"><span region="Default">Keluar!</span></p>
+      <p
+        begin="01:03:05.291"
+        end="01:03:07.000"><span region="Default">Aku boleh bau kau!</span></p>
+      <p
+        begin="01:03:09.208"
+        end="01:03:10.500"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:03:17.041"
+        end="01:03:18.000"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:04:08.708"
+        end="01:04:10.166"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:04:18.000"
+        end="01:04:19.083"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:04:21.333"
+        end="01:04:23.125"><span region="Default">Caesar akan maafkan.</span></p>
+      <p
+        begin="01:04:24.000"
+        end="01:04:25.583"><span region="Default">Jom kita teruskan.</span></p>
+      <p
+        begin="01:04:45.833"
+        end="01:04:49.250"><span region="Default">Kita akan ada masa.</span></p>
+      <p
+        begin="01:05:27.125"
+        end="01:05:29.500"><span region="Default">Apa yang saya terlepas?</span></p>
+      <p
+        begin="01:05:29.666"
+        end="01:05:31.125"><span region="Default">Dia boleh bercakap.</span></p>
+      <p
+        begin="01:05:34.000"
+        end="01:05:36.333"><span region="Default">Dia panggil nama saya.</span></p>
+      <p
+        begin="01:05:36.500"
+        end="01:05:38.833"><span region="Default">Awak salah dengar.</span></p>
+      <p
+        begin="01:05:39.000"
+        end="01:05:43.666"><span region="Default">Awak kata Nova ini lebih bijak<br/>daripada yang lain.</span></p>
+      <p
+        begin="01:05:43.833"
+        end="01:05:45.291"><span region="Default">Dengan sebab tertentu.</span></p>
+      <p
+        begin="01:05:46.458"
+        end="01:05:48.708"><span region="Default">Cerdik, yang pasti…</span></p>
+      <p
+        begin="01:05:48.875"
+        end="01:05:50.416"><span region="Default">Saya ada nama.</span></p>
+      <p
+        begin="01:05:52.333"
+        end="01:05:53.333"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:05:57.750"
+        end="01:05:59.958"><span region="Default">Saya tahu tempat mereka bawa puak awak.</span></p>
+      <p
+        begin="01:06:09.333"
+        end="01:06:10.916"><span region="Default">Sebuah penempatan manusia.</span></p>
+      <p
+        begin="01:06:12.583"
+        end="01:06:14.208"><span region="Default">Saya nak ke sana.</span></p>
+      <p
+        begin="01:06:14.833"
+        end="01:06:16.500"><span region="Default">Mencari orang macam saya.</span></p>
+      <p
+        begin="01:06:16.666"
+        end="01:06:18.125"><span region="Default">Ada ramai lagi</span></p>
+      <p
+        begin="01:06:19.041"
+        end="01:06:20.125"><span region="Default">macam awak?</span></p>
+      <p
+        begin="01:06:22.583"
+        end="01:06:24.416"><span region="Default">Dulu ramai.</span></p>
+      <p
+        begin="01:06:25.250"
+        end="01:06:28.291"><span region="Default">Awak sembunyikan kebenaran?</span></p>
+      <p
+        begin="01:06:28.458"
+        end="01:06:30.666"><span region="Default">Mak saya ajar saya diam,</span></p>
+      <p
+        begin="01:06:32.166"
+        end="01:06:33.791"><span region="Default">demi keselamatan saya.</span></p>
+      <p
+        begin="01:06:34.541"
+        end="01:06:37.541"><span region="Default">Awak selamat bersama kami.</span></p>
+      <p
+        begin="01:06:38.125"
+        end="01:06:40.833"><span region="Default">Masih lagi tak jujur?</span></p>
+      <p
+        begin="01:06:42.083"
+        end="01:06:44.541"><span region="Default">Di mana ibu awak sekarang?</span></p>
+      <p
+        begin="01:06:47.833"
+        end="01:06:49.791"><span region="Default">Saya sebatang kara.</span></p>
+      <p
+        begin="01:06:54.125"
+        end="01:06:56.333"><span region="Default">Seperti kami.</span></p>
+      <p
+        begin="01:06:57.541"
+        end="01:06:58.791"><span region="Default">Tapi, sekarang…</span></p>
+      <p
+        begin="01:07:00.583"
+        end="01:07:02.750"><span region="Default">kita ada satu sama lain.</span></p>
+      <p
+        begin="01:07:16.875"
+        end="01:07:18.875"><span region="Default">Jom buat unggun api.</span></p>
+      <p
+        begin="01:07:19.041"
+        end="01:07:21.458"><span region="Default">Banyak yang nak dibincangkan.</span></p>
+      <p
+        begin="01:10:48.666"
+        end="01:10:49.958"><span region="Default">Pergi belakang.</span></p>
+      <p
+        begin="01:10:50.750"
+        end="01:10:51.916"><span region="Default">Pergi belakang!</span></p>
+      <p
+        begin="01:10:58.416"
+        end="01:10:59.416"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:11:02.833"
+        end="01:11:04.041"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:09.500"
+        end="01:11:10.500"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:10.875"
+        end="01:11:11.708"><span region="Default">Tidak!</span></p>
+      <p
+        begin="01:11:26.916"
+        end="01:11:27.791"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:32.333"
+        end="01:11:33.333"><span region="Default">Pegang kuat-kuat!</span></p>
+      <p
+        begin="01:11:33.958"
+        end="01:11:35.541"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:50.791"
+        end="01:11:52.291"><span region="Default">Tidak! Raka!</span></p>
+      <p
+        begin="01:11:52.458"
+        end="01:11:53.458"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:12:07.625"
+        end="01:12:08.875"><span region="Default">Bersama-sama…</span></p>
+      <p
+        begin="01:12:10.041"
+        end="01:12:11.208"><span region="Default">kuat.</span></p>
+      <p
+        begin="01:14:08.958"
+        end="01:14:11.041"><span region="Default">Berundur! Manusia!</span></p>
+      <p
+        begin="01:14:33.750"
+        end="01:14:35.000"><span region="Default">Jangan!</span></p>
+      <p
+        begin="01:14:49.208"
+        end="01:14:51.875"><span region="Default">Selamat pulang, anak burung.</span></p>
+      <p
+        begin="01:15:02.416"
+        end="01:15:03.416"><span region="Default">Jalan!</span></p>
+      <p
+        begin="01:15:56.541"
+        end="01:15:57.750"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:16:01.250"
+        end="01:16:04.208"><span region="Default">Saya rindu awak. Soona.</span></p>
+      <p
+        begin="01:16:07.583"
+        end="01:16:08.583"><span region="Default">Tak.</span></p>
+      <p
+        begin="01:16:11.458"
+        end="01:16:13.416"><span region="Default">Awak dah mati.</span></p>
+      <p
+        begin="01:16:14.708"
+        end="01:16:17.041"><span region="Default">Saya nampak awak jatuh.</span></p>
+      <p
+        begin="01:16:17.208"
+        end="01:16:19.833"><span region="Default">Awak tak cedera?</span></p>
+      <p
+        begin="01:16:21.041"
+        end="01:16:22.000"><span region="Default">Tak.</span></p>
+      <p
+        begin="01:16:22.791"
+        end="01:16:23.708"><span region="Default">Tak.</span></p>
+      <p
+        begin="01:16:29.291"
+        end="01:16:30.916"><span region="Default">Mak?</span></p>
+      <p
+        begin="01:16:31.083"
+        end="01:16:32.083"><span region="Default">Anaya?</span></p>
+      <p
+        begin="01:17:23.625"
+        end="01:17:24.791"><span region="Default">Vonnegut.</span></p>
+      <p
+        begin="01:17:25.875"
+        end="01:17:27.333"><span region="Default">Buku itu bagus.</span></p>
+      <p
+        begin="01:17:28.291"
+        end="01:17:30.208"><span region="Default">Tak banyak cerita fiksyen.</span></p>
+      <p
+        begin="01:17:30.708"
+        end="01:17:33.833"><span region="Default">Dia berminat dengan sejarah.</span></p>
+      <p
+        begin="01:17:35.708"
+        end="01:17:37.833"><span region="Default">Terutamanya sejarah Rom.</span></p>
+      <p
+        begin="01:17:43.250"
+        end="01:17:44.833"><span region="Default">Nama saya Trevathan.</span></p>
+      <p
+        begin="01:17:50.250"
+        end="01:17:51.583"><span region="Default">Awak berasal dari mana?</span></p>
+      <p
+        begin="01:17:54.625"
+        end="01:17:55.875"><span region="Default">Awak dahulu.</span></p>
+      <p
+        begin="01:17:57.875"
+        end="01:18:01.625"><span region="Default">Sebenarnya, tak penting, bukan?</span></p>
+      <p
+        begin="01:18:01.791"
+        end="01:18:03.000"><span region="Default">Saya tinggalkan.</span></p>
+      <p
+        begin="01:18:04.541"
+        end="01:18:06.083"><span region="Default">Sama macam awak.</span></p>
+      <p
+        begin="01:18:06.250"
+        end="01:18:08.833"><span region="Default">Hampir sampai di pantai,</span></p>
+      <p
+        begin="01:18:09.000"
+        end="01:18:12.083"><span region="Default">kemudian saya terjatuh<br/>dan pergelangan kaki saya patah.</span></p>
+      <p
+        begin="01:18:12.250"
+        end="01:18:14.125"><span region="Default">Di situlah Proximus jumpa saya.</span></p>
+      <p
+        begin="01:18:15.958"
+        end="01:18:20.333"><span region="Default">Sekarang awak bacakan dia sejarah Rom.</span></p>
+      <p
+        begin="01:18:23.416"
+        end="01:18:25.500"><span region="Default">Jadi, awak siapa?</span></p>
+      <p
+        begin="01:18:26.750"
+        end="01:18:29.875"><span region="Default">Saya manusia yang tak menolong mawas.</span></p>
+      <p
+        begin="01:18:46.000"
+        end="01:18:47.458"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:18:49.666"
+        end="01:18:51.708"><span region="Default">Kongsi. Mesti berkongsi.</span></p>
+      <p
+        begin="01:18:51.875"
+        end="01:18:52.791"><span region="Default">Bagus.</span></p>
+      <p
+        begin="01:18:56.958"
+        end="01:18:57.791"><span region="Default">Noa?</span></p>
+      <p
+        begin="01:18:58.375"
+        end="01:18:59.625"><span region="Default">- Noa!<br/>- Kamu masih hidup!</span></p>
+      <p
+        begin="01:19:17.291"
+        end="01:19:18.541"><span region="Default">Ayah…</span></p>
+      <p
+        begin="01:19:19.541"
+        end="01:19:20.375"><span region="Default">Dia…</span></p>
+      <p
+        begin="01:19:20.541"
+        end="01:19:22.833"><span region="Default">Mak tahu.</span></p>
+      <p
+        begin="01:19:40.166"
+        end="01:19:42.000"><span region="Default">Kita mesti pergi.</span></p>
+      <p
+        begin="01:19:43.541"
+        end="01:19:44.791"><span region="Default">Jom.</span></p>
+      <p
+        begin="01:19:54.708"
+        end="01:19:56.208"><span region="Default">Caesar!</span></p>
+      <p
+        begin="01:20:03.250"
+        end="01:20:09.000"><span region="Default">Caesar!</span></p>
+      <p
+        begin="01:20:54.125"
+        end="01:20:55.875"><span region="Default">Hari yang indah!</span></p>
+      <p
+        begin="01:20:56.583"
+        end="01:20:58.583"><span region="Default">Hari yang indah!</span></p>
+      <p
+        begin="01:20:59.625"
+        end="01:21:03.458"><span region="Default">Adakah kita bersyukur<br/>kerana kata-kata Caesar?</span></p>
+      <p
+        begin="01:21:03.625"
+        end="01:21:05.500"><span region="Default">Kita bersyukur.</span></p>
+      <p
+        begin="01:21:05.666"
+        end="01:21:07.750"><span region="Default">Adakah kita tunduk hormat?</span></p>
+      <p
+        begin="01:21:07.916"
+        end="01:21:09.791"><span region="Default">Kita tunduk hormat!</span></p>
+      <p
+        begin="01:21:10.333"
+        end="01:21:12.125"><span region="Default">Ucapkan kata-katanya!</span></p>
+      <p
+        begin="01:21:12.291"
+        end="01:21:14.333"><span region="Default">Mawas kuat apabila bersatu.</span></p>
+      <p
+        begin="01:21:14.500"
+        end="01:21:16.166"><span region="Default">Ucapkan kata-katanya!</span></p>
+      <p
+        begin="01:21:16.333"
+        end="01:21:18.666"><span region="Default">Mawas kuat apabila bersatu.</span></p>
+      <p
+        begin="01:21:18.833"
+        end="01:21:21.541"><span region="Default">Hari yang indah!</span></p>
+      <p
+        begin="01:21:31.000"
+        end="01:21:32.541"><span region="Default">Rasa seronok.</span></p>
+      <p
+        begin="01:21:33.125"
+        end="01:21:36.000"><span region="Default">Apabila saya teringat perkataan itu,</span></p>
+      <p
+        begin="01:21:36.166"
+        end="01:21:39.083"><span region="Default">saya rasa seronok.</span></p>
+      <p
+        begin="01:21:41.541"
+        end="01:21:44.750"><span region="Default">Caesar ialah ketua pertama.</span></p>
+      <p
+        begin="01:21:44.916"
+        end="01:21:48.916"><span region="Default">Sekarang saya ialah Caesar.</span></p>
+      <p
+        begin="01:21:52.083"
+        end="01:21:54.166"><span region="Default">Dia bukan Caesar.</span></p>
+      <p
+        begin="01:21:54.916"
+        end="01:21:57.791"><span region="Default">Hati-hati, nak. Kita hambanya sekarang.</span></p>
+      <p
+        begin="01:22:02.291"
+        end="01:22:08.125"><span region="Default">Apabila saya teringat semua harta karun<br/>yang ditinggalkan di dalam itu untuk kita,</span></p>
+      <p
+        begin="01:22:10.000"
+        end="01:22:12.958"><span region="Default">saya rasa sangat seronok.</span></p>
+      <p
+        begin="01:22:15.541"
+        end="01:22:17.958"><span region="Default">Mungkin susah untuk dibuka.</span></p>
+      <p
+        begin="01:22:19.041"
+        end="01:22:20.541"><span region="Default">Tapi, tak mustahil</span></p>
+      <p
+        begin="01:22:20.708"
+        end="01:22:23.625"><span region="Default">sebab kita bekerjasama.</span></p>
+      <p
+        begin="01:22:24.666"
+        end="01:22:27.041"><span region="Default">Semuanya bersatu!</span></p>
+      <p
+        begin="01:22:27.208"
+        end="01:22:29.125"><span region="Default">Seperti yang Caesar mahukan.</span></p>
+      <p
+        begin="01:22:29.291"
+        end="01:22:32.250"><span region="Default">Seperti yang Caesar kehendaki.</span></p>
+      <p
+        begin="01:22:32.416"
+        end="01:22:35.083"><span region="Default">Mawas kuat apabila bersatu!</span></p>
+      <p
+        begin="01:22:35.958"
+        end="01:22:36.958"><span region="Default">Tarik!</span></p>
+      <p
+        begin="01:22:47.625"
+        end="01:22:49.458"><span region="Default">Tarik!</span></p>
+      <p
+        begin="01:22:50.500"
+        end="01:22:52.458"><span region="Default">Tarik! Lagi!</span></p>
+      <p
+        begin="01:22:58.708"
+        end="01:22:59.833"><span region="Default">Tengok ini.</span></p>
+      <p
+        begin="01:23:13.000"
+        end="01:23:14.666"><span region="Default">- Tarik!<br/>- Tarik!</span></p>
+      <p
+        begin="01:23:14.833"
+        end="01:23:16.875"><span region="Default">Tarik!</span></p>
+      <p
+        begin="01:23:21.833"
+        end="01:23:23.250"><span region="Default">Ya!</span></p>
+      <p
+        begin="01:23:23.791"
+        end="01:23:25.041"><span region="Default">Ya!</span></p>
+      <p
+        begin="01:23:30.625"
+        end="01:23:32.458"><span region="Default">Lagi!</span></p>
+      <p
+        begin="01:23:43.833"
+        end="01:23:45.250"><span region="Default">Cukup!</span></p>
+      <p
+        begin="01:23:50.708"
+        end="01:23:54.708"><span region="Default">Mungkin lebih kuat esok.</span></p>
+      <p
+        begin="01:24:14.250"
+        end="01:24:15.666"><span region="Default">Jangan risau.</span></p>
+      <p
+        begin="01:24:15.833"
+        end="01:24:18.166"><span region="Default">Sesiapa di dalam itu<br/>sama ada mati atau tiada.</span></p>
+      <p
+        begin="01:24:19.833"
+        end="01:24:22.750"><span region="Default">Dah berbulan kami cuba pecahkan pintu itu.</span></p>
+      <p
+        begin="01:24:25.833"
+        end="01:24:27.625"><span region="Default">Awak tak tahu kita di mana?</span></p>
+      <p
+        begin="01:24:28.250"
+        end="01:24:31.541"><span region="Default">Apabila keadaan jadi teruk<br/>dan kerajaan bergerak secara sulit,</span></p>
+      <p
+        begin="01:24:31.708"
+        end="01:24:33.583"><span region="Default">separuh daripadanya ke sini.</span></p>
+      <p
+        begin="01:24:33.750"
+        end="01:24:36.916"><span region="Default">Bersama semua teknologi dan senjata.</span></p>
+      <p
+        begin="01:24:39.333"
+        end="01:24:40.666"><span region="Default">Awak tak faham?</span></p>
+      <p
+        begin="01:24:41.583"
+        end="01:24:43.833"><span region="Default">Mawas itu tak boleh ambil…</span></p>
+      <p
+        begin="01:24:44.000"
+        end="01:24:47.125"><span region="Default">Awak kena berhenti fikir<br/>tentang keadaan dulu</span></p>
+      <p
+        begin="01:24:47.291"
+        end="01:24:49.583"><span region="Default">dan mula fikir tentang keadaan sekarang.</span></p>
+      <p
+        begin="01:24:50.208"
+        end="01:24:51.666"><span region="Default">Ini kehidupan yang baik</span></p>
+      <p
+        begin="01:24:51.833"
+        end="01:24:54.208"><span region="Default">dan awak berpeluang<br/>jadi sebahagian daripadanya.</span></p>
+      <p
+        begin="01:24:54.791"
+        end="01:24:57.166"><span region="Default">Membina dunia untuk mawas?</span></p>
+      <p
+        begin="01:24:57.333"
+        end="01:25:00.125"><span region="Default">Ini memang dunia mereka!</span></p>
+      <p
+        begin="01:25:08.250"
+        end="01:25:11.208"><span region="Default">Ada air panas dan pakaian baharu<br/>di bilik belakang itu.</span></p>
+      <p
+        begin="01:25:12.791"
+        end="01:25:15.541"><span region="Default">Awak akan berasa lega<br/>selepas bersihkan diri.</span></p>
+      <p
+        begin="01:25:17.125"
+        end="01:25:19.583"><span region="Default">Lebih baik awak fikir cara<br/>supaya berguna di sini.</span></p>
+      <p
+        begin="01:25:26.541"
+        end="01:25:27.791"><span region="Default">Ketua yang dihormati</span></p>
+      <p
+        begin="01:25:28.875"
+        end="01:25:29.875"><span region="Default">harus tunduk hormat.</span></p>
+      <p
+        begin="01:25:31.833"
+        end="01:25:34.041"><span region="Default">Kita tiada pilihan.</span></p>
+      <p
+        begin="01:25:35.875"
+        end="01:25:37.416"><span region="Default">Awak mesti terima.</span></p>
+      <p
+        begin="01:25:40.750"
+        end="01:25:41.916"><span region="Default">Itulah undang-undang.</span></p>
+      <p
+        begin="01:25:44.166"
+        end="01:25:49.166"><span region="Default">Ketua tak beritahu kita semuanya</span></p>
+      <p
+        begin="01:25:49.333"
+        end="01:25:51.375"><span region="Default">tentang dunia ini.</span></p>
+      <p
+        begin="01:25:52.291"
+        end="01:25:55.958"><span region="Default">Mereka tak beritahu kita<br/>sebab mereka tak tahu.</span></p>
+      <p
+        begin="01:25:57.250"
+        end="01:26:00.375"><span region="Default">Mereka tak nak tahu.</span></p>
+      <p
+        begin="01:26:06.833"
+        end="01:26:08.416"><span region="Default">Awak lain.</span></p>
+      <p
+        begin="01:26:12.333"
+        end="01:26:13.500"><span region="Default">Jom.</span></p>
+      <p
+        begin="01:26:28.625"
+        end="01:26:31.000"><span region="Default">Sebab itu ia digelar parti toga.</span></p>
+      <p
+        begin="01:26:34.291"
+        end="01:26:38.250"><span region="Default">Awak manusia yang kelakar, Trevathan.</span></p>
+      <p
+        begin="01:26:43.666"
+        end="01:26:44.875"><span region="Default">Hei, mari sini!</span></p>
+      <p
+        begin="01:26:45.500"
+        end="01:26:46.541"><span region="Default">Mari duduk.</span></p>
+      <p
+        begin="01:26:48.416"
+        end="01:26:49.416"><span region="Default">Silakan.</span></p>
+      <p
+        begin="01:26:51.916"
+        end="01:26:52.833"><span region="Default">Pergi.</span></p>
+      <p
+        begin="01:26:53.583"
+        end="01:26:54.625"><span region="Default">Pergi.</span></p>
+      <p
+        begin="01:27:05.333"
+        end="01:27:07.666"><span region="Default">Hari yang indah, bukan?</span></p>
+      <p
+        begin="01:27:11.333"
+        end="01:27:14.250"><span region="Default">Kamu berdua telah menempuh<br/>perjalanan yang jauh.</span></p>
+      <p
+        begin="01:27:16.250"
+        end="01:27:18.541"><span region="Default">Seekor mawas dan manusia</span></p>
+      <p
+        begin="01:27:18.708"
+        end="01:27:20.333"><span region="Default">mengembara bersama-sama,</span></p>
+      <p
+        begin="01:27:21.958"
+        end="01:27:23.375"><span region="Default">pengembaraan yang hebat.</span></p>
+      <p
+        begin="01:27:26.125"
+        end="01:27:27.583"><span region="Default">Awak Noa, bukan?</span></p>
+      <p
+        begin="01:27:28.291"
+        end="01:27:30.416"><span region="Default">Selamat datang, Noa.</span></p>
+      <p
+        begin="01:27:45.583"
+        end="01:27:46.416"><span region="Default">Pergi.</span></p>
+      <p
+        begin="01:27:53.958"
+        end="01:27:55.416"><span region="Default">Mae,</span></p>
+      <p
+        begin="01:27:55.583"
+        end="01:27:59.208"><span region="Default">awak biasa dengan konsep</span></p>
+      <p
+        begin="01:27:59.833"
+        end="01:28:01.625"><span region="Default">evolusi?</span></p>
+      <p
+        begin="01:28:01.791"
+        end="01:28:04.333"><span region="Default">Itulah istilah yang manusia guna, bukan?</span></p>
+      <p
+        begin="01:28:04.500"
+        end="01:28:08.958"><span region="Default">Kemajuan yang saya mahukan,<br/>memerlukan masa.</span></p>
+      <p
+        begin="01:28:09.125"
+        end="01:28:13.000"><span region="Default">Saya tiada banyak masa.</span></p>
+      <p
+        begin="01:28:14.333"
+        end="01:28:17.541"><span region="Default">Malangnya, saya ialah mawas yang fana.</span></p>
+      <p
+        begin="01:28:19.791"
+        end="01:28:24.791"><span region="Default">Sebab itulah saya perlu dapatkan<br/>pengetahuan di dalam bilik kebal itu.</span></p>
+      <p
+        begin="01:28:24.958"
+        end="01:28:26.250"><span region="Default">Saya percaya ia akan beri</span></p>
+      <p
+        begin="01:28:26.416"
+        end="01:28:29.666"><span region="Default">evolusi dengan serta-merta.</span></p>
+      <p
+        begin="01:28:31.833"
+        end="01:28:32.833"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:28:33.875"
+        end="01:28:35.208"><span region="Default">Awak tak faham.</span></p>
+      <p
+        begin="01:28:36.625"
+        end="01:28:38.041"><span region="Default">Pada zaman mereka,</span></p>
+      <p
+        begin="01:28:38.208"
+        end="01:28:43.833"><span region="Default">manusia mampu melakukan<br/>banyak perkara hebat, bukan?</span></p>
+      <p
+        begin="01:28:44.000"
+        end="01:28:46.250"><span region="Default">Mereka boleh meratakan gunung.</span></p>
+      <p
+        begin="01:28:48.041"
+        end="01:28:50.458"><span region="Default">Mereka boleh bercakap merentasi lautan.</span></p>
+      <p
+        begin="01:28:50.625"
+        end="01:28:53.208"><span region="Default">Mereka boleh terbang, Noa.</span></p>
+      <p
+        begin="01:28:53.750"
+        end="01:28:55.583"><span region="Default">Macam helang terbang.</span></p>
+      <p
+        begin="01:28:55.750"
+        end="01:28:58.833"><span region="Default">Tapi, sekarang kita akan belajar.</span></p>
+      <p
+        begin="01:28:59.000"
+        end="01:29:02.500"><span region="Default">Mawas akan belajar. Saya akan belajar</span></p>
+      <p
+        begin="01:29:02.666"
+        end="01:29:05.541"><span region="Default">daripada benda yang ada<br/>di dalam bilik kebal itu.</span></p>
+      <p
+        begin="01:29:06.875"
+        end="01:29:08.125"><span region="Default">Mustahil.</span></p>
+      <p
+        begin="01:29:09.791"
+        end="01:29:11.250"><span region="Default">Tiada sesiapa boleh masuk.</span></p>
+      <p
+        begin="01:29:16.875"
+        end="01:29:19.083"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:29:20.708"
+        end="01:29:26.583"><span region="Default">Mawas saya jumpa kawan-kawan awak.</span></p>
+      <p
+        begin="01:29:27.750"
+        end="01:29:31.125"><span region="Default">Saya percaya peta ini milik awak.</span></p>
+      <p
+        begin="01:29:31.750"
+        end="01:29:33.250"><span region="Default">Begini, Noa.</span></p>
+      <p
+        begin="01:29:33.791"
+        end="01:29:36.208"><span region="Default">Sebelum dia mengembara bersama awak</span></p>
+      <p
+        begin="01:29:36.375"
+        end="01:29:40.458"><span region="Default">dan orang utan tua itu,</span></p>
+      <p
+        begin="01:29:40.625"
+        end="01:29:43.875"><span region="Default">Mae bersama manusia lain.</span></p>
+      <p
+        begin="01:29:46.875"
+        end="01:29:48.166"><span region="Default">Tapi, sedihnya…</span></p>
+      <p
+        begin="01:29:50.000"
+        end="01:29:53.500"><span region="Default">mawas saya tak sedar akan nilai mereka,</span></p>
+      <p
+        begin="01:29:53.666"
+        end="01:29:57.291"><span region="Default">maka hanya mayat dibawakan kepada saya.</span></p>
+      <p
+        begin="01:29:58.166"
+        end="01:30:02.583"><span region="Default">Saya tak boleh bercakap dengan mereka<br/>sepertimana saya bercakap dengan awak.</span></p>
+      <p
+        begin="01:30:04.500"
+        end="01:30:05.500"><span region="Default">Saya tahu,</span></p>
+      <p
+        begin="01:30:06.625"
+        end="01:30:10.000"><span region="Default">awak datang ke sini<br/>untuk masuk ke bilik kebal saya.</span></p>
+      <p
+        begin="01:30:10.166"
+        end="01:30:11.791"><span region="Default">Ia bukan milik awak!</span></p>
+      <p
+        begin="01:30:13.583"
+        end="01:30:16.000"><span region="Default">Sekarang milik saya, bukan?</span></p>
+      <p
+        begin="01:30:17.000"
+        end="01:30:19.333"><span region="Default">Saya akan masuk.</span></p>
+      <p
+        begin="01:30:20.250"
+        end="01:30:24.541"><span region="Default">Tak kira jumlah mawas<br/>yang terpaksa dikorbankan.</span></p>
+      <p
+        begin="01:30:25.416"
+        end="01:30:26.416"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:30:28.666"
+        end="01:30:33.666"><span region="Default">Saya dengar awak mawas yang sangat bijak.</span></p>
+      <p
+        begin="01:30:34.625"
+        end="01:30:35.625"><span region="Default">Sangat bijak.</span></p>
+      <p
+        begin="01:30:35.791"
+        end="01:30:39.833"><span region="Default">Dia baiki salah satu<br/>senjata awak, Trevathan.</span></p>
+      <p
+        begin="01:30:42.750"
+        end="01:30:46.500"><span region="Default">Saya sangat memerlukan mawas yang bijak.</span></p>
+      <p
+        begin="01:30:46.666"
+        end="01:30:49.208"><span region="Default">Sekarang, beritahu saya…</span></p>
+      <p
+        begin="01:30:51.041"
+        end="01:30:55.083"><span region="Default">Ada Mae beritahu awak cara<br/>untuk masuk ke bilik kebal saya?</span></p>
+      <p
+        begin="01:31:00.458"
+        end="01:31:01.875"><span region="Default">Dia tak beritahu apa-apa.</span></p>
+      <p
+        begin="01:31:02.791"
+        end="01:31:04.458"><span region="Default">Tak beritahu apa-apa!</span></p>
+      <p
+        begin="01:31:04.625"
+        end="01:31:05.625"><span region="Default">Tak beritahu.</span></p>
+      <p
+        begin="01:31:09.416"
+        end="01:31:11.291"><span region="Default">Tak beritahu apa-apa.</span></p>
+      <p
+        begin="01:31:15.500"
+        end="01:31:16.541"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:31:17.541"
+        end="01:31:19.541"><span region="Default">Jom. Ikut saya.</span></p>
+      <p
+        begin="01:31:19.708"
+        end="01:31:20.875"><span region="Default">Jom!</span></p>
+      <p
+        begin="01:31:22.375"
+        end="01:31:23.958"><span region="Default">Saya nak tunjuk sesuatu.</span></p>
+      <p
+        begin="01:31:25.000"
+        end="01:31:26.958"><span region="Default">Jom.</span></p>
+      <p
+        begin="01:31:28.791"
+        end="01:31:29.916"><span region="Default">Mari, Noa.</span></p>
+      <p
+        begin="01:31:31.583"
+        end="01:31:33.666"><span region="Default">Beritahu saya, apa yang awak nampak?</span></p>
+      <p
+        begin="01:31:43.208"
+        end="01:31:45.416"><span region="Default">Puak yang dicuri.</span></p>
+      <p
+        begin="01:31:48.041"
+        end="01:31:49.458"><span region="Default">Bukan puak.</span></p>
+      <p
+        begin="01:31:51.333"
+        end="01:31:52.416"><span region="Default">Sebuah kerajaan.</span></p>
+      <p
+        begin="01:31:54.000"
+        end="01:31:57.708"><span region="Default">Noa, kerajaan untuk mawas.</span></p>
+      <p
+        begin="01:32:02.458"
+        end="01:32:05.666"><span region="Default">Manusia tak boleh dipercayai.</span></p>
+      <p
+        begin="01:32:06.375"
+        end="01:32:09.041"><span region="Default">Jika ada dua orang yang boleh bercakap,</span></p>
+      <p
+        begin="01:32:09.583"
+        end="01:32:11.041"><span region="Default">pasti ada ramai lagi.</span></p>
+      <p
+        begin="01:32:13.208"
+        end="01:32:18.916"><span region="Default">Mae datang ke sini untuk menuntut alat<br/>di dalam bilik kebal saya.</span></p>
+      <p
+        begin="01:32:19.083"
+        end="01:32:22.250"><span region="Default">Alat yang buat manusia kuat</span></p>
+      <p
+        begin="01:32:22.416"
+        end="01:32:24.500"><span region="Default">dan buat mereka jadi bahaya.</span></p>
+      <p
+        begin="01:32:27.041"
+        end="01:32:29.208"><span region="Default">Sebab itu saya mesti<br/>mendapatkannya dahulu.</span></p>
+      <p
+        begin="01:32:29.375"
+        end="01:32:30.583"><span region="Default">Faham?</span></p>
+      <p
+        begin="01:32:30.750"
+        end="01:32:35.791"><span region="Default">Mereka tak faham bahawa ini zaman kita.</span></p>
+      <p
+        begin="01:32:36.333"
+        end="01:32:38.458"><span region="Default">Ini kerajaan saya.</span></p>
+      <p
+        begin="01:32:41.791"
+        end="01:32:44.833"><span region="Default">Saya mesti hapuskan bangsa mereka.</span></p>
+      <p
+        begin="01:32:45.958"
+        end="01:32:49.416"><span region="Default">Melainkan kita nak hidup<br/>di dalam sangkar semula.</span></p>
+      <p
+        begin="01:32:56.375"
+        end="01:32:57.625"><span region="Default">Jom.</span></p>
+      <p
+        begin="01:32:57.791"
+        end="01:32:59.291"><span region="Default">Mari, Noa.</span></p>
+      <p
+        begin="01:32:59.458"
+        end="01:33:00.791"><span region="Default">Mari kita makan.</span></p>
+      <p
+        begin="01:33:02.791"
+        end="01:33:03.833"><span region="Default">Trevathan!</span></p>
+      <p
+        begin="01:33:04.375"
+        end="01:33:05.875"><span region="Default">Beritahu kami sebuah cerita.</span></p>
+      <p
+        begin="01:33:06.375"
+        end="01:33:08.083"><span region="Default">Cerita kelakar.</span></p>
+      <p
+        begin="01:33:31.083"
+        end="01:33:32.958"><span region="Default">Burung-burung itu takkan datang.</span></p>
+      <p
+        begin="01:33:36.750"
+        end="01:33:37.750"><span region="Default">Kenapa?</span></p>
+      <p
+        begin="01:33:39.666"
+        end="01:33:42.083"><span region="Default">Sebab Puak Helang…</span></p>
+      <p
+        begin="01:33:44.000"
+        end="01:33:45.083"><span region="Default">dah tak ada.</span></p>
+      <p
+        begin="01:33:48.375"
+        end="01:33:53.458"><span region="Default">Puak Helang ada di dalam ini.</span></p>
+      <p
+        begin="01:33:54.458"
+        end="01:33:57.000"><span region="Default">Kita yang ada di sini.</span></p>
+      <p
+        begin="01:33:59.500"
+        end="01:34:01.458"><span region="Default">Di tanah Proximus.</span></p>
+      <p
+        begin="01:34:03.208"
+        end="01:34:08.166"><span region="Default">Proximus tak memerlukan helang.</span></p>
+      <p
+        begin="01:34:42.583"
+        end="01:34:46.416"><span region="Default">Kau datang nak menghakimi aku?</span></p>
+      <p
+        begin="01:34:51.833"
+        end="01:34:53.666"><span region="Default">Aku menghakimi diri sendiri.</span></p>
+      <p
+        begin="01:34:55.458"
+        end="01:34:59.250"><span region="Default">Aku dah berjanji dengan ayah kita,</span></p>
+      <p
+        begin="01:34:59.416"
+        end="01:35:01.000"><span region="Default">aku akan bawa mereka pulang.</span></p>
+      <p
+        begin="01:35:05.416"
+        end="01:35:06.666"><span region="Default">Aku gagal.</span></p>
+      <p
+        begin="01:35:08.916"
+        end="01:35:11.375"><span region="Default">Puak Helang jadi milik</span></p>
+      <p
+        begin="01:35:11.541"
+        end="01:35:15.583"><span region="Default">Proximus Caesar sekarang.</span></p>
+      <p
+        begin="01:35:19.250"
+        end="01:35:21.833"><span region="Default">Itulah undang-undangnya.</span></p>
+      <p
+        begin="01:35:37.250"
+        end="01:35:41.958"><span region="Default">Tapi, undang-undang salah.</span></p>
+      <p
+        begin="01:36:29.750"
+        end="01:36:32.458"><span region="Default">Masa untuk kelas malam.</span></p>
+      <p
+        begin="01:36:32.625"
+        end="01:36:35.541"><span region="Default">Bagus kalau awak datang.</span></p>
+      <p
+        begin="01:37:14.541"
+        end="01:37:17.208"><span region="Default">Awak datang bukan sebab Echo.</span></p>
+      <p
+        begin="01:37:18.875"
+        end="01:37:21.791"><span region="Default">Awak bukan sebatang kara.</span></p>
+      <p
+        begin="01:37:23.083"
+        end="01:37:24.166"><span region="Default">Saya minta maaf.</span></p>
+      <p
+        begin="01:37:26.750"
+        end="01:37:29.166"><span region="Default">Mawas-mawas Proximus jumpa kem kami.</span></p>
+      <p
+        begin="01:37:31.833"
+        end="01:37:33.375"><span region="Default">Mereka bunuh semua orang.</span></p>
+      <p
+        begin="01:37:34.750"
+        end="01:37:36.708"><span region="Default">Saya hampir ditangkap.</span></p>
+      <p
+        begin="01:37:37.625"
+        end="01:37:39.416"><span region="Default">Saya perlukan bantuan awak.</span></p>
+      <p
+        begin="01:37:40.208"
+        end="01:37:43.041"><span region="Default">- Saya takut.<br/>- Semakin banyak awak bercakap,</span></p>
+      <p
+        begin="01:37:43.208"
+        end="01:37:45.208"><span region="Default">semakin saya tak percaya.</span></p>
+      <p
+        begin="01:37:45.375"
+        end="01:37:47.291"><span region="Default">Saya silap sebab tak mempercayai awak.</span></p>
+      <p
+        begin="01:37:47.458"
+        end="01:37:48.458"><span region="Default">Saya dah sedar.</span></p>
+      <p
+        begin="01:37:48.625"
+        end="01:37:51.750"><span region="Default">Saya percaya awak sebab nak tolong awak.</span></p>
+      <p
+        begin="01:37:54.125"
+        end="01:37:56.583"><span region="Default">Tapi, itu boleh tolong saya sekarang.</span></p>
+      <p
+        begin="01:38:00.916"
+        end="01:38:02.375"><span region="Default">Saya ada soalan.</span></p>
+      <p
+        begin="01:38:03.750"
+        end="01:38:05.291"><span region="Default">Jika awak jawab dengan jujur,</span></p>
+      <p
+        begin="01:38:06.125"
+        end="01:38:07.500"><span region="Default">mungkin saya tolong.</span></p>
+      <p
+        begin="01:38:10.625"
+        end="01:38:13.041"><span region="Default">Apa yang awak perlukan<br/>di dalam bilik kebal?</span></p>
+      <p
+        begin="01:38:15.458"
+        end="01:38:16.458"><span region="Default">Ia…</span></p>
+      <p
+        begin="01:38:17.375"
+        end="01:38:18.583"><span region="Default">macam sebuah buku.</span></p>
+      <p
+        begin="01:38:19.708"
+        end="01:38:21.125"><span region="Default">- Buku istimewa.<br/>- Istimewa</span></p>
+      <p
+        begin="01:38:22.625"
+        end="01:38:23.500"><span region="Default">yang bagaimana?</span></p>
+      <p
+        begin="01:38:25.000"
+        end="01:38:27.750"><span region="Default">Manusia hilang keupayaan untuk bercakap.</span></p>
+      <p
+        begin="01:38:27.916"
+        end="01:38:29.666"><span region="Default">Buku ini mungkin boleh pulihkan.</span></p>
+      <p
+        begin="01:38:31.333"
+        end="01:38:33.125"><span region="Default">Sebuah buku boleh buat begini?</span></p>
+      <p
+        begin="01:38:33.958"
+        end="01:38:35.208"><span region="Default">Buku ini boleh.</span></p>
+      <p
+        begin="01:38:42.625"
+        end="01:38:47.208"><span region="Default">Raka kata mawas dan manusia…</span></p>
+      <p
+        begin="01:38:48.541"
+        end="01:38:50.166"><span region="Default">hidup bersama.</span></p>
+      <p
+        begin="01:38:52.791"
+        end="01:38:54.125"><span region="Default">Betul atau tak?</span></p>
+      <p
+        begin="01:38:57.250"
+        end="01:38:58.416"><span region="Default">Dulu mawas bisu.</span></p>
+      <p
+        begin="01:39:00.166"
+        end="01:39:01.375"><span region="Default">Macam Echo.</span></p>
+      <p
+        begin="01:39:03.041"
+        end="01:39:04.625"><span region="Default">Manusia paling berpengaruh.</span></p>
+      <p
+        begin="01:39:06.125"
+        end="01:39:07.500"><span region="Default">Virus yang kami cipta itu</span></p>
+      <p
+        begin="01:39:08.750"
+        end="01:39:10.208"><span region="Default">merebak.</span></p>
+      <p
+        begin="01:39:11.250"
+        end="01:39:12.875"><span region="Default">Ia buat mawas jadi lebih bijak.</span></p>
+      <p
+        begin="01:39:14.250"
+        end="01:39:16.250"><span region="Default">Mawas hampir membunuh kami semua.</span></p>
+      <p
+        begin="01:39:23.125"
+        end="01:39:25.833"><span region="Default">Awak tahu jalan masuk?</span></p>
+      <p
+        begin="01:39:27.500"
+        end="01:39:28.500"><span region="Default">Tahu.</span></p>
+      <p
+        begin="01:39:30.083"
+        end="01:39:31.875"><span region="Default">Soalan terakhir.</span></p>
+      <p
+        begin="01:39:35.041"
+        end="01:39:39.291"><span region="Default">Adakah air akan memusnahkan apa<br/>yang ada di dalamnya?</span></p>
+      <p
+        begin="01:39:59.750"
+        end="01:40:00.750"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:40:02.208"
+        end="01:40:06.000"><span region="Default">Saya perlukan pertolongan kamu.</span></p>
+      <p
+        begin="01:40:07.750"
+        end="01:40:09.583"><span region="Default">Pertolongan apa?</span></p>
+      <p
+        begin="01:40:13.541"
+        end="01:40:15.791"><span region="Default">Memanjat.</span></p>
+      <p
+        begin="01:40:15.958"
+        end="01:40:19.458"><span region="Default">Saya tak boleh buat seorang diri.</span></p>
+      <p
+        begin="01:40:19.625"
+        end="01:40:20.625"><span region="Default">Kenapa?</span></p>
+      <p
+        begin="01:40:21.958"
+        end="01:40:24.708"><span region="Default">Untuk bebaskan puak kita.</span></p>
+      <p
+        begin="01:40:47.208"
+        end="01:40:49.541"><span region="Default">Anaya takut.</span></p>
+      <p
+        begin="01:41:24.916"
+        end="01:41:27.208"><span region="Default">Soona, ini Mae.</span></p>
+      <p
+        begin="01:41:29.625"
+        end="01:41:30.750"><span region="Default">Helo, Soona.</span></p>
+      <p
+        begin="01:41:35.250"
+        end="01:41:36.583"><span region="Default">Apa kita nak buat?</span></p>
+      <p
+        begin="01:41:38.666"
+        end="01:41:40.166"><span region="Default">Kita perlukan semua ini.</span></p>
+      <p
+        begin="01:41:41.166"
+        end="01:41:42.333"><span region="Default">Ikut saya.</span></p>
+      <p
+        begin="01:41:56.041"
+        end="01:41:57.208"><span region="Default">Hati-hati.</span></p>
+      <p
+        begin="01:42:00.166"
+        end="01:42:04.041"><span region="Default">Tenaga mengalir, bukan?</span></p>
+      <p
+        begin="01:42:06.375"
+        end="01:42:07.375"><span region="Default">Ya.</span></p>
+      <p
+        begin="01:42:23.791"
+        end="01:42:27.375"><span region="Default">Awak tak boleh buat<br/>pendakian yang mencabar…</span></p>
+      <p
+        begin="01:42:30.250"
+        end="01:42:31.750"><span region="Default">tanpa Anaya.</span></p>
+      <p
+        begin="01:42:45.791"
+        end="01:42:46.958"><span region="Default">Helo, Echo.</span></p>
+      <p
+        begin="01:43:04.208"
+        end="01:43:05.291"><span region="Default">Ini akan terbakar.</span></p>
+      <p
+        begin="01:43:05.833"
+        end="01:43:07.333"><span region="Default">Tapi, di bawah tekanan…</span></p>
+      <p
+        begin="01:43:08.750"
+        end="01:43:10.791"><span region="Default">ia akan meletup.</span></p>
+      <p
+        begin="01:43:12.208"
+        end="01:43:14.125"><span region="Default">Bagaimana awak tahu?</span></p>
+      <p
+        begin="01:43:20.625"
+        end="01:43:21.833"><span region="Default">Celaka!</span></p>
+      <p
+        begin="01:43:27.166"
+        end="01:43:28.083"><span region="Default">"Celaka"?</span></p>
+      <p
+        begin="01:43:29.375"
+        end="01:43:31.500"><span region="Default">- Letak di situ.<br/>- Okey.</span></p>
+      <p
+        begin="01:43:31.666"
+        end="01:43:33.583"><span region="Default">Saya pergi dengan Anaya.</span></p>
+      <p
+        begin="01:43:34.166"
+        end="01:43:35.750"><span region="Default">Lebih selamat begitu.</span></p>
+      <p
+        begin="01:43:37.125"
+        end="01:43:40.166"><span region="Default">Anaya! Berhenti.</span></p>
+      <p
+        begin="01:43:40.708"
+        end="01:43:41.916"><span region="Default">Awak salah buat.</span></p>
+      <p
+        begin="01:43:42.083"
+        end="01:43:42.916"><span region="Default">Okey.</span></p>
+      <p
+        begin="01:43:43.083"
+        end="01:43:44.208"><span region="Default">Awak suka dia.</span></p>
+      <p
+        begin="01:43:46.875"
+        end="01:43:47.708"><span region="Default">Soona.</span></p>
+      <p
+        begin="01:43:49.833"
+        end="01:43:51.750"><span region="Default">Tempoh lahir kami tak jauh.</span></p>
+      <p
+        begin="01:43:55.458"
+        end="01:43:56.625"><span region="Default">Tidak. Anaya…</span></p>
+      <p
+        begin="01:43:56.791"
+        end="01:43:58.541"><span region="Default">Dia akan bina semula.</span></p>
+      <p
+        begin="01:44:10.250"
+        end="01:44:11.250"><span region="Default">Awak…</span></p>
+      <p
+        begin="01:44:13.916"
+        end="01:44:15.541"><span region="Default">Awak ada peluang.</span></p>
+      <p
+        begin="01:44:16.083"
+        end="01:44:18.375"><span region="Default">Saya beri awak peluang.</span></p>
+      <p
+        begin="01:44:18.958"
+        end="01:44:23.583"><span region="Default">Tapi, awak berfantasi tentang masa lalu<br/>yang takkan kembali.</span></p>
+      <p
+        begin="01:44:30.125"
+        end="01:44:31.500"><span region="Default">Dengar sini.</span></p>
+      <p
+        begin="01:44:32.958"
+        end="01:44:37.375"><span region="Default">Trevathan, tempat awak bukan di sini.</span></p>
+      <p
+        begin="01:44:38.875"
+        end="01:44:41.041"><span region="Default">Awak fikir ia dah berakhir,</span></p>
+      <p
+        begin="01:44:41.208"
+        end="01:44:42.458"><span region="Default">tapi tak.</span></p>
+      <p
+        begin="01:44:43.875"
+        end="01:44:47.875"><span region="Default">Tiada sesiapa akan salahkan awak<br/>tentang perkara yang berlaku di sini.</span></p>
+      <p
+        begin="01:44:49.666"
+        end="01:44:52.750"><span region="Default">Cuma ikutlah kami.</span></p>
+      <p
+        begin="01:44:55.541"
+        end="01:44:56.541"><span region="Default">Tolonglah.</span></p>
+      <p
+        begin="01:45:04.166"
+        end="01:45:06.583"><span region="Default">Dia akan siat monyet awak hidup-hidup.</span></p>
+      <p
+        begin="01:45:11.125"
+        end="01:45:12.125"><span region="Default">Awak…</span></p>
+      <p
+        begin="01:45:13.291"
+        end="01:45:14.291"><span region="Default">Baiklah…</span></p>
+      <p
+        begin="01:45:16.375"
+        end="01:45:18.208"><span region="Default">awak akan faham.</span></p>
+      <p
+        begin="01:45:26.166"
+        end="01:45:27.166"><span region="Default">Tidak!</span></p>
+      <p
+        begin="01:45:27.375"
+        end="01:45:28.458"><span region="Default">Tolonglah!</span></p>
+      <p
+        begin="01:46:29.458"
+        end="01:46:30.791"><span region="Default">Kita kena pergi.</span></p>
+      <p
+        begin="01:46:30.958"
+        end="01:46:32.208"><span region="Default">Nanti hari siang.</span></p>
+      <p
+        begin="01:46:52.458"
+        end="01:46:55.041"><span region="Default">Awak kata kena memanjat!</span></p>
+      <p
+        begin="01:47:09.375"
+        end="01:47:10.416"><span region="Default">Mae, tunggu!</span></p>
+      <p
+        begin="01:47:17.916"
+        end="01:47:19.250"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:47:23.375"
+        end="01:47:24.375"><span region="Default">Di sana!</span></p>
+      <p
+        begin="01:47:25.333"
+        end="01:47:27.166"><span region="Default">Kita kena naik atas sana.</span></p>
+      <p
+        begin="01:47:29.041"
+        end="01:47:30.791"><span region="Default">Sekarang kena panjat?</span></p>
+      <p
+        begin="01:47:52.000"
+        end="01:47:53.333"><span region="Default">Sarang Teratas lagi susah.</span></p>
+      <p
+        begin="01:47:54.958"
+        end="01:47:56.125"><span region="Default">Teruskan memanjat.</span></p>
+      <p
+        begin="01:48:19.833"
+        end="01:48:20.833"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:48:33.833"
+        end="01:48:34.833"><span region="Default">Celaka?</span></p>
+      <p
+        begin="01:49:40.750"
+        end="01:49:41.916"><span region="Default">Tunggu. Hati-hati.</span></p>
+      <p
+        begin="01:49:48.916"
+        end="01:49:50.041"><span region="Default">Anaya!</span></p>
+      <p
+        begin="01:50:19.333"
+        end="01:50:23.041"><span region="Default">Noa, ini tempat apa?</span></p>
+      <p
+        begin="01:50:25.583"
+        end="01:50:26.666"><span region="Default">Ia berbau.</span></p>
+      <p
+        begin="01:50:27.375"
+        end="01:50:30.375"><span region="Default">BAHAYA</span></p>
+      <p
+        begin="01:50:36.083"
+        end="01:50:37.416"><span region="Default">Apa itu? Noa!</span></p>
+      <p
+        begin="01:50:38.416"
+        end="01:50:39.916"><span region="Default">Noa! Apa yang berlaku?</span></p>
+      <p
+        begin="01:51:15.208"
+        end="01:51:17.250"><span region="Default">Echo bina semua ini?</span></p>
+      <p
+        begin="01:51:26.708"
+        end="01:51:29.666"><span region="Default">DIREKTORI TEMPAT</span></p>
+      <p
+        begin="01:51:34.083"
+        end="01:51:36.875"><span region="Default">GEGELUNG HOS &amp;amp; PILI BOMBA</span></p>
+      <p
+        begin="01:51:41.208"
+        end="01:51:42.250"><span region="Default">Tunggu di sini.</span></p>
+      <p
+        begin="01:52:35.333"
+        end="01:52:36.458"><span region="Default">Mak!</span></p>
+      <p
+        begin="01:53:00.041"
+        end="01:53:01.333"><span region="Default">KOTAK ARKIB</span></p>
+      <p
+        begin="01:53:22.375"
+        end="01:53:26.208"><span region="Default">KUNCI SATCOM</span></p>
+      <p
+        begin="01:53:37.708"
+        end="01:53:40.166"><span region="Default">BUKU PERTAMA SAYA TENTANG BIOLOGI</span></p>
+      <p
+        begin="01:53:50.208"
+        end="01:53:53.416"><span region="Default">Simbol-simbol mempunyai makna.</span></p>
+      <p
+        begin="01:54:14.083"
+        end="01:54:18.125"><span region="Default">"Terlalu banyak bunyi datang<br/>dari jeriji monyet itu."</span></p>
+      <p
+        begin="01:54:24.208"
+        end="01:54:27.416"><span region="Default">"Jack dapat lihat dari dekat.<br/>Katanya dia paling suka monyet."</span></p>
+      <p
+        begin="01:54:46.833"
+        end="01:54:48.250"><span region="Default">Jom keluar.</span></p>
+      <p
+        begin="01:55:12.958"
+        end="01:55:16.333"><span region="Default">Apa semua ini?</span></p>
+      <p
+        begin="01:55:17.625"
+        end="01:55:18.458"><span region="Default">Jom!</span></p>
+      <p
+        begin="01:55:57.583"
+        end="01:55:59.041"><span region="Default">Kita kena bergerak pantas.</span></p>
+      <p
+        begin="01:55:59.708"
+        end="01:56:00.875"><span region="Default">Pergi kepada puak awak</span></p>
+      <p
+        begin="01:56:01.375"
+        end="01:56:02.916"><span region="Default">dan saya akan letupkan.</span></p>
+      <p
+        begin="01:56:58.166"
+        end="01:57:03.291"><span region="Default">Noa, kau mawas yang amat berguna.</span></p>
+      <p
+        begin="01:57:04.583"
+        end="01:57:08.583"><span region="Default">Kau faham banyak perkara.</span></p>
+      <p
+        begin="01:57:08.750"
+        end="01:57:11.333"><span region="Default">Namun, kau gagal memerhati</span></p>
+      <p
+        begin="01:57:11.500"
+        end="01:57:14.666"><span region="Default">satu perkara yang paling penting.</span></p>
+      <p
+        begin="01:57:16.458"
+        end="01:57:19.375"><span region="Default">Kau tak boleh percaya manusia!</span></p>
+      <p
+        begin="01:57:21.000"
+        end="01:57:24.708"><span region="Default">Puak kau datang untuk jadi saksi.</span></p>
+      <p
+        begin="01:57:27.958"
+        end="01:57:30.250"><span region="Default">Kau mungkin cukup bodoh</span></p>
+      <p
+        begin="01:57:30.416"
+        end="01:57:34.625"><span region="Default">untuk menaruh kepercayaan<br/>terhadap makhluk penipu itu.</span></p>
+      <p
+        begin="01:57:37.208"
+        end="01:57:38.375"><span region="Default">Tapi, aku tak bodoh.</span></p>
+      <p
+        begin="01:57:46.500"
+        end="01:57:47.708"><span region="Default">Beritahu aku, Noa…</span></p>
+      <p
+        begin="01:57:48.500"
+        end="01:57:50.416"><span region="Default">secara terus-terang.</span></p>
+      <p
+        begin="01:57:52.208"
+        end="01:57:56.833"><span region="Default">Apa yang Mae rancang<br/>untuk aku di dalam bilik kebal aku?</span></p>
+      <p
+        begin="01:57:59.500"
+        end="01:58:00.416"><span region="Default">Baiklah.</span></p>
+      <p
+        begin="01:58:01.000"
+        end="01:58:03.833"><span region="Default">Jadi, apa yang kau pilih?</span></p>
+      <p
+        begin="01:58:04.250"
+        end="01:58:07.375"><span region="Default">Manusia dan bukan mawas?</span></p>
+      <p
+        begin="01:58:08.416"
+        end="01:58:11.875"><span region="Default">Soona kesayangan kau…</span></p>
+      <p
+        begin="01:58:13.666"
+        end="01:58:16.125"><span region="Default">atau manusia busuk itu?</span></p>
+      <p
+        begin="01:58:17.250"
+        end="01:58:18.458"><span region="Default">Beritahu aku rancangan kau!</span></p>
+      <p
+        begin="01:58:20.708"
+        end="01:58:21.833"><span region="Default">Tidak!</span></p>
+      <p
+        begin="01:58:58.583"
+        end="01:58:59.916"><span region="Default">Baiklah.</span></p>
+      <p
+        begin="01:59:02.041"
+        end="01:59:04.583"><span region="Default">Kau boleh pergi, Mae.</span></p>
+      <p
+        begin="01:59:06.125"
+        end="01:59:07.208"><span region="Default">Kau boleh pergi.</span></p>
+      <p
+        begin="01:59:07.666"
+        end="01:59:09.958"><span region="Default">Kau bebas. Cuma beritahu aku,</span></p>
+      <p
+        begin="01:59:10.916"
+        end="01:59:15.625"><span region="Default">ada lagi yang lain di dalam sana?</span></p>
+      <p
+        begin="01:59:22.083"
+        end="01:59:23.208"><span region="Default">Mae?</span></p>
+      <p
+        begin="01:59:24.458"
+        end="01:59:25.500"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:59:27.333"
+        end="01:59:28.250"><span region="Default">Jangan.</span></p>
+      <p
+        begin="01:59:29.750"
+        end="01:59:31.625"><span region="Default">Kita tak boleh.</span></p>
+      <p
+        begin="01:59:32.958"
+        end="01:59:34.083"><span region="Default">Dia tak boleh ambil.</span></p>
+      <p
+        begin="01:59:34.458"
+        end="01:59:35.708"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:59:37.416"
+        end="01:59:38.708"><span region="Default">- Maafkan saya.<br/>- Mae!</span></p>
+      <p
+        begin="01:59:40.000"
+        end="01:59:41.041"><span region="Default">Tidak!</span></p>
+      <p
+        begin="01:59:42.666"
+        end="01:59:43.916"><span region="Default">Mae, jangan!</span></p>
+      <p
+        begin="01:59:46.125"
+        end="01:59:47.333"><span region="Default">Mae!</span></p>
+      <p
+        begin="02:00:11.750"
+        end="02:00:13.166"><span region="Default">Apa yang kau dah buat?</span></p>
+      <p
+        begin="02:00:19.916"
+        end="02:00:21.208"><span region="Default">Panjat!</span></p>
+      <p
+        begin="02:00:21.375"
+        end="02:00:22.375"><span region="Default">Panjat!</span></p>
+      <p
+        begin="02:00:23.333"
+        end="02:00:24.625"><span region="Default">- Panjat!<br/>- Tidak.</span></p>
+      <p
+        begin="02:00:30.208"
+        end="02:00:31.208"><span region="Default">Tidak!</span></p>
+      <p
+        begin="02:01:14.833"
+        end="02:01:16.541"><span region="Default">Noa!</span></p>
+      <p
+        begin="02:01:16.708"
+        end="02:01:18.708"><span region="Default">- Soona!<br/>- Di belakang awak!</span></p>
+      <p
+        begin="02:01:19.166"
+        end="02:01:20.958"><span region="Default">Panjat!</span></p>
+      <p
+        begin="02:01:22.375"
+        end="02:01:24.000"><span region="Default">Anak!</span></p>
+      <p
+        begin="02:01:24.166"
+        end="02:01:25.333"><span region="Default">- Mak!<br/>- Anak!</span></p>
+      <p
+        begin="02:01:25.791"
+        end="02:01:27.500"><span region="Default">Mak!</span></p>
+      <p
+        begin="02:01:27.750"
+        end="02:01:28.750"><span region="Default">Mak!</span></p>
+      <p
+        begin="02:01:30.541"
+        end="02:01:31.416"><span region="Default">Dar!</span></p>
+      <p
+        begin="02:01:31.583"
+        end="02:01:33.083"><span region="Default">Capai dia!</span></p>
+      <p
+        begin="02:01:33.375"
+        end="02:01:35.500"><span region="Default">Dar! Capai tangan saya!</span></p>
+      <p
+        begin="02:01:35.666"
+        end="02:01:38.500"><span region="Default">- Mak!<br/>- Dar!</span></p>
+      <p
+        begin="02:01:41.791"
+        end="02:01:42.708"><span region="Default">Dar!</span></p>
+      <p
+        begin="02:01:46.458"
+        end="02:01:47.791"><span region="Default">Dar, kau selamat.</span></p>
+      <p
+        begin="02:01:48.916"
+        end="02:01:50.541"><span region="Default">Noa, apa kita nak buat?</span></p>
+      <p
+        begin="02:01:52.541"
+        end="02:01:54.416"><span region="Default">Ikut sini! Gerak!</span></p>
+      <p
+        begin="02:02:02.000"
+        end="02:02:05.083"><span region="Default">Puak Helang! Panjat!</span></p>
+      <p
+        begin="02:02:05.250"
+        end="02:02:07.500"><span region="Default">Ikut Soona! Ikut Anaya!</span></p>
+      <p
+        begin="02:02:07.666"
+        end="02:02:09.791"><span region="Default">- Ikut sini! Panjat!<br/>- Lekas!</span></p>
+      <p
+        begin="02:02:10.250"
+        end="02:02:11.250"><span region="Default">Panjat!</span></p>
+      <p
+        begin="02:02:19.333"
+        end="02:02:20.416"><span region="Default">Ikut sini!</span></p>
+      <p
+        begin="02:02:22.166"
+        end="02:02:23.291"><span region="Default">Lekas!</span></p>
+      <p
+        begin="02:02:25.000"
+        end="02:02:26.041"><span region="Default">Ikut Soona!</span></p>
+      <p
+        begin="02:02:26.500"
+        end="02:02:28.416"><span region="Default">- Lekas!<br/>- Gerak!</span></p>
+      <p
+        begin="02:02:33.166"
+        end="02:02:34.000"><span region="Default">Jom!</span></p>
+      <p
+        begin="02:02:34.166"
+        end="02:02:35.208"><span region="Default">Pergi!</span></p>
+      <p
+        begin="02:02:35.375"
+        end="02:02:36.458"><span region="Default">Panjat, Soona!</span></p>
+      <p
+        begin="02:02:36.625"
+        end="02:02:38.166"><span region="Default">Ini jalan keluar!</span></p>
+      <p
+        begin="02:02:38.666"
+        end="02:02:39.833"><span region="Default">Lekas!</span></p>
+      <p
+        begin="02:02:40.208"
+        end="02:02:41.208"><span region="Default">- Panjat!<br/>- Noa!</span></p>
+      <p
+        begin="02:02:41.375"
+        end="02:02:42.500"><span region="Default">Mak, lekas!</span></p>
+      <p
+        begin="02:02:42.666"
+        end="02:02:44.166"><span region="Default">- Noa!<br/>- Panjat, Anaya!</span></p>
+      <p
+        begin="02:02:44.333"
+        end="02:02:45.625"><span region="Default">- Soona, pergi!<br/>- Ketuai mereka!</span></p>
+      <p
+        begin="02:02:45.791"
+        end="02:02:47.250"><span region="Default">Gerak! Panjat!</span></p>
+      <p
+        begin="02:02:47.416"
+        end="02:02:48.375"><span region="Default">Pergi!</span></p>
+      <p
+        begin="02:02:48.541"
+        end="02:02:50.041"><span region="Default">Pergi, lekas!</span></p>
+      <p
+        begin="02:05:34.666"
+        end="02:05:37.750"><span region="Default">Kau ingat kau boleh<br/>musnahkan kerajaan aku?</span></p>
+      <p
+        begin="02:05:47.708"
+        end="02:05:51.291"><span region="Default">Kau ingat kau boleh musnahkan aku?</span></p>
+      <p
+        begin="02:05:57.125"
+        end="02:05:58.125"><span region="Default">- Noa!<br/>- Biarkan dia!</span></p>
+      <p
+        begin="02:06:11.666"
+        end="02:06:13.083"><span region="Default">Noa.</span></p>
+      <p
+        begin="02:06:14.750"
+        end="02:06:18.666"><span region="Default">Kau menunjukkan banyak potensi.</span></p>
+      <p
+        begin="02:06:20.416"
+        end="02:06:23.166"><span region="Default">Kau kena berdiri</span></p>
+      <p
+        begin="02:06:23.833"
+        end="02:06:27.083"><span region="Default">supaya kau boleh tunduk hormat<br/>di depan raja kau</span></p>
+      <p
+        begin="02:06:27.875"
+        end="02:06:29.083"><span region="Default">sebelum kau mati.</span></p>
+      <p
+        begin="02:06:34.250"
+        end="02:06:38.250"><span region="Default">Kamu semua akan menyaksikan</span></p>
+      <p
+        begin="02:06:38.416"
+        end="02:06:43.875"><span region="Default">Noa tunduk hormat di hadapan rajanya.</span></p>
+      <p
+        begin="02:06:47.583"
+        end="02:06:48.958"><span region="Default">Sekarang, berdiri!</span></p>
+      <p
+        begin="02:06:49.916"
+        end="02:06:51.541"><span region="Default">Berdiri sekarang!</span></p>
+      <p
+        begin="02:06:54.791"
+        end="02:06:55.625"><span region="Default">Begitulah.</span></p>
+      <p
+        begin="02:06:56.208"
+        end="02:06:57.875"><span region="Default">Mawas yang pandai.</span></p>
+      <p
+        begin="02:07:21.791"
+        end="02:07:23.291"><span region="Default">Apa ini?</span></p>
+      <p
+        begin="02:07:26.625"
+        end="02:07:28.458"><span region="Default">Trevathan tentu suka.</span></p>
+      <p
+        begin="02:07:58.916"
+        end="02:07:59.916"><span region="Default">Cukup!</span></p>
+      <p
+        begin="02:08:02.375"
+        end="02:08:03.333"><span region="Default">Cukup!</span></p>
+      <p
+        begin="02:09:13.291"
+        end="02:09:17.250"><span region="Default">Jom kita balik.</span></p>
+      <p
+        begin="02:09:47.916"
+        end="02:09:49.125"><span region="Default">Dia datang!</span></p>
+      <p
+        begin="02:09:52.541"
+        end="02:09:53.708"><span region="Default">Lembut?</span></p>
+      <p
+        begin="02:09:54.416"
+        end="02:09:56.291"><span region="Default">Terlalu padat.</span></p>
+      <p
+        begin="02:09:57.125"
+        end="02:09:58.083"><span region="Default">Terlalu padat.</span></p>
+      <p
+        begin="02:09:59.875"
+        end="02:10:01.333"><span region="Default">- Sutera.<br/>- Bagus.</span></p>
+      <p
+        begin="02:10:07.958"
+        end="02:10:08.875"><span region="Default">Noa.</span></p>
+      <p
+        begin="02:10:30.625"
+        end="02:10:32.250"><span region="Default">Saya nak ucap selamat tinggal.</span></p>
+      <p
+        begin="02:10:41.500"
+        end="02:10:43.500"><span region="Default">Betul kata Proximus.</span></p>
+      <p
+        begin="02:10:44.625"
+        end="02:10:48.416"><span region="Default">Manusia takkan putus asa.</span></p>
+      <p
+        begin="02:10:49.666"
+        end="02:10:53.583"><span region="Default">Selagi semua benda</span></p>
+      <p
+        begin="02:10:53.750"
+        end="02:10:55.291"><span region="Default">kamu tak bolot.</span></p>
+      <p
+        begin="02:10:56.375"
+        end="02:10:57.750"><span region="Default">Ia milik kami.</span></p>
+      <p
+        begin="02:10:58.583"
+        end="02:11:01.041"><span region="Default">Silo itu ialah tempat manusia</span></p>
+      <p
+        begin="02:11:01.208"
+        end="02:11:03.000"><span region="Default">dengan barang dan idea manusia.</span></p>
+      <p
+        begin="02:11:03.166"
+        end="02:11:04.666"><span region="Default">Ia bukan untuk mawas.</span></p>
+      <p
+        begin="02:11:04.833"
+        end="02:11:07.458"><span region="Default">Apa yang untuk mawas?</span></p>
+      <p
+        begin="02:11:09.541"
+        end="02:11:11.666"><span region="Default">Patutkah kami kembali jadi bisu?</span></p>
+      <p
+        begin="02:11:13.666"
+        end="02:11:16.208"><span region="Default">Kami akan bina semula rumah kami.</span></p>
+      <p
+        begin="02:11:17.958"
+        end="02:11:19.125"><span region="Default">Lebih elok.</span></p>
+      <p
+        begin="02:11:19.625"
+        end="02:11:20.833"><span region="Default">Lebih kuat.</span></p>
+      <p
+        begin="02:11:21.791"
+        end="02:11:24.083"><span region="Default">Daripada pengajaran lepas.</span></p>
+      <p
+        begin="02:11:34.333"
+        end="02:11:36.583"><span region="Default">Jika Raka ada di sini,</span></p>
+      <p
+        begin="02:11:38.041"
+        end="02:11:40.500"><span region="Default">dia akan kata Caesarnya</span></p>
+      <p
+        begin="02:11:41.416"
+        end="02:11:43.375"><span region="Default">ada banyak benda untuk diperkatakan.</span></p>
+      <p
+        begin="02:11:48.250"
+        end="02:11:50.583"><span region="Default">Adakah dia betul?</span></p>
+      <p
+        begin="02:11:57.000"
+        end="02:12:02.750"><span region="Default">Bolehkah mawas dan manusia hidup bersama?</span></p>
+      <p
+        begin="02:12:13.750"
+        end="02:12:15.083"><span region="Default">Saya tak tahu.</span></p>
+      <p
+        begin="02:12:29.291"
+        end="02:12:31.333"><span region="Default">Penting.</span></p>
+      <p
+        begin="02:13:20.333"
+        end="02:13:22.000"><span region="Default">Jumpa lagi nanti.</span></p>
+      <p
+        begin="02:14:39.375"
+        end="02:14:40.291"><span region="Default">Jom.</span></p>
+      <p
+        begin="02:14:46.083"
+        end="02:14:47.708"><span region="Default">Turunkan semula kepada 20.</span></p>
+      <p
+        begin="02:14:48.000"
+        end="02:14:50.250"><span region="Default">Titik latitud baharu, 2.722.</span></p>
+      <p
+        begin="02:14:50.416"
+        end="02:14:51.458"><span region="Default">Menggelendong naik.</span></p>
+      <p
+        begin="02:14:51.625"
+        end="02:14:52.750"><span region="Default">Keadaan pengagihan?</span></p>
+      <p
+        begin="02:14:52.916"
+        end="02:14:53.791"><span region="Default">Jom ke sana.</span></p>
+      <p
+        begin="02:14:53.958"
+        end="02:14:55.500"><span region="Default">- Bacaan disahkan.<br/>- Pautan sedia!</span></p>
+      <p
+        begin="02:14:55.666"
+        end="02:14:56.625"><span region="Default">Naik sekarang.</span></p>
+      <p
+        begin="02:15:25.541"
+        end="02:15:27.291"><span region="Default">Kunci Penyulitan DITERIMA</span></p>
+      <p
+        begin="02:15:27.791"
+        end="02:15:30.666"><span region="Default">MEMPEROLEH ISYARAT SAT</span></p>
+      <p
+        begin="02:15:42.166"
+        end="02:15:43.583"><span region="Default">Helo.</span></p>
+      <p
+        begin="02:15:44.375"
+        end="02:15:45.750"><span region="Default">Ada sesiapa di sana?</span></p>
+      <p
+        begin="02:15:45.916"
+        end="02:15:47.125"><span region="Default">Ayuh.</span></p>
+      <p
+        begin="02:15:47.291"
+        end="02:15:48.583"><span region="Default">Awak dengar?</span></p>
+      <p
+        begin="02:15:51.416"
+        end="02:15:52.541"><span region="Default">Ya, helo?</span></p>
+      <p
+        begin="02:15:53.000"
+        end="02:15:55.041"><span region="Default">Ini Fort Wayne, Indiana. Kami dengar!</span></p>
+      <p
+        begin="02:15:56.375"
+        end="02:15:57.833"><span region="Default">Seronok dengar suara lain.</span></p>
+      <p
+        begin="02:15:58.791"
+        end="02:16:00.666"><span region="Default">Beritahu saya tempat awak. Lokasi?</span></p>
+      <p
+        begin="02:24:33.125"
+        end="02:24:35.125"><span region="Default">Diterjemahkan oleh Yanti Arshad</span></p>
+    </div>
+  </body>
+</tt>

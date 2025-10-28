@@ -1,0 +1,4144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:54.083"
+        end="00:00:56.083"><span region="Default">-[wind whistling]<br/>-[♪ somber music playing]</span></p>
+      <p
+        begin="00:01:19.750"
+        end="00:01:21.291"><span region="Default">[apes chatter softly]</span></p>
+      <p
+        begin="00:01:46.333"
+        end="00:01:48.458"><span region="Default">[fire crackling]</span></p>
+      <p
+        begin="00:01:48.541"
+        end="00:01:51.375"><span region="Default">[music crescendoes]</span></p>
+      <p
+        begin="00:02:09.875"
+        end="00:02:11.875"><span region="Default">[apes chatter loudly]</span></p>
+      <p
+        begin="00:02:23.958"
+        end="00:02:26.791"><span region="Default">[chatter fades]</span></p>
+      <p
+        begin="00:02:44.541"
+        end="00:02:48.250"><span region="Default">[birds chirping]</span></p>
+      <p
+        begin="00:02:50.666"
+        end="00:02:52.708"><span region="Default">[screeches]</span></p>
+      <p
+        begin="00:03:37.375"
+        end="00:03:39.375"><span region="Default">[grunting]</span></p>
+      <p
+        begin="00:03:59.041"
+        end="00:04:00.041"><span region="Default">[exclaims]</span></p>
+      <p
+        begin="00:04:03.791"
+        end="00:04:07.041"><span region="Default">[grunts, chatters]</span></p>
+      <p
+        begin="00:04:20.500"
+        end="00:04:22.125"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:04:42.666"
+        end="00:04:46.291"><span region="Default">Elder Luna says make your heart still.</span></p>
+      <p
+        begin="00:04:46.458"
+        end="00:04:48.500"><span region="Default">The right egg will sing to you.</span></p>
+      <p
+        begin="00:04:49.541"
+        end="00:04:52.583"><span region="Default">Elder Luna is elder.</span></p>
+      <p
+        begin="00:04:54.916"
+        end="00:04:57.458"><span region="Default">[grunting]</span></p>
+      <p
+        begin="00:04:57.541"
+        end="00:04:59.333"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:05:13.458"
+        end="00:05:14.458"><span region="Default">Three.</span></p>
+      <p
+        begin="00:05:16.208"
+        end="00:05:17.666"><span region="Default">Only three.</span></p>
+      <p
+        begin="00:05:18.125"
+        end="00:05:20.041"><span region="Default">We take them all.</span></p>
+      <p
+        begin="00:05:20.208"
+        end="00:05:21.541"><span region="Default">No. Never.</span></p>
+      <p
+        begin="00:05:22.458"
+        end="00:05:24.625"><span region="Default">Leave one always.</span></p>
+      <p
+        begin="00:05:26.333"
+        end="00:05:27.583"><span region="Default">That is the law.</span></p>
+      <p
+        begin="00:05:30.208"
+        end="00:05:31.833"><span region="Default">Bonding day is tomorrow.</span></p>
+      <p
+        begin="00:05:34.333"
+        end="00:05:35.875"><span region="Default">These are yours.</span></p>
+      <p
+        begin="00:05:37.625"
+        end="00:05:38.625"><span region="Default">You are older.</span></p>
+      <p
+        begin="00:05:38.791"
+        end="00:05:41.750"><span region="Default">-By length of a sunset.<br/>-Is older.</span></p>
+      <p
+        begin="00:05:44.791"
+        end="00:05:45.791"><span region="Default">Soona.</span></p>
+      <p
+        begin="00:05:47.125"
+        end="00:05:49.166"><span region="Default">Which one sings to you?</span></p>
+      <p
+        begin="00:05:54.333"
+        end="00:05:55.333"><span region="Default">This one.</span></p>
+      <p
+        begin="00:06:00.708"
+        end="00:06:01.708"><span region="Default">Silk.</span></p>
+      <p
+        begin="00:06:13.458"
+        end="00:06:15.958"><span region="Default">We will raise them together.</span></p>
+      <p
+        begin="00:06:16.875"
+        end="00:06:19.000"><span region="Default">Like we were raised.</span></p>
+      <p
+        begin="00:06:20.500"
+        end="00:06:22.541"><span region="Default">It will be the same.</span></p>
+      <p
+        begin="00:06:24.166"
+        end="00:06:25.916"><span region="Default">-Yes?<br/>-[eagle screeches]</span></p>
+      <p
+        begin="00:06:33.583"
+        end="00:06:34.583"><span region="Default">[grunts]</span></p>
+      <p
+        begin="00:06:37.791"
+        end="00:06:39.958"><span region="Default">Go, go, go.</span></p>
+      <p
+        begin="00:06:41.583"
+        end="00:06:43.291"><span region="Default">-Noa!<br/>-[Anaya] Noa, wait!</span></p>
+      <p
+        begin="00:06:54.833"
+        end="00:06:56.291"><span region="Default">[Anaya] Whoa!</span></p>
+      <p
+        begin="00:06:57.750"
+        end="00:06:59.041"><span region="Default">It's too far.</span></p>
+      <p
+        begin="00:06:59.208"
+        end="00:07:00.583"><span region="Default">[Soona] Find another way.</span></p>
+      <p
+        begin="00:07:02.625"
+        end="00:07:04.791"><span region="Default">[grunts]</span></p>
+      <p
+        begin="00:07:04.875"
+        end="00:07:05.875"><span region="Default">[Anaya] Noa?</span></p>
+      <p
+        begin="00:07:06.916"
+        end="00:07:08.375"><span region="Default">No!</span></p>
+      <p
+        begin="00:07:08.458"
+        end="00:07:11.041"><span region="Default">-[Noa yells]<br/>-[Anaya exclaims]</span></p>
+      <p
+        begin="00:07:11.333"
+        end="00:07:12.916"><span region="Default">Yeah!</span></p>
+      <p
+        begin="00:07:15.333"
+        end="00:07:17.791"><span region="Default">[Anaya and Soona chatter]</span></p>
+      <p
+        begin="00:07:21.291"
+        end="00:07:23.166"><span region="Default">[Noa grunts]</span></p>
+      <p
+        begin="00:07:27.583"
+        end="00:07:29.583"><span region="Default">[tree branches creaking]</span></p>
+      <p
+        begin="00:07:46.291"
+        end="00:07:47.500"><span region="Default">-[eagles screeches]<br/>-[Noa gasps]</span></p>
+      <p
+        begin="00:07:47.583"
+        end="00:07:49.791"><span region="Default">[Noa grunting rapidly]</span></p>
+      <p
+        begin="00:07:51.500"
+        end="00:07:53.166"><span region="Default">[Noa screams]</span></p>
+      <p
+        begin="00:07:57.000"
+        end="00:07:58.666"><span region="Default">[Noa chatters in fear]</span></p>
+      <p
+        begin="00:08:00.708"
+        end="00:08:01.708"><span region="Default">[Noa screams]</span></p>
+      <p
+        begin="00:08:01.791"
+        end="00:08:03.125"><span region="Default">[Soona] Noa!</span></p>
+      <p
+        begin="00:08:05.916"
+        end="00:08:07.416"><span region="Default">[shouting] Anaya! Soona!</span></p>
+      <p
+        begin="00:08:07.958"
+        end="00:08:08.958"><span region="Default">[Soona] Noa!</span></p>
+      <p
+        begin="00:08:10.708"
+        end="00:08:12.500"><span region="Default">[Noa screams]</span></p>
+      <p
+        begin="00:08:12.583"
+        end="00:08:14.125"><span region="Default">-[Anaya] Noa!<br/>-[Soona] No!</span></p>
+      <p
+        begin="00:08:21.041"
+        end="00:08:23.291"><span region="Default">[both sigh in relief]</span></p>
+      <p
+        begin="00:08:33.208"
+        end="00:08:36.000"><span region="Default">[birdsong]</span></p>
+      <p
+        begin="00:08:36.333"
+        end="00:08:38.291"><span region="Default">[chimps chatter]</span></p>
+      <p
+        begin="00:08:38.375"
+        end="00:08:40.208"><span region="Default">[Anaya] Do you wonder<br/>what your bird will look like?</span></p>
+      <p
+        begin="00:08:40.375"
+        end="00:08:42.875"><span region="Default">[Soona] Long as does not<br/>look like you, Anaya.</span></p>
+      <p
+        begin="00:08:47.833"
+        end="00:08:49.833"><span region="Default">[horses neighing, chuffing]</span></p>
+      <p
+        begin="00:08:56.916"
+        end="00:08:58.125"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:09:05.333"
+        end="00:09:06.333"><span region="Default">[twigs snap]</span></p>
+      <p
+        begin="00:09:09.916"
+        end="00:09:11.500"><span region="Default">What is it, Noa?</span></p>
+      <p
+        begin="00:09:12.083"
+        end="00:09:14.583"><span region="Default">[Noa] Something in trees.</span></p>
+      <p
+        begin="00:09:19.333"
+        end="00:09:20.416"><span region="Default">[exclaims in pain]</span></p>
+      <p
+        begin="00:09:23.291"
+        end="00:09:25.791"><span region="Default">[chimps grunting, panting]</span></p>
+      <p
+        begin="00:09:30.750"
+        end="00:09:32.250"><span region="Default">[Noa] It's getting away.</span></p>
+      <p
+        begin="00:09:44.333"
+        end="00:09:46.458"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:09:47.333"
+        end="00:09:48.916"><span region="Default">Noa scared.</span></p>
+      <p
+        begin="00:09:51.541"
+        end="00:09:53.000"><span region="Default">Not Anaya.</span></p>
+      <p
+        begin="00:10:11.833"
+        end="00:10:14.416"><span region="Default">[sniffing]</span></p>
+      <p
+        begin="00:10:16.875"
+        end="00:10:18.916"><span region="Default">Not ape.</span></p>
+      <p
+        begin="00:10:23.291"
+        end="00:10:24.375"><span region="Default">Maybe...</span></p>
+      <p
+        begin="00:10:25.666"
+        end="00:10:26.750"><span region="Default">Echo?</span></p>
+      <p
+        begin="00:10:28.541"
+        end="00:10:33.541"><span region="Default">Echo do not come in from Valley.</span></p>
+      <p
+        begin="00:10:33.875"
+        end="00:10:34.875"><span region="Default">Oh.</span></p>
+      <p
+        begin="00:10:37.125"
+        end="00:10:41.250"><span region="Default">[objects clatter, echo]</span></p>
+      <p
+        begin="00:10:43.208"
+        end="00:10:49.041"><span region="Default">[all screaming]</span></p>
+      <p
+        begin="00:10:53.333"
+        end="00:10:55.083"><span region="Default">[Soona] Were you scared?</span></p>
+      <p
+        begin="00:10:55.250"
+        end="00:10:57.250"><span region="Default">[Noa] Not as scared as Anaya!</span></p>
+      <p
+        begin="00:11:15.000"
+        end="00:11:17.000"><span region="Default">[eagles screeching]</span></p>
+      <p
+        begin="00:11:23.500"
+        end="00:11:25.125"><span region="Default">[children exclaim excitedly]</span></p>
+      <p
+        begin="00:11:25.208"
+        end="00:11:26.333"><span region="Default">[child 1] They're back!<br/>They're back!</span></p>
+      <p
+        begin="00:11:26.416"
+        end="00:11:27.416"><span region="Default">[child 2] Soona!</span></p>
+      <p
+        begin="00:11:27.500"
+        end="00:11:28.541"><span region="Default">[child 3] Did you get your eggs?</span></p>
+      <p
+        begin="00:11:28.708"
+        end="00:11:30.916"><span region="Default">-How far did you climb?<br/>-Was it dangerous?</span></p>
+      <p
+        begin="00:11:31.291"
+        end="00:11:33.416"><span region="Default">Very dangerous.</span></p>
+      <p
+        begin="00:11:33.583"
+        end="00:11:36.125"><span region="Default">Anaya wailed like a newborn.</span></p>
+      <p
+        begin="00:11:36.208"
+        end="00:11:38.125"><span region="Default">[laughing]</span></p>
+      <p
+        begin="00:11:45.125"
+        end="00:11:46.875"><span region="Default">[child 1] How many eggs did you honor?</span></p>
+      <p
+        begin="00:11:47.041"
+        end="00:11:48.166"><span region="Default">-[child 2] Show us the egg.<br/>-[child 3] Did you climb well?</span></p>
+      <p
+        begin="00:11:48.333"
+        end="00:11:50.083"><span region="Default">-[child 4] Show us the egg.<br/>-[child 5] Show us your egg.</span></p>
+      <p
+        begin="00:11:50.375"
+        end="00:11:51.375"><span region="Default">Egg. Egg. Egg.</span></p>
+      <p
+        begin="00:11:51.458"
+        end="00:11:54.541"><span region="Default">Show us, Anaya, please?</span></p>
+      <p
+        begin="00:11:55.166"
+        end="00:11:57.958"><span region="Default">[children gasp, exclaim]</span></p>
+      <p
+        begin="00:11:59.375"
+        end="00:12:01.375"><span region="Default">[all chatter]</span></p>
+      <p
+        begin="00:12:17.833"
+        end="00:12:19.666"><span region="Default">-Who want?<br/>-[child] Me, me, me!</span></p>
+      <p
+        begin="00:12:19.750"
+        end="00:12:21.666"><span region="Default">-Aw!<br/>-[child groans dejectedly]</span></p>
+      <p
+        begin="00:12:22.541"
+        end="00:12:26.041"><span region="Default">[child 2] Come on.<br/>Come on. Give, give! Hey!</span></p>
+      <p
+        begin="00:12:26.541"
+        end="00:12:27.625"><span region="Default">Son.</span></p>
+      <p
+        begin="00:12:36.041"
+        end="00:12:37.041"><span region="Default">Show me.</span></p>
+      <p
+        begin="00:12:37.208"
+        end="00:12:39.333"><span region="Default">All must wait for bonding.</span></p>
+      <p
+        begin="00:12:39.500"
+        end="00:12:42.083"><span region="Default">Even Honored Teacher.</span></p>
+      <p
+        begin="00:12:42.250"
+        end="00:12:44.083"><span region="Default">I am your mother.</span></p>
+      <p
+        begin="00:12:53.416"
+        end="00:12:56.250"><span region="Default">I knew you would climb well.</span></p>
+      <p
+        begin="00:12:58.833"
+        end="00:13:00.041"><span region="Default">He waits.</span></p>
+      <p
+        begin="00:13:09.583"
+        end="00:13:10.625"><span region="Default">Broken?</span></p>
+      <p
+        begin="00:13:12.916"
+        end="00:13:15.166"><span region="Default">Time for that later.</span></p>
+      <p
+        begin="00:13:18.666"
+        end="00:13:21.458"><span region="Default">Your father will want to see.</span></p>
+      <p
+        begin="00:13:26.458"
+        end="00:13:31.458"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:13:47.166"
+        end="00:13:49.125"><span region="Default">-[male chimp 1] Noa.<br/>-[female chimp] Noa.</span></p>
+      <p
+        begin="00:13:49.291"
+        end="00:13:52.250"><span region="Default">[male chimp 2] Noa, didn't<br/>think you'd make it back.</span></p>
+      <p
+        begin="00:13:52.333"
+        end="00:13:53.916"><span region="Default">[chimps laugh]</span></p>
+      <p
+        begin="00:14:06.625"
+        end="00:14:08.625"><span region="Default">[eagles screeching]</span></p>
+      <p
+        begin="00:14:15.375"
+        end="00:14:19.916"><span region="Default">[Koro humming, grunts]</span></p>
+      <p
+        begin="00:14:20.666"
+        end="00:14:23.875"><span region="Default">[Koro humming]</span></p>
+      <p
+        begin="00:14:24.541"
+        end="00:14:26.333"><span region="Default">Too firm.</span></p>
+      <p
+        begin="00:14:26.666"
+        end="00:14:29.041"><span region="Default">Yes. Yes, Koro.</span></p>
+      <p
+        begin="00:14:44.875"
+        end="00:14:46.833"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:14:51.958"
+        end="00:14:55.875"><span region="Default">[Koro hums]</span></p>
+      <p
+        begin="00:14:57.333"
+        end="00:14:58.333"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:15:01.166"
+        end="00:15:02.333"><span region="Default">Son.</span></p>
+      <p
+        begin="00:15:03.125"
+        end="00:15:04.333"><span region="Default">[grunts in pain]</span></p>
+      <p
+        begin="00:15:07.333"
+        end="00:15:13.166"><span region="Default">Sun Eagle does not like work<br/>for tomorrow's ceremony.</span></p>
+      <p
+        begin="00:15:15.666"
+        end="00:15:17.041"><span region="Default">You climb well?</span></p>
+      <p
+        begin="00:15:17.583"
+        end="00:15:19.458"><span region="Default">Above Top Nest.</span></p>
+      <p
+        begin="00:15:19.666"
+        end="00:15:21.708"><span region="Default">Huh. All of you?</span></p>
+      <p
+        begin="00:15:21.875"
+        end="00:15:23.375"><span region="Default">No.</span></p>
+      <p
+        begin="00:15:23.541"
+        end="00:15:24.958"><span region="Default">Only me.</span></p>
+      <p
+        begin="00:15:26.583"
+        end="00:15:28.500"><span region="Default">[sniffing]</span></p>
+      <p
+        begin="00:15:30.541"
+        end="00:15:32.750"><span region="Default">What that smell?</span></p>
+      <p
+        begin="00:15:39.375"
+        end="00:15:41.583"><span region="Default">[inhales deeply]</span></p>
+      <p
+        begin="00:15:43.083"
+        end="00:15:46.458"><span region="Default">You did not go to the Valley Beyond?</span></p>
+      <p
+        begin="00:15:46.625"
+        end="00:15:47.875"><span region="Default">Never.</span></p>
+      <p
+        begin="00:15:48.041"
+        end="00:15:50.208"><span region="Default">Is forbidden.</span></p>
+      <p
+        begin="00:15:51.375"
+        end="00:15:55.166"><span region="Default">Yet blood of Echo on your blanket.</span></p>
+      <p
+        begin="00:15:55.333"
+        end="00:15:58.541"><span region="Default">We did not go to Valley Beyond.</span></p>
+      <p
+        begin="00:16:02.416"
+        end="00:16:04.125"><span region="Default">I accept.</span></p>
+      <p
+        begin="00:16:05.333"
+        end="00:16:07.500"><span region="Default">You are true, Noa.</span></p>
+      <p
+        begin="00:16:09.333"
+        end="00:16:10.750"><span region="Default">Much to learn.</span></p>
+      <p
+        begin="00:16:12.500"
+        end="00:16:13.750"><span region="Default">Much to teach.</span></p>
+      <p
+        begin="00:16:15.250"
+        end="00:16:17.500"><span region="Default">After tomorrow's bonding.</span></p>
+      <p
+        begin="00:16:18.791"
+        end="00:16:21.291"><span region="Default">Now, Elders must know.</span></p>
+      <p
+        begin="00:16:22.250"
+        end="00:16:25.500"><span region="Default">Echoes only bring trouble.</span></p>
+      <p
+        begin="00:16:29.375"
+        end="00:16:32.416"><span region="Default">Oda will chase the pests away.</span></p>
+      <p
+        begin="00:16:40.416"
+        end="00:16:42.916"><span region="Default">May I seek your counsel?</span></p>
+      <p
+        begin="00:16:45.208"
+        end="00:16:50.291"><span region="Default">This blanket had the blood<br/>of an Echo on it.</span></p>
+      <p
+        begin="00:16:50.458"
+        end="00:16:51.500"><span region="Default">[Elder 1] Echo.</span></p>
+      <p
+        begin="00:16:51.666"
+        end="00:16:53.041"><span region="Default">[Koro] And I apologize for that.</span></p>
+      <p
+        begin="00:16:53.208"
+        end="00:16:56.333"><span region="Default">This is a bad sign for all of us.</span></p>
+      <p
+        begin="00:16:56.500"
+        end="00:16:58.625"><span region="Default">-[Elder 2] That smell.<br/>-[Koro] And my suggestion would be...</span></p>
+      <p
+        begin="00:16:58.708"
+        end="00:17:00.541"><span region="Default">[conversation continues indistinctly]</span></p>
+      <p
+        begin="00:17:05.833"
+        end="00:17:08.375"><span region="Default">You climbed Top Nest?</span></p>
+      <p
+        begin="00:17:12.291"
+        end="00:17:14.083"><span region="Default">Hard climb.</span></p>
+      <p
+        begin="00:17:20.375"
+        end="00:17:21.375"><span region="Default">[Elder 1] Ah, yes.</span></p>
+      <p
+        begin="00:17:21.541"
+        end="00:17:23.625"><span region="Default">[Elder 2] Could be dangerous.</span></p>
+      <p
+        begin="00:17:23.791"
+        end="00:17:24.833"><span region="Default">[Elder 3] Danger.</span></p>
+      <p
+        begin="00:17:27.458"
+        end="00:17:29.625"><span region="Default">[Soona panting]</span></p>
+      <p
+        begin="00:17:29.708"
+        end="00:17:30.708"><span region="Default">Anaya!</span></p>
+      <p
+        begin="00:17:35.458"
+        end="00:17:37.625"><span region="Default">You see your father?</span></p>
+      <p
+        begin="00:17:44.250"
+        end="00:17:47.791"><span region="Default">I do not understand Eagle Sun.</span></p>
+      <p
+        begin="00:17:47.958"
+        end="00:17:50.666"><span region="Default">I do. He hate Noa.</span></p>
+      <p
+        begin="00:17:55.666"
+        end="00:17:57.208"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:17:57.375"
+        end="00:17:58.916"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="00:17:59.458"
+        end="00:18:01.208"><span region="Default">With Elders.</span></p>
+      <p
+        begin="00:18:03.083"
+        end="00:18:06.041"><span region="Default">They send Oda to scare Echo away.</span></p>
+      <p
+        begin="00:18:06.666"
+        end="00:18:07.875"><span region="Default">[Oda] Yes, Elder.</span></p>
+      <p
+        begin="00:18:08.875"
+        end="00:18:11.750"><span region="Default">When mother was small...</span></p>
+      <p
+        begin="00:18:12.416"
+        end="00:18:14.833"><span region="Default">dry season shrank creek.</span></p>
+      <p
+        begin="00:18:15.000"
+        end="00:18:16.458"><span region="Default">Echo range for food.</span></p>
+      <p
+        begin="00:18:17.666"
+        end="00:18:20.833"><span region="Default">She saw a small and a big.</span></p>
+      <p
+        begin="00:18:22.208"
+        end="00:18:24.666"><span region="Default">We have good rain.</span></p>
+      <p
+        begin="00:18:26.375"
+        end="00:18:27.458"><span region="Default">Her words.</span></p>
+      <p
+        begin="00:18:32.791"
+        end="00:18:35.041"><span region="Default">[Koro] Ride true, Oda.</span></p>
+      <p
+        begin="00:18:40.208"
+        end="00:18:41.791"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:18:50.416"
+        end="00:18:52.416"><span region="Default">[insects chirring]</span></p>
+      <p
+        begin="00:19:36.541"
+        end="00:19:38.041"><span region="Default">[objects clatter]</span></p>
+      <p
+        begin="00:19:51.958"
+        end="00:19:54.875"><span region="Default">[sniffs, coughs]</span></p>
+      <p
+        begin="00:20:18.083"
+        end="00:20:20.458"><span region="Default">-[footsteps shuffling]<br/>-[twigs snapping]</span></p>
+      <p
+        begin="00:20:39.916"
+        end="00:20:43.500"><span region="Default">[breathing heavily]</span></p>
+      <p
+        begin="00:20:46.541"
+        end="00:20:48.875"><span region="Default">[girl grunts, pants]</span></p>
+      <p
+        begin="00:21:08.250"
+        end="00:21:09.291"><span region="Default">[Noa] No.</span></p>
+      <p
+        begin="00:21:15.666"
+        end="00:21:18.208"><span region="Default">Our bonding is at sunrise.</span></p>
+      <p
+        begin="00:21:19.041"
+        end="00:21:21.750"><span region="Default">Master of Birds will make exception.</span></p>
+      <p
+        begin="00:21:21.916"
+        end="00:21:24.875"><span region="Default">They will not make him wait<br/>for next season.</span></p>
+      <p
+        begin="00:21:25.041"
+        end="00:21:26.375"><span region="Default">Yes, he will.</span></p>
+      <p
+        begin="00:21:28.291"
+        end="00:21:30.208"><span region="Default">He is your father.</span></p>
+      <p
+        begin="00:21:30.375"
+        end="00:21:34.416"><span region="Default">And I am his son.</span></p>
+      <p
+        begin="00:21:35.625"
+        end="00:21:38.000"><span region="Default">Then I will wait with you.</span></p>
+      <p
+        begin="00:21:40.708"
+        end="00:21:42.291"><span region="Default">Anaya wait too.</span></p>
+      <p
+        begin="00:21:44.250"
+        end="00:21:45.416"><span region="Default">You cannot.</span></p>
+      <p
+        begin="00:21:52.083"
+        end="00:21:54.625"><span region="Default">I must find another.</span></p>
+      <p
+        begin="00:22:00.916"
+        end="00:22:05.333"><span region="Default">-[insects chirring]<br/>-[owl hooting]</span></p>
+      <p
+        begin="00:22:30.125"
+        end="00:22:32.583"><span region="Default">-[animal shrieking distantly]<br/>-[horse chuffs]</span></p>
+      <p
+        begin="00:22:38.083"
+        end="00:22:40.375"><span region="Default">-[horn sounding]<br/>-[monkeys chattering]</span></p>
+      <p
+        begin="00:22:43.416"
+        end="00:22:46.583"><span region="Default">-[electricity crackling]<br/>-[monkeys screeching]</span></p>
+      <p
+        begin="00:22:46.666"
+        end="00:22:48.000"><span region="Default">[clamor dies down]</span></p>
+      <p
+        begin="00:23:41.166"
+        end="00:23:43.083"><span region="Default">[Noa gasps, pants]</span></p>
+      <p
+        begin="00:23:43.750"
+        end="00:23:44.750"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:23:45.541"
+        end="00:23:46.541"><span region="Default">Oda!</span></p>
+      <p
+        begin="00:23:47.041"
+        end="00:23:49.333"><span region="Default">There are...</span></p>
+      <p
+        begin="00:23:50.791"
+        end="00:23:52.083"><span region="Default">more.</span></p>
+      <p
+        begin="00:23:52.166"
+        end="00:23:53.833"><span region="Default">[gasps, exclaims]</span></p>
+      <p
+        begin="00:23:56.208"
+        end="00:23:58.000"><span region="Default">[horse neighs]</span></p>
+      <p
+        begin="00:23:58.083"
+        end="00:24:00.083"><span region="Default">-[hooves approaching]<br/>-[chimps chattering]</span></p>
+      <p
+        begin="00:24:19.916"
+        end="00:24:23.583"><span region="Default">[chimps screeching]</span></p>
+      <p
+        begin="00:24:36.375"
+        end="00:24:37.958"><span region="Default">What happened here?</span></p>
+      <p
+        begin="00:24:38.458"
+        end="00:24:40.083"><span region="Default">[Lightning] Our scouts.</span></p>
+      <p
+        begin="00:24:40.583"
+        end="00:24:42.750"><span region="Default">Killed by him.</span></p>
+      <p
+        begin="00:24:42.833"
+        end="00:24:45.791"><span region="Default">[Lightning chatters, screeches]</span></p>
+      <p
+        begin="00:24:51.000"
+        end="00:24:52.125"><span region="Default">Human.</span></p>
+      <p
+        begin="00:24:53.041"
+        end="00:24:54.250"><span region="Default">It is her.</span></p>
+      <p
+        begin="00:24:54.666"
+        end="00:24:56.125"><span region="Default">Lightning, back on your horse.</span></p>
+      <p
+        begin="00:24:56.291"
+        end="00:24:57.500"><span region="Default">Spread out!</span></p>
+      <p
+        begin="00:24:57.666"
+        end="00:24:59.625"><span region="Default">Find his clan.</span></p>
+      <p
+        begin="00:25:00.000"
+        end="00:25:01.541"><span region="Default">Search in all directions!</span></p>
+      <p
+        begin="00:25:01.625"
+        end="00:25:03.083"><span region="Default">[horse neighs]</span></p>
+      <p
+        begin="00:25:09.458"
+        end="00:25:11.125"><span region="Default">[Lightning] The ape's horse!</span></p>
+      <p
+        begin="00:25:11.291"
+        end="00:25:12.625"><span region="Default">[Sylva] Lightning, come!</span></p>
+      <p
+        begin="00:25:21.750"
+        end="00:25:23.791"><span region="Default">They cannot be far.</span></p>
+      <p
+        begin="00:25:24.666"
+        end="00:25:27.541"><span region="Default">Follow the horse! Find his clan!</span></p>
+      <p
+        begin="00:25:27.625"
+        end="00:25:29.250"><span region="Default">-[grunts]<br/>-[horse neighs]</span></p>
+      <p
+        begin="00:25:29.333"
+        end="00:25:30.750"><span region="Default">[Lightning] Find human!</span></p>
+      <p
+        begin="00:25:31.666"
+        end="00:25:32.791"><span region="Default">Ride!</span></p>
+      <p
+        begin="00:25:36.750"
+        end="00:25:39.083"><span region="Default">Go, go, go!</span></p>
+      <p
+        begin="00:25:42.208"
+        end="00:25:44.208"><span region="Default">-[horses neighing]<br/>-[♪ dramatic music playing]</span></p>
+      <p
+        begin="00:25:56.541"
+        end="00:25:58.541"><span region="Default">[Noa panting]</span></p>
+      <p
+        begin="00:26:10.500"
+        end="00:26:12.500"><span region="Default">[Noa panting]</span></p>
+      <p
+        begin="00:26:19.583"
+        end="00:26:21.583"><span region="Default">[panting, grunting]</span></p>
+      <p
+        begin="00:26:40.625"
+        end="00:26:41.833"><span region="Default">[Sylva] Round them up!</span></p>
+      <p
+        begin="00:26:42.000"
+        end="00:26:43.583"><span region="Default">No! No! Please!</span></p>
+      <p
+        begin="00:26:47.416"
+        end="00:26:48.875"><span region="Default">[Sylva] You, prisoner!</span></p>
+      <p
+        begin="00:26:51.250"
+        end="00:26:54.416"><span region="Default">-[Noa panting]<br/>-Burn it down.</span></p>
+      <p
+        begin="00:26:57.958"
+        end="00:26:59.541"><span region="Default">[shouting] Soona! Anaya!</span></p>
+      <p
+        begin="00:26:59.708"
+        end="00:27:00.833"><span region="Default">[chimp] Noa, help!</span></p>
+      <p
+        begin="00:27:08.916"
+        end="00:27:11.333"><span region="Default">[chimps exclaiming]</span></p>
+      <p
+        begin="00:27:11.416"
+        end="00:27:12.458"><span region="Default">[Anaya] Noa!</span></p>
+      <p
+        begin="00:27:13.500"
+        end="00:27:14.791"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:14.958"
+        end="00:27:16.125"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:16.833"
+        end="00:27:17.833"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:19.291"
+        end="00:27:20.291"><span region="Default">Noa!</span></p>
+      <p
+        begin="00:27:21.291"
+        end="00:27:23.541"><span region="Default">[Noa] Anaya! Mother!</span></p>
+      <p
+        begin="00:27:25.416"
+        end="00:27:26.416"><span region="Default">Where Soona?</span></p>
+      <p
+        begin="00:27:26.583"
+        end="00:27:28.458"><span region="Default">They took her.</span></p>
+      <p
+        begin="00:27:28.625"
+        end="00:27:30.541"><span region="Default">They broke my egg.</span></p>
+      <p
+        begin="00:27:31.583"
+        end="00:27:32.750"><span region="Default">Mother.</span></p>
+      <p
+        begin="00:27:32.916"
+        end="00:27:34.166"><span region="Default">Help your father!</span></p>
+      <p
+        begin="00:27:34.250"
+        end="00:27:36.583"><span region="Default">-[Noa screams]<br/>-[Dar] No! No!</span></p>
+      <p
+        begin="00:27:37.875"
+        end="00:27:38.875"><span region="Default">[Anaya] Noa!</span></p>
+      <p
+        begin="00:27:40.333"
+        end="00:27:41.333"><span region="Default">No!</span></p>
+      <p
+        begin="00:27:43.875"
+        end="00:27:45.208"><span region="Default">Run, Noa! Run!</span></p>
+      <p
+        begin="00:27:46.500"
+        end="00:27:48.125"><span region="Default">Help your father!</span></p>
+      <p
+        begin="00:27:48.291"
+        end="00:27:50.125"><span region="Default">Go, Noa! Run!</span></p>
+      <p
+        begin="00:27:52.625"
+        end="00:27:53.625"><span region="Default">No!</span></p>
+      <p
+        begin="00:27:57.666"
+        end="00:27:59.500"><span region="Default">[Lightning] He their Elder.</span></p>
+      <p
+        begin="00:28:06.541"
+        end="00:28:07.541"><span region="Default">[Elder] No!</span></p>
+      <p
+        begin="00:28:07.708"
+        end="00:28:09.916"><span region="Default">[all screeching]</span></p>
+      <p
+        begin="00:28:10.000"
+        end="00:28:12.166"><span region="Default">[necklace breaks]</span></p>
+      <p
+        begin="00:28:15.708"
+        end="00:28:18.125"><span region="Default">For Caesar!</span></p>
+      <p
+        begin="00:28:18.625"
+        end="00:28:20.291"><span region="Default">[marauders] For Caesar!</span></p>
+      <p
+        begin="00:28:22.791"
+        end="00:28:24.958"><span region="Default">Take them to Proximus!</span></p>
+      <p
+        begin="00:28:26.375"
+        end="00:28:28.083"><span region="Default">Find the human!</span></p>
+      <p
+        begin="00:28:28.250"
+        end="00:28:30.958"><span region="Default">[marauders chanting]<br/>Caesar! Caesar!</span></p>
+      <p
+        begin="00:28:31.750"
+        end="00:28:34.291"><span region="Default">Caesar! Caesar!</span></p>
+      <p
+        begin="00:28:45.666"
+        end="00:28:47.291"><span region="Default">-Father.<br/>-Son.</span></p>
+      <p
+        begin="00:28:47.458"
+        end="00:28:49.000"><span region="Default">I'm sorry. It's my fault.</span></p>
+      <p
+        begin="00:28:49.166"
+        end="00:28:51.125"><span region="Default">Noa, free all birds.</span></p>
+      <p
+        begin="00:28:51.458"
+        end="00:28:52.458"><span region="Default">Go.</span></p>
+      <p
+        begin="00:29:28.541"
+        end="00:29:31.708"><span region="Default">Bend your head.</span></p>
+      <p
+        begin="00:29:36.166"
+        end="00:29:37.375"><span region="Default">[crackling]</span></p>
+      <p
+        begin="00:29:42.958"
+        end="00:29:43.958"><span region="Default">[grunts]</span></p>
+      <p
+        begin="00:30:14.000"
+        end="00:30:15.333"><span region="Default">-[Sylva grunts]<br/>-[Noa exclaims]</span></p>
+      <p
+        begin="00:30:18.041"
+        end="00:30:19.833"><span region="Default">[Noa exclaims, grunts]</span></p>
+      <p
+        begin="00:30:30.000"
+        end="00:30:32.041"><span region="Default">[Koro grunts, yells]</span></p>
+      <p
+        begin="00:31:01.125"
+        end="00:31:03.208"><span region="Default">[Noa yells]</span></p>
+      <p
+        begin="00:31:07.291"
+        end="00:31:09.375"><span region="Default">[Koro yells, grunts]</span></p>
+      <p
+        begin="00:31:14.208"
+        end="00:31:15.500"><span region="Default">[weakly] Noa.</span></p>
+      <p
+        begin="00:31:21.666"
+        end="00:31:23.125"><span region="Default">For Caesar.</span></p>
+      <p
+        begin="00:31:43.625"
+        end="00:31:44.958"><span region="Default">[wood creaking]</span></p>
+      <p
+        begin="00:31:46.583"
+        end="00:31:48.750"><span region="Default">[groaning weakly]</span></p>
+      <p
+        begin="00:31:50.541"
+        end="00:31:52.625"><span region="Default">[grunts, coughs]</span></p>
+      <p
+        begin="00:32:56.041"
+        end="00:32:57.041"><span region="Default">[metal clangs]</span></p>
+      <p
+        begin="00:32:59.791"
+        end="00:33:01.708"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:33:24.500"
+        end="00:33:27.000"><span region="Default">[♪ somber music playing]</span></p>
+      <p
+        begin="00:33:58.166"
+        end="00:34:00.000"><span region="Default">[whimpers]</span></p>
+      <p
+        begin="00:34:21.958"
+        end="00:34:22.958"><span region="Default">Father...</span></p>
+      <p
+        begin="00:34:26.291"
+        end="00:34:27.791"><span region="Default">I will find them.</span></p>
+      <p
+        begin="00:34:29.416"
+        end="00:34:32.541"><span region="Default">I will bring them home.</span></p>
+      <p
+        begin="00:34:34.166"
+        end="00:34:37.416"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:35:35.250"
+        end="00:35:37.875"><span region="Default">-[Noa yells]<br/>-[♪ thrilling music playing]</span></p>
+      <p
+        begin="00:35:46.458"
+        end="00:35:47.750"><span region="Default">[Noa yells]</span></p>
+      <p
+        begin="00:35:53.833"
+        end="00:35:56.291"><span region="Default">[thunder rumbles]</span></p>
+      <p
+        begin="00:36:06.166"
+        end="00:36:09.958"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:36:15.041"
+        end="00:36:17.041"><span region="Default">[thunder rumbles]</span></p>
+      <p
+        begin="00:36:27.125"
+        end="00:36:28.583"><span region="Default">Mother.</span></p>
+      <p
+        begin="00:36:29.416"
+        end="00:36:32.083"><span region="Default">[thunder rumbles]</span></p>
+      <p
+        begin="00:36:32.166"
+        end="00:36:34.208"><span region="Default">[wind blowing]</span></p>
+      <p
+        begin="00:36:52.625"
+        end="00:36:54.166"><span region="Default">-[twigs breaking]<br/>-[Noa gasps]</span></p>
+      <p
+        begin="00:36:58.875"
+        end="00:37:00.541"><span region="Default">[horse whinnies]</span></p>
+      <p
+        begin="00:37:19.583"
+        end="00:37:21.000"><span region="Default">[voice yells indistinctly]</span></p>
+      <p
+        begin="00:37:21.083"
+        end="00:37:23.208"><span region="Default">[gasps, pants]</span></p>
+      <p
+        begin="00:37:29.458"
+        end="00:37:32.416"><span region="Default">[eagle whistles]</span></p>
+      <p
+        begin="00:37:39.375"
+        end="00:37:40.375"><span region="Default">Sun.</span></p>
+      <p
+        begin="00:37:48.625"
+        end="00:37:50.166"><span region="Default">Come, Sun.</span></p>
+      <p
+        begin="00:37:55.208"
+        end="00:37:58.333"><span region="Default">[vocalizing]</span></p>
+      <p
+        begin="00:37:59.666"
+        end="00:38:02.083"><span region="Default">[exclaims, grunts]</span></p>
+      <p
+        begin="00:38:05.458"
+        end="00:38:06.833"><span region="Default">[Noa grunts]</span></p>
+      <p
+        begin="00:38:15.458"
+        end="00:38:18.166"><span region="Default">[♪ pensive music playing]</span></p>
+      <p
+        begin="00:38:37.666"
+        end="00:38:41.416"><span region="Default">[sniffing]</span></p>
+      <p
+        begin="00:39:23.625"
+        end="00:39:26.250"><span region="Default">[exclaims, grunts]</span></p>
+      <p
+        begin="00:39:41.041"
+        end="00:39:43.291"><span region="Default">[gasps, coughs]</span></p>
+      <p
+        begin="00:39:45.125"
+        end="00:39:47.125"><span region="Default">[flies buzzing]</span></p>
+      <p
+        begin="00:39:57.750"
+        end="00:39:59.958"><span region="Default">How young you are.</span></p>
+      <p
+        begin="00:40:01.833"
+        end="00:40:03.875"><span region="Default">Without your mask.</span></p>
+      <p
+        begin="00:40:05.000"
+        end="00:40:06.458"><span region="Default">Without this.</span></p>
+      <p
+        begin="00:40:08.833"
+        end="00:40:09.875"><span region="Default">Speak up.</span></p>
+      <p
+        begin="00:40:11.416"
+        end="00:40:14.333"><span region="Default">Speak up.</span></p>
+      <p
+        begin="00:40:15.041"
+        end="00:40:16.458"><span region="Default">Not mine.</span></p>
+      <p
+        begin="00:40:17.583"
+        end="00:40:18.875"><span region="Default">No mask.</span></p>
+      <p
+        begin="00:40:20.125"
+        end="00:40:21.333"><span region="Default">I am not...</span></p>
+      <p
+        begin="00:40:22.500"
+        end="00:40:23.541"><span region="Default">them.</span></p>
+      <p
+        begin="00:40:26.458"
+        end="00:40:27.958"><span region="Default">Explain yourself.</span></p>
+      <p
+        begin="00:40:29.666"
+        end="00:40:31.500"><span region="Default">They killed my father.</span></p>
+      <p
+        begin="00:40:32.750"
+        end="00:40:34.541"><span region="Default">Stole my village.</span></p>
+      <p
+        begin="00:40:36.666"
+        end="00:40:38.458"><span region="Default">I follow their tracks.</span></p>
+      <p
+        begin="00:40:42.000"
+        end="00:40:43.541"><span region="Default">Hmm.</span></p>
+      <p
+        begin="00:40:50.166"
+        end="00:40:53.500"><span region="Default">He was my village.</span></p>
+      <p
+        begin="00:40:56.708"
+        end="00:40:58.708"><span region="Default">They killed him.</span></p>
+      <p
+        begin="00:41:00.250"
+        end="00:41:01.500"><span region="Default">The Masks.</span></p>
+      <p
+        begin="00:41:04.416"
+        end="00:41:05.541"><span region="Default">[sighs]</span></p>
+      <p
+        begin="00:41:14.000"
+        end="00:41:15.333"><span region="Default">I am Raka.</span></p>
+      <p
+        begin="00:41:18.583"
+        end="00:41:20.500"><span region="Default">I am Noa.</span></p>
+      <p
+        begin="00:41:32.125"
+        end="00:41:37.000"><span region="Default">[Raka] Apes falling from the sky. Hmm.</span></p>
+      <p
+        begin="00:41:40.375"
+        end="00:41:45.083"><span region="Default">He was outside when they arrived.</span></p>
+      <p
+        begin="00:41:45.250"
+        end="00:41:47.125"><span region="Default">Did you see my clan?</span></p>
+      <p
+        begin="00:41:48.291"
+        end="00:41:49.333"><span region="Default">No.</span></p>
+      <p
+        begin="00:41:50.208"
+        end="00:41:51.625"><span region="Default">I hid.</span></p>
+      <p
+        begin="00:41:52.833"
+        end="00:41:54.208"><span region="Default">I survived.</span></p>
+      <p
+        begin="00:41:55.666"
+        end="00:41:58.750"><span region="Default">I protected our work.</span></p>
+      <p
+        begin="00:42:08.166"
+        end="00:42:13.791"><span region="Default">They are an ancient way to store ideas.</span></p>
+      <p
+        begin="00:42:18.875"
+        end="00:42:21.500"><span region="Default">The symbols have meaning.</span></p>
+      <p
+        begin="00:42:25.583"
+        end="00:42:28.666"><span region="Default">Apes understood this meaning...</span></p>
+      <p
+        begin="00:42:28.833"
+        end="00:42:30.875"><span region="Default">in the time of Caesar.</span></p>
+      <p
+        begin="00:42:33.458"
+        end="00:42:36.875"><span region="Default">The Masks, in my village...</span></p>
+      <p
+        begin="00:42:38.375"
+        end="00:42:40.375"><span region="Default">said that name...</span></p>
+      <p
+        begin="00:42:42.333"
+        end="00:42:43.791"><span region="Default">"Caesar."</span></p>
+      <p
+        begin="00:42:44.875"
+        end="00:42:46.250"><span region="Default">Shameful.</span></p>
+      <p
+        begin="00:42:47.333"
+        end="00:42:49.541"><span region="Default">The Masks take his name.</span></p>
+      <p
+        begin="00:42:51.041"
+        end="00:42:52.416"><span region="Default">Twist his words.</span></p>
+      <p
+        begin="00:42:53.333"
+        end="00:42:55.041"><span region="Default">Who is he?</span></p>
+      <p
+        begin="00:42:55.833"
+        end="00:42:56.958"><span region="Default">Not "is."</span></p>
+      <p
+        begin="00:42:58.083"
+        end="00:42:59.083"><span region="Default">"Was."</span></p>
+      <p
+        begin="00:43:02.666"
+        end="00:43:06.916"><span region="Default">Your clan does not know<br/>the true Caesar. [grunts]</span></p>
+      <p
+        begin="00:43:07.916"
+        end="00:43:11.125"><span region="Default">Too many have forgotten who he was.</span></p>
+      <p
+        begin="00:43:13.250"
+        end="00:43:16.041"><span region="Default">I know Elders of my village.</span></p>
+      <p
+        begin="00:43:16.208"
+        end="00:43:17.916"><span region="Default">They made the law.</span></p>
+      <p
+        begin="00:43:18.083"
+        end="00:43:20.833"><span region="Default">-That is everything.<br/>-[Raka chuckles]</span></p>
+      <p
+        begin="00:43:21.208"
+        end="00:43:24.083"><span region="Default">That is not everything.</span></p>
+      <p
+        begin="00:43:24.875"
+        end="00:43:27.000"><span region="Default">Long before your Elders...</span></p>
+      <p
+        begin="00:43:27.166"
+        end="00:43:31.416"><span region="Default">it was Caesar who taught us<br/>what it means to be ape.</span></p>
+      <p
+        begin="00:43:31.583"
+        end="00:43:36.041"><span region="Default">He was our leader, our lawgiver.</span></p>
+      <p
+        begin="00:43:36.208"
+        end="00:43:38.958"><span region="Default">Apes together strong.</span></p>
+      <p
+        begin="00:43:39.125"
+        end="00:43:41.833"><span region="Default">Ape shall not kill ape.</span></p>
+      <p
+        begin="00:43:42.000"
+        end="00:43:44.750"><span region="Default">We, the Order of Caesar...</span></p>
+      <p
+        begin="00:43:44.916"
+        end="00:43:46.666"><span region="Default">follow his words.</span></p>
+      <p
+        begin="00:43:46.833"
+        end="00:43:48.291"><span region="Default">To this day...</span></p>
+      <p
+        begin="00:43:49.666"
+        end="00:43:51.125"><span region="Default">I follow.</span></p>
+      <p
+        begin="00:43:52.791"
+        end="00:43:54.083"><span region="Default">I am now...</span></p>
+      <p
+        begin="00:43:55.416"
+        end="00:43:56.833"><span region="Default">the last.</span></p>
+      <p
+        begin="00:43:58.916"
+        end="00:44:00.833"><span region="Default">The work continues.</span></p>
+      <p
+        begin="00:44:03.458"
+        end="00:44:06.416"><span region="Default">-[Raka hums]<br/>-What is this place?</span></p>
+      <p
+        begin="00:44:07.083"
+        end="00:44:09.958"><span region="Default">We believe apes built this...</span></p>
+      <p
+        begin="00:44:10.125"
+        end="00:44:13.666"><span region="Default">as a refuge for humans.</span></p>
+      <p
+        begin="00:44:13.833"
+        end="00:44:15.708"><span region="Default">Now it is rare to see even one.</span></p>
+      <p
+        begin="00:44:15.875"
+        end="00:44:21.166"><span region="Default">But in Caesar's time,<br/>there were vast herds of them.</span></p>
+      <p
+        begin="00:44:22.250"
+        end="00:44:24.916"><span region="Default">Can you imagine? [chuckles]</span></p>
+      <p
+        begin="00:44:25.000"
+        end="00:44:29.541"><span region="Default">Perhaps here,<br/>humans were cared for, fed...</span></p>
+      <p
+        begin="00:44:29.708"
+        end="00:44:33.500"><span region="Default">maybe even taught. [laughs]</span></p>
+      <p
+        begin="00:44:40.000"
+        end="00:44:41.083"><span region="Default">What is it?</span></p>
+      <p
+        begin="00:44:42.958"
+        end="00:44:44.125"><span region="Default">Echo.</span></p>
+      <p
+        begin="00:44:48.458"
+        end="00:44:49.500"><span region="Default">Human.</span></p>
+      <p
+        begin="00:44:52.291"
+        end="00:44:53.833"><span region="Default">You have seen one?</span></p>
+      <p
+        begin="00:44:54.666"
+        end="00:44:55.666"><span region="Default">One.</span></p>
+      <p
+        begin="00:44:57.500"
+        end="00:44:59.666"><span region="Default">They are scavengers.</span></p>
+      <p
+        begin="00:44:59.833"
+        end="00:45:01.541"><span region="Default">Like boars.</span></p>
+      <p
+        begin="00:45:01.708"
+        end="00:45:03.333"><span region="Default">Only lesser.</span></p>
+      <p
+        begin="00:45:03.500"
+        end="00:45:06.541"><span region="Default">Humans are slow-witted, but...</span></p>
+      <p
+        begin="00:45:08.708"
+        end="00:45:10.250"><span region="Default">there was a time...</span></p>
+      <p
+        begin="00:45:11.166"
+        end="00:45:15.083"><span region="Default">when humans and apes lived side by side.</span></p>
+      <p
+        begin="00:45:17.125"
+        end="00:45:18.916"><span region="Default">[Raka chuckles]</span></p>
+      <p
+        begin="00:45:19.000"
+        end="00:45:24.250"><span region="Default">Yes, it is a puzzle. I know. But...</span></p>
+      <p
+        begin="00:45:25.583"
+        end="00:45:28.333"><span region="Default">they were important to Caesar. Hmm.</span></p>
+      <p
+        begin="00:45:28.500"
+        end="00:45:32.666"><span region="Default">So they are important to me.</span></p>
+      <p
+        begin="00:45:37.166"
+        end="00:45:39.250"><span region="Default">I have to get to my horse.</span></p>
+      <p
+        begin="00:45:40.541"
+        end="00:45:42.083"><span region="Default">Of course.</span></p>
+      <p
+        begin="00:45:42.250"
+        end="00:45:43.416"><span region="Default">Follow me.</span></p>
+      <p
+        begin="00:45:47.125"
+        end="00:45:49.791"><span region="Default">You do not know Caesar.</span></p>
+      <p
+        begin="00:45:51.291"
+        end="00:45:53.666"><span region="Default">You do not know books.</span></p>
+      <p
+        begin="00:45:57.708"
+        end="00:45:59.666"><span region="Default">You should stay here.</span></p>
+      <p
+        begin="00:45:59.833"
+        end="00:46:02.291"><span region="Default">There is much I could teach you.</span></p>
+      <p
+        begin="00:46:02.375"
+        end="00:46:04.583"><span region="Default">[horse neighs]</span></p>
+      <p
+        begin="00:46:08.208"
+        end="00:46:10.166"><span region="Default">[yells]</span></p>
+      <p
+        begin="00:46:10.250"
+        end="00:46:11.250"><span region="Default">Go away!</span></p>
+      <p
+        begin="00:46:11.416"
+        end="00:46:13.791"><span region="Default">-No! Come back!<br/>-Pest!</span></p>
+      <p
+        begin="00:46:13.958"
+        end="00:46:16.083"><span region="Default">[Raka] Wait! Come back!</span></p>
+      <p
+        begin="00:46:17.000"
+        end="00:46:19.875"><span region="Default">There is no danger.</span></p>
+      <p
+        begin="00:46:20.833"
+        end="00:46:22.916"><span region="Default">That is the one.</span></p>
+      <p
+        begin="00:46:23.083"
+        end="00:46:25.500"><span region="Default">Stole from my village.</span></p>
+      <p
+        begin="00:46:26.875"
+        end="00:46:30.291"><span region="Default">She follows you from your village?</span></p>
+      <p
+        begin="00:46:34.000"
+        end="00:46:38.750"><span region="Default">Perhaps Caesar bids me travel.</span></p>
+      <p
+        begin="00:46:42.833"
+        end="00:46:45.500"><span region="Default">Wait here. The work continues.</span></p>
+      <p
+        begin="00:46:45.666"
+        end="00:46:46.833"><span region="Default">I have no time for...</span></p>
+      <p
+        begin="00:46:47.000"
+        end="00:46:50.166"><span region="Default">I will not slow you down.<br/>I, too, keep a horse.</span></p>
+      <p
+        begin="00:46:50.250"
+        end="00:46:51.583"><span region="Default">[Raka chuckles]</span></p>
+      <p
+        begin="00:46:55.500"
+        end="00:46:57.375"><span region="Default">[Raka panting]</span></p>
+      <p
+        begin="00:46:57.458"
+        end="00:47:00.166"><span region="Default">Can we not slow down?</span></p>
+      <p
+        begin="00:47:00.333"
+        end="00:47:01.333"><span region="Default">No.</span></p>
+      <p
+        begin="00:47:04.500"
+        end="00:47:06.458"><span region="Default">I am sure she follows.</span></p>
+      <p
+        begin="00:47:06.625"
+        end="00:47:07.958"><span region="Default">I do not know why.</span></p>
+      <p
+        begin="00:47:08.375"
+        end="00:47:11.625"><span region="Default">[eagle screeches]</span></p>
+      <p
+        begin="00:47:12.625"
+        end="00:47:16.375"><span region="Default">[gasps] A beautiful bird!</span></p>
+      <p
+        begin="00:47:18.583"
+        end="00:47:20.125"><span region="Default">Eagle Sun.</span></p>
+      <p
+        begin="00:47:21.208"
+        end="00:47:22.666"><span region="Default">My father's bird.</span></p>
+      <p
+        begin="00:47:23.833"
+        end="00:47:25.708"><span region="Default">He follows to taunt me.</span></p>
+      <p
+        begin="00:47:26.958"
+        end="00:47:30.750"><span region="Default">This bird follows you too?</span></p>
+      <p
+        begin="00:47:32.291"
+        end="00:47:35.208"><span region="Default">We raise eagles, my clan.</span></p>
+      <p
+        begin="00:47:35.958"
+        end="00:47:37.000"><span region="Default">Sing to them...</span></p>
+      <p
+        begin="00:47:37.958"
+        end="00:47:39.375"><span region="Default">so they know us.</span></p>
+      <p
+        begin="00:47:39.541"
+        end="00:47:40.708"><span region="Default">A bond.</span></p>
+      <p
+        begin="00:47:42.875"
+        end="00:47:44.208"><span region="Default">Sing the song.</span></p>
+      <p
+        begin="00:47:45.166"
+        end="00:47:46.375"><span region="Default">Please.</span></p>
+      <p
+        begin="00:47:49.708"
+        end="00:47:50.708"><span region="Default">No.</span></p>
+      <p
+        begin="00:47:52.708"
+        end="00:47:54.666"><span region="Default">My father was Master of Birds.</span></p>
+      <p
+        begin="00:47:54.833"
+        end="00:47:56.333"><span region="Default">He sang to eagles.</span></p>
+      <p
+        begin="00:47:58.541"
+        end="00:48:00.500"><span region="Default">But I am not him.</span></p>
+      <p
+        begin="00:48:02.458"
+        end="00:48:03.458"><span region="Default">Shame.</span></p>
+      <p
+        begin="00:48:04.875"
+        end="00:48:07.916"><span region="Default">I would have enjoyed a song.</span></p>
+      <p
+        begin="00:48:08.000"
+        end="00:48:10.000"><span region="Default">[thunder rumbles]</span></p>
+      <p
+        begin="00:48:30.041"
+        end="00:48:31.541"><span region="Default">Strange weapons.</span></p>
+      <p
+        begin="00:48:32.875"
+        end="00:48:33.875"><span region="Default">Broken.</span></p>
+      <p
+        begin="00:48:33.958"
+        end="00:48:35.333"><span region="Default">[twigs snap]</span></p>
+      <p
+        begin="00:49:06.250"
+        end="00:49:07.333"><span region="Default">Raka.</span></p>
+      <p
+        begin="00:49:12.000"
+        end="00:49:13.000"><span region="Default">Noa.</span></p>
+      <p
+        begin="00:49:19.291"
+        end="00:49:22.291"><span region="Default">She follows because she is hungry.</span></p>
+      <p
+        begin="00:49:24.333"
+        end="00:49:26.208"><span region="Default">[shivers]</span></p>
+      <p
+        begin="00:49:26.291"
+        end="00:49:27.625"><span region="Default">[coos]</span></p>
+      <p
+        begin="00:49:31.041"
+        end="00:49:32.541"><span region="Default">No, no, no.</span></p>
+      <p
+        begin="00:49:34.541"
+        end="00:49:36.208"><span region="Default">This is...</span></p>
+      <p
+        begin="00:49:38.125"
+        end="00:49:39.625"><span region="Default">important.</span></p>
+      <p
+        begin="00:49:41.166"
+        end="00:49:43.333"><span region="Default">They get cold.</span></p>
+      <p
+        begin="00:49:46.500"
+        end="00:49:48.083"><span region="Default">Show mercy.</span></p>
+      <p
+        begin="00:50:10.083"
+        end="00:50:12.458"><span region="Default">She is smarter than most.</span></p>
+      <p
+        begin="00:50:18.250"
+        end="00:50:21.333"><span region="Default">We will name her Nova.</span></p>
+      <p
+        begin="00:50:23.500"
+        end="00:50:26.375"><span region="Default">We name them all Nova.</span></p>
+      <p
+        begin="00:50:27.416"
+        end="00:50:30.416"><span region="Default">I do not know why.<br/>It is from Caesar's time.</span></p>
+      <p
+        begin="00:50:31.375"
+        end="00:50:36.208"><span region="Default">Why did Caesar care so much for Echoes?</span></p>
+      <p
+        begin="00:50:36.750"
+        end="00:50:41.416"><span region="Default">Legend says he was reared by them...</span></p>
+      <p
+        begin="00:50:42.958"
+        end="00:50:45.416"><span region="Default">impossible as that may seem.</span></p>
+      <p
+        begin="00:50:47.000"
+        end="00:50:49.125"><span region="Default">Caesar legend is important.</span></p>
+      <p
+        begin="00:50:51.125"
+        end="00:50:53.541"><span region="Default">He was first Elder.</span></p>
+      <p
+        begin="00:50:55.083"
+        end="00:50:57.958"><span region="Default">He led with decency...</span></p>
+      <p
+        begin="00:50:59.375"
+        end="00:51:00.666"><span region="Default">morality...</span></p>
+      <p
+        begin="00:51:02.416"
+        end="00:51:03.791"><span region="Default">strength...</span></p>
+      <p
+        begin="00:51:06.916"
+        end="00:51:08.291"><span region="Default">compassion.</span></p>
+      <p
+        begin="00:51:13.166"
+        end="00:51:16.333"><span region="Default">Caesar never had to share camp...</span></p>
+      <p
+        begin="00:51:16.916"
+        end="00:51:19.750"><span region="Default">with this Nova.</span></p>
+      <p
+        begin="00:51:21.291"
+        end="00:51:25.375"><span region="Default">-[sniffs]<br/>-[coughs, sucks teeth]</span></p>
+      <p
+        begin="00:51:31.875"
+        end="00:51:33.916"><span region="Default">The smell is potent.</span></p>
+      <p
+        begin="00:51:50.166"
+        end="00:51:52.166"><span region="Default">[♪ mysterious music playing]</span></p>
+      <p
+        begin="00:52:08.708"
+        end="00:52:10.625"><span region="Default">-[eagle screeches]<br/>-[wings flutter]</span></p>
+      <p
+        begin="00:52:47.166"
+        end="00:52:48.583"><span region="Default">[clang echoes]</span></p>
+      <p
+        begin="00:52:54.708"
+        end="00:52:55.791"><span region="Default">[thuds]</span></p>
+      <p
+        begin="00:53:01.291"
+        end="00:53:02.875"><span region="Default">[clinks]</span></p>
+      <p
+        begin="00:53:18.375"
+        end="00:53:19.833"><span region="Default">[gasps]</span></p>
+      <p
+        begin="00:53:41.708"
+        end="00:53:43.791"><span region="Default">[huffing]</span></p>
+      <p
+        begin="00:54:16.625"
+        end="00:54:18.875"><span region="Default">[breath quivering]</span></p>
+      <p
+        begin="00:54:27.958"
+        end="00:54:32.666"><span region="Default">A tunnel that eats light?</span></p>
+      <p
+        begin="00:54:33.916"
+        end="00:54:35.833"><span region="Default">She saw what I saw.</span></p>
+      <p
+        begin="00:54:36.916"
+        end="00:54:38.500"><span region="Default">It was in her eyes.</span></p>
+      <p
+        begin="00:54:38.666"
+        end="00:54:39.875"><span region="Default">She...</span></p>
+      <p
+        begin="00:54:40.916"
+        end="00:54:42.208"><span region="Default">reacted.</span></p>
+      <p
+        begin="00:54:43.375"
+        end="00:54:44.375"><span region="Default">How?</span></p>
+      <p
+        begin="00:54:47.916"
+        end="00:54:49.666"><span region="Default">As ape would.</span></p>
+      <p
+        begin="00:54:57.416"
+        end="00:54:59.958"><span region="Default">-If Echo comes, she must ride.<br/>-Hmm.</span></p>
+      <p
+        begin="00:55:00.041"
+        end="00:55:04.041"><span region="Default">Is my young companion showing compassion<br/>for our fellow traveler?</span></p>
+      <p
+        begin="00:55:05.041"
+        end="00:55:06.250"><span region="Default">She is slow.</span></p>
+      <p
+        begin="00:55:23.958"
+        end="00:55:25.791"><span region="Default">Horse.</span></p>
+      <p
+        begin="00:55:27.833"
+        end="00:55:29.250"><span region="Default">[chuffs]</span></p>
+      <p
+        begin="00:55:34.916"
+        end="00:55:38.291"><span region="Default">Then, of course, there is the gibbon.</span></p>
+      <p
+        begin="00:55:39.083"
+        end="00:55:40.875"><span region="Default">Very, very long arms.</span></p>
+      <p
+        begin="00:55:41.208"
+        end="00:55:47.333"><span region="Default">Is most unfortunate that the human<br/>can only use its feet for walking.</span></p>
+      <p
+        begin="00:55:48.333"
+        end="00:55:50.791"><span region="Default">Imagine if you were falling from a tree.</span></p>
+      <p
+        begin="00:55:50.958"
+        end="00:55:53.500"><span region="Default">You only have two appendages<br/>to save your life.</span></p>
+      <p
+        begin="00:55:53.666"
+        end="00:55:56.958"><span region="Default">But if you were able to use<br/>both of your hands...</span></p>
+      <p
+        begin="00:55:57.125"
+        end="00:55:59.083"><span region="Default">and both of your feet...</span></p>
+      <p
+        begin="00:55:59.250"
+        end="00:56:01.583"><span region="Default">that's four times the safety.</span></p>
+      <p
+        begin="00:56:01.750"
+        end="00:56:06.625"><span region="Default">And I imagine that,<br/>if I came across a special...</span></p>
+      <p
+        begin="00:56:08.500"
+        end="00:56:11.000"><span region="Default">What is that?</span></p>
+      <p
+        begin="00:56:11.083"
+        end="00:56:13.166"><span region="Default">[zebras nickering]</span></p>
+      <p
+        begin="00:56:37.208"
+        end="00:56:39.916"><span region="Default">Horses with stripes.</span></p>
+      <p
+        begin="00:56:42.166"
+        end="00:56:44.208"><span region="Default">Quite striking.</span></p>
+      <p
+        begin="00:56:45.708"
+        end="00:56:47.416"><span region="Default">[Nova breathing heavily]</span></p>
+      <p
+        begin="00:57:01.791"
+        end="00:57:03.791"><span region="Default">[breath quivers]</span></p>
+      <p
+        begin="00:57:32.541"
+        end="00:57:36.791"><span region="Default">We feared the herds ceased to exist.</span></p>
+      <p
+        begin="00:58:00.541"
+        end="00:58:02.750"><span region="Default">Will you not say goodbye?</span></p>
+      <p
+        begin="00:58:05.125"
+        end="00:58:08.208"><span region="Default">I must find my clan.</span></p>
+      <p
+        begin="00:58:09.916"
+        end="00:58:12.625"><span region="Default">The Nova stays with her kind.</span></p>
+      <p
+        begin="00:58:13.833"
+        end="00:58:15.458"><span region="Default">You raise them up.</span></p>
+      <p
+        begin="00:58:16.958"
+        end="00:58:20.708"><span region="Default">Follow Caesar's word.</span></p>
+      <p
+        begin="00:58:30.625"
+        end="00:58:32.125"><span region="Default">To remember...</span></p>
+      <p
+        begin="00:58:33.458"
+        end="00:58:35.291"><span region="Default">who he was.</span></p>
+      <p
+        begin="00:58:39.166"
+        end="00:58:41.166"><span region="Default">It is important.</span></p>
+      <p
+        begin="00:59:11.333"
+        end="00:59:12.791"><span region="Default">They are like you.</span></p>
+      <p
+        begin="00:59:14.500"
+        end="00:59:16.458"><span region="Default">Would you like to join them?</span></p>
+      <p
+        begin="00:59:35.000"
+        end="00:59:37.000"><span region="Default">He has his journey.</span></p>
+      <p
+        begin="00:59:38.083"
+        end="00:59:39.958"><span region="Default">We have ours.</span></p>
+      <p
+        begin="00:59:40.583"
+        end="00:59:41.583"><span region="Default">Come.</span></p>
+      <p
+        begin="00:59:41.666"
+        end="00:59:42.875"><span region="Default">-[horn bellowing]<br/>-[Nova gasps]</span></p>
+      <p
+        begin="00:59:52.708"
+        end="00:59:54.916"><span region="Default">[horses approaching]</span></p>
+      <p
+        begin="01:00:01.041"
+        end="01:00:03.291"><span region="Default">-[roars]<br/>-[zebras whinny]</span></p>
+      <p
+        begin="01:00:07.416"
+        end="01:00:10.125"><span region="Default">[people screaming]</span></p>
+      <p
+        begin="01:00:30.000"
+        end="01:00:31.000"><span region="Default">[shouting] Nova!</span></p>
+      <p
+        begin="01:00:31.958"
+        end="01:00:33.291"><span region="Default">Nova!</span></p>
+      <p
+        begin="01:00:59.958"
+        end="01:01:01.125"><span region="Default">Take them!</span></p>
+      <p
+        begin="01:01:07.291"
+        end="01:01:08.708"><span region="Default">[Sylva] Ride them down!</span></p>
+      <p
+        begin="01:01:08.875"
+        end="01:01:10.750"><span region="Default">Catch that one!</span></p>
+      <p
+        begin="01:01:44.500"
+        end="01:01:45.500"><span region="Default">[growls]</span></p>
+      <p
+        begin="01:01:52.625"
+        end="01:01:54.791"><span region="Default">This one? Hyah!</span></p>
+      <p
+        begin="01:02:01.666"
+        end="01:02:02.666"><span region="Default">There!</span></p>
+      <p
+        begin="01:02:03.625"
+        end="01:02:04.625"><span region="Default">[screeches]</span></p>
+      <p
+        begin="01:02:24.583"
+        end="01:02:25.791"><span region="Default">Spread out.</span></p>
+      <p
+        begin="01:02:26.125"
+        end="01:02:27.125"><span region="Default">Lightning.</span></p>
+      <p
+        begin="01:02:39.958"
+        end="01:02:40.958"><span region="Default">This way.</span></p>
+      <p
+        begin="01:02:41.916"
+        end="01:02:42.916"><span region="Default">Find her!</span></p>
+      <p
+        begin="01:02:51.208"
+        end="01:02:53.916"><span region="Default">I know she here!</span></p>
+      <p
+        begin="01:02:57.750"
+        end="01:02:59.083"><span region="Default">[Noa] Raka!</span></p>
+      <p
+        begin="01:03:01.000"
+        end="01:03:02.083"><span region="Default">Nova!</span></p>
+      <p
+        begin="01:03:03.875"
+        end="01:03:05.166"><span region="Default">[Sylva] Come out!</span></p>
+      <p
+        begin="01:03:05.333"
+        end="01:03:07.041"><span region="Default">I smell you!</span></p>
+      <p
+        begin="01:03:09.250"
+        end="01:03:10.541"><span region="Default">[Noa] Raka!</span></p>
+      <p
+        begin="01:03:17.041"
+        end="01:03:18.041"><span region="Default">[screams] Noa!</span></p>
+      <p
+        begin="01:03:42.833"
+        end="01:03:43.833"><span region="Default">Hyah!</span></p>
+      <p
+        begin="01:03:55.625"
+        end="01:03:56.875"><span region="Default">[roars]</span></p>
+      <p
+        begin="01:04:06.125"
+        end="01:04:08.666"><span region="Default">[both grunting]</span></p>
+      <p
+        begin="01:04:08.750"
+        end="01:04:10.208"><span region="Default">[Raka] Noa!</span></p>
+      <p
+        begin="01:04:10.291"
+        end="01:04:13.166"><span region="Default">-[Raka yells]<br/>-[metal clangs]</span></p>
+      <p
+        begin="01:04:18.041"
+        end="01:04:19.125"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:04:19.750"
+        end="01:04:21.000"><span region="Default">[Raka laughs exultantly]</span></p>
+      <p
+        begin="01:04:21.375"
+        end="01:04:23.166"><span region="Default">Caesar will forgive.</span></p>
+      <p
+        begin="01:04:24.041"
+        end="01:04:25.625"><span region="Default">Shall we continue?</span></p>
+      <p
+        begin="01:04:41.333"
+        end="01:04:42.666"><span region="Default">-[slaps]<br/>-[horse neighing]</span></p>
+      <p
+        begin="01:04:45.875"
+        end="01:04:49.291"><span region="Default">This should give us time.</span></p>
+      <p
+        begin="01:04:56.500"
+        end="01:04:57.875"><span region="Default">[leaves rustling]</span></p>
+      <p
+        begin="01:05:27.166"
+        end="01:05:29.541"><span region="Default">What did I miss?</span></p>
+      <p
+        begin="01:05:29.708"
+        end="01:05:31.166"><span region="Default">She spoke.</span></p>
+      <p
+        begin="01:05:34.041"
+        end="01:05:36.375"><span region="Default">She called my name.</span></p>
+      <p
+        begin="01:05:36.541"
+        end="01:05:38.875"><span region="Default">You misheard.</span></p>
+      <p
+        begin="01:05:39.041"
+        end="01:05:43.708"><span region="Default">You said this Nova was smarter than most.</span></p>
+      <p
+        begin="01:05:43.875"
+        end="01:05:45.333"><span region="Default">[Raka] Within reason.</span></p>
+      <p
+        begin="01:05:46.500"
+        end="01:05:48.750"><span region="Default">Some intelligence, to be sure, but...</span></p>
+      <p
+        begin="01:05:48.916"
+        end="01:05:50.458"><span region="Default">I have a name.</span></p>
+      <p
+        begin="01:05:52.375"
+        end="01:05:53.375"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:05:57.791"
+        end="01:06:00.000"><span region="Default">I know where they're taking your clan.</span></p>
+      <p
+        begin="01:06:06.208"
+        end="01:06:07.375"><span region="Default">[sighs]</span></p>
+      <p
+        begin="01:06:09.375"
+        end="01:06:10.958"><span region="Default">It's a human settlement.</span></p>
+      <p
+        begin="01:06:12.625"
+        end="01:06:14.250"><span region="Default">It's where I'm headed to.</span></p>
+      <p
+        begin="01:06:14.875"
+        end="01:06:16.541"><span region="Default">Looking for more like me.</span></p>
+      <p
+        begin="01:06:16.708"
+        end="01:06:18.166"><span region="Default">There are more...</span></p>
+      <p
+        begin="01:06:19.083"
+        end="01:06:20.166"><span region="Default">like you?</span></p>
+      <p
+        begin="01:06:22.625"
+        end="01:06:24.458"><span region="Default">There used to be more.</span></p>
+      <p
+        begin="01:06:25.291"
+        end="01:06:28.333"><span region="Default">You hid the truth?</span></p>
+      <p
+        begin="01:06:28.500"
+        end="01:06:30.708"><span region="Default">My mother taught me silence...</span></p>
+      <p
+        begin="01:06:32.208"
+        end="01:06:33.833"><span region="Default">for my safety.</span></p>
+      <p
+        begin="01:06:34.583"
+        end="01:06:37.583"><span region="Default">You were safe with us.</span></p>
+      <p
+        begin="01:06:38.166"
+        end="01:06:40.875"><span region="Default">And still not true.</span></p>
+      <p
+        begin="01:06:42.125"
+        end="01:06:44.583"><span region="Default">Where is your mother now?</span></p>
+      <p
+        begin="01:06:47.875"
+        end="01:06:49.833"><span region="Default">I am alone.</span></p>
+      <p
+        begin="01:06:50.625"
+        end="01:06:53.041"><span region="Default">Huh. [sighs]</span></p>
+      <p
+        begin="01:06:54.166"
+        end="01:06:56.375"><span region="Default">As are we all.</span></p>
+      <p
+        begin="01:06:57.583"
+        end="01:06:58.833"><span region="Default">But now...</span></p>
+      <p
+        begin="01:07:00.625"
+        end="01:07:02.791"><span region="Default">we have each other.</span></p>
+      <p
+        begin="01:07:10.375"
+        end="01:07:11.541"><span region="Default">[Raka grunts]</span></p>
+      <p
+        begin="01:07:12.208"
+        end="01:07:14.958"><span region="Default">Ah. [grunts]</span></p>
+      <p
+        begin="01:07:16.916"
+        end="01:07:18.916"><span region="Default">Let us have a fire.</span></p>
+      <p
+        begin="01:07:19.083"
+        end="01:07:21.500"><span region="Default">We have much to discuss.</span></p>
+      <p
+        begin="01:07:22.583"
+        end="01:07:24.041"><span region="Default">[Mae shivering]</span></p>
+      <p
+        begin="01:07:52.833"
+        end="01:07:54.833"><span region="Default">[♪ gentle music playing]</span></p>
+      <p
+        begin="01:08:12.375"
+        end="01:08:13.916"><span region="Default">[electricity crackling]</span></p>
+      <p
+        begin="01:08:14.000"
+        end="01:08:15.541"><span region="Default">[hooting]</span></p>
+      <p
+        begin="01:08:18.458"
+        end="01:08:19.750"><span region="Default">[sniffs]</span></p>
+      <p
+        begin="01:08:34.166"
+        end="01:08:36.291"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:08:36.375"
+        end="01:08:38.208"><span region="Default">[electrical crackling continues]</span></p>
+      <p
+        begin="01:08:57.416"
+        end="01:08:59.666"><span region="Default">[♪ unsettling music playing]</span></p>
+      <p
+        begin="01:09:18.416"
+        end="01:09:20.791"><span region="Default">[birds squawking]</span></p>
+      <p
+        begin="01:09:28.250"
+        end="01:09:30.500"><span region="Default">[Raka cooing, grunts]</span></p>
+      <p
+        begin="01:09:32.666"
+        end="01:09:34.500"><span region="Default">[Mae breathing heavily]</span></p>
+      <p
+        begin="01:09:49.166"
+        end="01:09:50.750"><span region="Default">[Raka cooing]</span></p>
+      <p
+        begin="01:09:55.250"
+        end="01:09:57.416"><span region="Default">[birds calling]</span></p>
+      <p
+        begin="01:10:23.583"
+        end="01:10:25.458"><span region="Default">[♪ tense music playing]</span></p>
+      <p
+        begin="01:10:31.458"
+        end="01:10:33.291"><span region="Default">[birds screeching]</span></p>
+      <p
+        begin="01:10:38.041"
+        end="01:10:39.291"><span region="Default">[Sylva growls]</span></p>
+      <p
+        begin="01:10:44.458"
+        end="01:10:46.208"><span region="Default">[horse neighs]</span></p>
+      <p
+        begin="01:10:47.291"
+        end="01:10:48.625"><span region="Default">[inhales sharply]</span></p>
+      <p
+        begin="01:10:48.708"
+        end="01:10:50.000"><span region="Default">Go back.</span></p>
+      <p
+        begin="01:10:50.791"
+        end="01:10:51.958"><span region="Default">Go back!</span></p>
+      <p
+        begin="01:10:52.041"
+        end="01:10:55.333"><span region="Default">[marauder growling and screeching]</span></p>
+      <p
+        begin="01:10:56.833"
+        end="01:10:58.375"><span region="Default">[both grunting]</span></p>
+      <p
+        begin="01:10:58.458"
+        end="01:10:59.458"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:11:01.208"
+        end="01:11:02.333"><span region="Default">[Mae grunting]</span></p>
+      <p
+        begin="01:11:02.875"
+        end="01:11:04.083"><span region="Default">[Raka] Mae!</span></p>
+      <p
+        begin="01:11:06.416"
+        end="01:11:07.416"><span region="Default">[Mae screaming]</span></p>
+      <p
+        begin="01:11:09.541"
+        end="01:11:10.541"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:10.708"
+        end="01:11:11.750"><span region="Default">No!</span></p>
+      <p
+        begin="01:11:12.500"
+        end="01:11:13.500"><span region="Default">[gasping]</span></p>
+      <p
+        begin="01:11:14.250"
+        end="01:11:15.250"><span region="Default">[straining]</span></p>
+      <p
+        begin="01:11:15.958"
+        end="01:11:16.958"><span region="Default">[Mae grunting]</span></p>
+      <p
+        begin="01:11:21.708"
+        end="01:11:23.041"><span region="Default">-[staff crackling]<br/>-[Noa grunts]</span></p>
+      <p
+        begin="01:11:23.125"
+        end="01:11:24.125"><span region="Default">[marauder screeches]</span></p>
+      <p
+        begin="01:11:25.333"
+        end="01:11:26.541"><span region="Default">[Mae gasps]</span></p>
+      <p
+        begin="01:11:26.708"
+        end="01:11:27.833"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:11:32.375"
+        end="01:11:33.375"><span region="Default">Hold on!</span></p>
+      <p
+        begin="01:11:34.000"
+        end="01:11:35.666"><span region="Default">[Raka] Mae!</span></p>
+      <p
+        begin="01:11:37.791"
+        end="01:11:38.916"><span region="Default">[Raka yelps]</span></p>
+      <p
+        begin="01:11:41.500"
+        end="01:11:44.166"><span region="Default">-[Mae gasping]<br/>-[Raka straining]</span></p>
+      <p
+        begin="01:11:44.250"
+        end="01:11:45.958"><span region="Default">[Mae coughing]</span></p>
+      <p
+        begin="01:11:48.375"
+        end="01:11:50.125"><span region="Default">[Raka struggling]</span></p>
+      <p
+        begin="01:11:50.833"
+        end="01:11:52.333"><span region="Default">No! Raka!</span></p>
+      <p
+        begin="01:11:52.500"
+        end="01:11:53.500"><span region="Default">Raka!</span></p>
+      <p
+        begin="01:11:57.625"
+        end="01:11:58.791"><span region="Default">[breathing heavily]</span></p>
+      <p
+        begin="01:11:58.875"
+        end="01:12:00.375"><span region="Default">[snarling]</span></p>
+      <p
+        begin="01:12:02.125"
+        end="01:12:03.625"><span region="Default">[Noa grunting]</span></p>
+      <p
+        begin="01:12:07.666"
+        end="01:12:08.916"><span region="Default">Together...</span></p>
+      <p
+        begin="01:12:10.083"
+        end="01:12:11.250"><span region="Default">strong.</span></p>
+      <p
+        begin="01:12:19.500"
+        end="01:12:20.875"><span region="Default">[water gurgling]</span></p>
+      <p
+        begin="01:12:23.416"
+        end="01:12:25.166"><span region="Default">[♪ mournful music playing]</span></p>
+      <p
+        begin="01:12:41.333"
+        end="01:12:43.166"><span region="Default">[bird calling]</span></p>
+      <p
+        begin="01:13:04.833"
+        end="01:13:06.541"><span region="Default">[Noa panting]</span></p>
+      <p
+        begin="01:13:09.041"
+        end="01:13:10.166"><span region="Default">[Mae panting]</span></p>
+      <p
+        begin="01:13:10.416"
+        end="01:13:12.000"><span region="Default">[♪ sinister music playing]</span></p>
+      <p
+        begin="01:13:15.750"
+        end="01:13:17.000"><span region="Default">[horses whinnying]</span></p>
+      <p
+        begin="01:13:25.541"
+        end="01:13:27.541"><span region="Default">[apes chattering and hooting]</span></p>
+      <p
+        begin="01:13:41.375"
+        end="01:13:43.375"><span region="Default">[♪ menacing music playing]</span></p>
+      <p
+        begin="01:13:49.541"
+        end="01:13:51.791"><span region="Default">[apes chattering and hooting]</span></p>
+      <p
+        begin="01:13:59.541"
+        end="01:14:01.500"><span region="Default">[all screeching and hooting]</span></p>
+      <p
+        begin="01:14:09.000"
+        end="01:14:11.083"><span region="Default">[marauder] Stand back! Human!</span></p>
+      <p
+        begin="01:14:11.166"
+        end="01:14:13.125"><span region="Default">[Mae breathing heavily]</span></p>
+      <p
+        begin="01:14:16.333"
+        end="01:14:17.875"><span region="Default">[gasps and snarls]</span></p>
+      <p
+        begin="01:14:20.625"
+        end="01:14:22.000"><span region="Default">[Lightning hooting]</span></p>
+      <p
+        begin="01:14:25.333"
+        end="01:14:26.833"><span region="Default">[Mae whimpering]</span></p>
+      <p
+        begin="01:14:26.916"
+        end="01:14:28.208"><span region="Default">[knife slices]</span></p>
+      <p
+        begin="01:14:32.166"
+        end="01:14:33.708"><span region="Default">[Mae gasps]</span></p>
+      <p
+        begin="01:14:33.791"
+        end="01:14:35.041"><span region="Default">[Noa] No! No! No!</span></p>
+      <p
+        begin="01:14:38.333"
+        end="01:14:40.375"><span region="Default">-[apes screeching]<br/>-[Mae grunting]</span></p>
+      <p
+        begin="01:14:45.708"
+        end="01:14:47.125"><span region="Default">[Lightning hooting]</span></p>
+      <p
+        begin="01:14:49.250"
+        end="01:14:51.916"><span region="Default">Welcome home, baby bird.</span></p>
+      <p
+        begin="01:14:55.291"
+        end="01:14:57.375"><span region="Default">[apes hooting]</span></p>
+      <p
+        begin="01:15:02.458"
+        end="01:15:03.458"><span region="Default">Go!</span></p>
+      <p
+        begin="01:15:07.833"
+        end="01:15:10.166"><span region="Default">[♪ sinister music playing]</span></p>
+      <p
+        begin="01:15:20.291"
+        end="01:15:22.125"><span region="Default">[indistinct chatter]</span></p>
+      <p
+        begin="01:15:40.916"
+        end="01:15:42.750"><span region="Default">[apes hooting]</span></p>
+      <p
+        begin="01:15:56.583"
+        end="01:15:57.791"><span region="Default">[Soona] Noa? [gasps]</span></p>
+      <p
+        begin="01:15:58.500"
+        end="01:16:00.333"><span region="Default">-Noa!<br/>-[both hooting happily]</span></p>
+      <p
+        begin="01:16:01.291"
+        end="01:16:04.250"><span region="Default">[Noa] I missed you. Soona. Soona.</span></p>
+      <p
+        begin="01:16:04.791"
+        end="01:16:06.416"><span region="Default">[Soona panting]</span></p>
+      <p
+        begin="01:16:07.625"
+        end="01:16:08.625"><span region="Default">No.</span></p>
+      <p
+        begin="01:16:11.500"
+        end="01:16:13.458"><span region="Default">You were dead.</span></p>
+      <p
+        begin="01:16:14.750"
+        end="01:16:17.083"><span region="Default">I... I saw you fall.</span></p>
+      <p
+        begin="01:16:17.250"
+        end="01:16:19.875"><span region="Default">You are not hurt?</span></p>
+      <p
+        begin="01:16:21.083"
+        end="01:16:22.083"><span region="Default">No.</span></p>
+      <p
+        begin="01:16:22.833"
+        end="01:16:23.833"><span region="Default">No.</span></p>
+      <p
+        begin="01:16:29.333"
+        end="01:16:30.958"><span region="Default">Mother?</span></p>
+      <p
+        begin="01:16:31.125"
+        end="01:16:32.125"><span region="Default">Anaya?</span></p>
+      <p
+        begin="01:16:34.541"
+        end="01:16:35.833"><span region="Default">[door unlocks]</span></p>
+      <p
+        begin="01:16:35.916"
+        end="01:16:37.666"><span region="Default">-[growls]<br/>-[Mae grunts]</span></p>
+      <p
+        begin="01:16:40.500"
+        end="01:16:41.916"><span region="Default">[locks door]</span></p>
+      <p
+        begin="01:17:23.666"
+        end="01:17:24.833"><span region="Default">[man] Vonnegut.</span></p>
+      <p
+        begin="01:17:25.916"
+        end="01:17:27.375"><span region="Default">That's a good one.</span></p>
+      <p
+        begin="01:17:28.333"
+        end="01:17:30.250"><span region="Default">Not a lot of fiction there.</span></p>
+      <p
+        begin="01:17:30.750"
+        end="01:17:33.875"><span region="Default">He's mostly interested in history.</span></p>
+      <p
+        begin="01:17:35.750"
+        end="01:17:38.708"><span region="Default">Roman history, especially. [chuckles]</span></p>
+      <p
+        begin="01:17:43.291"
+        end="01:17:44.875"><span region="Default">The name's Trevathan.</span></p>
+      <p
+        begin="01:17:44.958"
+        end="01:17:46.541"><span region="Default">[pot whistling]</span></p>
+      <p
+        begin="01:17:46.625"
+        end="01:17:48.333"><span region="Default">-[Trevathan coughs]<br/>-[whistling stops]</span></p>
+      <p
+        begin="01:17:48.416"
+        end="01:17:50.208"><span region="Default">[Trevathan] Where, uh...</span></p>
+      <p
+        begin="01:17:50.291"
+        end="01:17:51.625"><span region="Default">Where are you from?</span></p>
+      <p
+        begin="01:17:54.666"
+        end="01:17:55.916"><span region="Default">You first.</span></p>
+      <p
+        begin="01:17:56.625"
+        end="01:17:57.833"><span region="Default">[chuckles]</span></p>
+      <p
+        begin="01:17:57.916"
+        end="01:18:01.666"><span region="Default">Well, doesn't really matter, does it?</span></p>
+      <p
+        begin="01:18:01.833"
+        end="01:18:03.041"><span region="Default">I left.</span></p>
+      <p
+        begin="01:18:04.583"
+        end="01:18:06.125"><span region="Default">Same as you.</span></p>
+      <p
+        begin="01:18:06.291"
+        end="01:18:08.875"><span region="Default">Made it almost to the coast</span></p>
+      <p
+        begin="01:18:09.041"
+        end="01:18:12.125"><span region="Default">and then I fell and shattered my ankles.</span></p>
+      <p
+        begin="01:18:12.291"
+        end="01:18:14.166"><span region="Default">That's where Proximus found me.</span></p>
+      <p
+        begin="01:18:16.000"
+        end="01:18:20.375"><span region="Default">And now you read him Roman history.</span></p>
+      <p
+        begin="01:18:20.458"
+        end="01:18:22.166"><span region="Default">[chuckles]</span></p>
+      <p
+        begin="01:18:23.458"
+        end="01:18:25.541"><span region="Default">So, who are you?</span></p>
+      <p
+        begin="01:18:26.791"
+        end="01:18:29.916"><span region="Default">I'm the human not helping the apes.</span></p>
+      <p
+        begin="01:18:34.083"
+        end="01:18:36.750"><span region="Default">[apes grunting]</span></p>
+      <p
+        begin="01:18:46.041"
+        end="01:18:47.500"><span region="Default">[Soona] Noa.</span></p>
+      <p
+        begin="01:18:47.583"
+        end="01:18:49.208"><span region="Default">[Dar hooting]</span></p>
+      <p
+        begin="01:18:49.708"
+        end="01:18:51.750"><span region="Default">[Dar] Share. Must share.</span></p>
+      <p
+        begin="01:18:51.916"
+        end="01:18:52.916"><span region="Default">Good.</span></p>
+      <p
+        begin="01:18:53.833"
+        end="01:18:55.333"><span region="Default">[Dar gasps]</span></p>
+      <p
+        begin="01:18:57.000"
+        end="01:18:58.000"><span region="Default">[child 1] Noa?</span></p>
+      <p
+        begin="01:18:58.416"
+        end="01:18:59.666"><span region="Default">-[children] Noa!<br/>-[child 2] You're alive!</span></p>
+      <p
+        begin="01:18:59.750"
+        end="01:19:01.583"><span region="Default">[Dar hooting happily]</span></p>
+      <p
+        begin="01:19:07.333"
+        end="01:19:08.500"><span region="Default">[Dar laughs]</span></p>
+      <p
+        begin="01:19:17.333"
+        end="01:19:18.583"><span region="Default">Father...</span></p>
+      <p
+        begin="01:19:19.375"
+        end="01:19:20.416"><span region="Default">he's...</span></p>
+      <p
+        begin="01:19:20.583"
+        end="01:19:22.875"><span region="Default">I know.</span></p>
+      <p
+        begin="01:19:26.041"
+        end="01:19:27.541"><span region="Default">[Dar sobbing softly]</span></p>
+      <p
+        begin="01:19:29.083"
+        end="01:19:31.333"><span region="Default">[alphorn blowing]</span></p>
+      <p
+        begin="01:19:38.250"
+        end="01:19:40.125"><span region="Default">[chimps screeching]</span></p>
+      <p
+        begin="01:19:40.208"
+        end="01:19:42.041"><span region="Default">We must go.</span></p>
+      <p
+        begin="01:19:43.583"
+        end="01:19:44.833"><span region="Default">Come.</span></p>
+      <p
+        begin="01:19:44.916"
+        end="01:19:46.541"><span region="Default">[alphorn blowing]</span></p>
+      <p
+        begin="01:19:54.750"
+        end="01:19:56.250"><span region="Default">[apes] Caesar!</span></p>
+      <p
+        begin="01:20:03.291"
+        end="01:20:09.041"><span region="Default">[apes chanting]<br/>Caesar! Caesar! Caesar!</span></p>
+      <p
+        begin="01:20:12.500"
+        end="01:20:14.250"><span region="Default">[chanting continues]</span></p>
+      <p
+        begin="01:20:23.916"
+        end="01:20:25.125"><span region="Default">[chimps whimpering]</span></p>
+      <p
+        begin="01:20:28.958"
+        end="01:20:30.583"><span region="Default">[hooting]</span></p>
+      <p
+        begin="01:20:32.250"
+        end="01:20:34.208"><span region="Default">[Proximus growling]</span></p>
+      <p
+        begin="01:20:46.000"
+        end="01:20:48.083"><span region="Default">[apes screeching]</span></p>
+      <p
+        begin="01:20:52.166"
+        end="01:20:53.916"><span region="Default">[screeching and hooting stops]</span></p>
+      <p
+        begin="01:20:54.166"
+        end="01:20:55.916"><span region="Default">What a wonderful day!</span></p>
+      <p
+        begin="01:20:56.625"
+        end="01:20:58.625"><span region="Default">[apes] What a wonderful day!</span></p>
+      <p
+        begin="01:20:59.666"
+        end="01:21:03.500"><span region="Default">Are we thankful for the words of Caesar?</span></p>
+      <p
+        begin="01:21:03.666"
+        end="01:21:05.541"><span region="Default">[apes] We are thankful.</span></p>
+      <p
+        begin="01:21:05.708"
+        end="01:21:07.791"><span region="Default">Do we bend our heads?</span></p>
+      <p
+        begin="01:21:07.958"
+        end="01:21:09.833"><span region="Default">[apes] We bend!</span></p>
+      <p
+        begin="01:21:10.375"
+        end="01:21:12.166"><span region="Default">Say his words!</span></p>
+      <p
+        begin="01:21:12.333"
+        end="01:21:14.375"><span region="Default">[apes] Apes together strong!</span></p>
+      <p
+        begin="01:21:14.541"
+        end="01:21:16.208"><span region="Default">[Proximus] Say his words!</span></p>
+      <p
+        begin="01:21:16.375"
+        end="01:21:18.708"><span region="Default">[all] Apes together strong!</span></p>
+      <p
+        begin="01:21:18.875"
+        end="01:21:21.583"><span region="Default">What a wonderful day!</span></p>
+      <p
+        begin="01:21:21.666"
+        end="01:21:23.083"><span region="Default">[apes chattering]</span></p>
+      <p
+        begin="01:21:31.041"
+        end="01:21:32.583"><span region="Default">That felt good.</span></p>
+      <p
+        begin="01:21:33.166"
+        end="01:21:36.041"><span region="Default">When I think on those words...</span></p>
+      <p
+        begin="01:21:36.208"
+        end="01:21:39.125"><span region="Default">I feel good.</span></p>
+      <p
+        begin="01:21:41.583"
+        end="01:21:44.791"><span region="Default">Caesar was first Elder.</span></p>
+      <p
+        begin="01:21:44.958"
+        end="01:21:48.958"><span region="Default">Now I am Caesar.</span></p>
+      <p
+        begin="01:21:49.041"
+        end="01:21:50.791"><span region="Default">[apes chattering]</span></p>
+      <p
+        begin="01:21:52.125"
+        end="01:21:54.208"><span region="Default">He is not Caesar.</span></p>
+      <p
+        begin="01:21:54.958"
+        end="01:21:57.833"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="01:21:57.916"
+        end="01:21:59.666"><span region="Default">[Proximus hooting]</span></p>
+      <p
+        begin="01:22:02.333"
+        end="01:22:08.166"><span region="Default">Now, when I think of all the treasures<br/>left inside for us...</span></p>
+      <p
+        begin="01:22:08.250"
+        end="01:22:09.541"><span region="Default">Oh...</span></p>
+      <p
+        begin="01:22:10.041"
+        end="01:22:13.000"><span region="Default">I feel very good.</span></p>
+      <p
+        begin="01:22:15.583"
+        end="01:22:18.000"><span region="Default">It may be difficult to open.</span></p>
+      <p
+        begin="01:22:19.083"
+        end="01:22:20.583"><span region="Default">But not impossible...</span></p>
+      <p
+        begin="01:22:20.750"
+        end="01:22:23.666"><span region="Default">because we work together.</span></p>
+      <p
+        begin="01:22:24.708"
+        end="01:22:27.083"><span region="Default">All as one.</span></p>
+      <p
+        begin="01:22:27.250"
+        end="01:22:29.166"><span region="Default">As Caesar wanted.</span></p>
+      <p
+        begin="01:22:29.333"
+        end="01:22:32.291"><span region="Default">As Caesar required.</span></p>
+      <p
+        begin="01:22:32.458"
+        end="01:22:35.125"><span region="Default">[all] Apes together strong!</span></p>
+      <p
+        begin="01:22:36.000"
+        end="01:22:37.000"><span region="Default">Pull!</span></p>
+      <p
+        begin="01:22:37.083"
+        end="01:22:38.958"><span region="Default">-[whip lashing]<br/>-[horses neighing]</span></p>
+      <p
+        begin="01:22:42.166"
+        end="01:22:44.375"><span region="Default">[apes grunting]</span></p>
+      <p
+        begin="01:22:44.958"
+        end="01:22:46.000"><span region="Default">[grunting]</span></p>
+      <p
+        begin="01:22:47.666"
+        end="01:22:49.500"><span region="Default">[Sylva] Pull!</span></p>
+      <p
+        begin="01:22:50.541"
+        end="01:22:52.500"><span region="Default">[Proximus] Pull! More!</span></p>
+      <p
+        begin="01:22:58.750"
+        end="01:22:59.875"><span region="Default">Watch this.</span></p>
+      <p
+        begin="01:23:01.625"
+        end="01:23:03.333"><span region="Default">[electricity crackling]</span></p>
+      <p
+        begin="01:23:10.541"
+        end="01:23:11.875"><span region="Default">[gasps]</span></p>
+      <p
+        begin="01:23:13.041"
+        end="01:23:14.708"><span region="Default">-Pull!<br/>-[apes] Pull!</span></p>
+      <p
+        begin="01:23:14.875"
+        end="01:23:16.916"><span region="Default">[Proximus] Pull!</span></p>
+      <p
+        begin="01:23:21.875"
+        end="01:23:23.291"><span region="Default">[Proximus] Yes!</span></p>
+      <p
+        begin="01:23:23.833"
+        end="01:23:25.083"><span region="Default">Yes! [echoes]</span></p>
+      <p
+        begin="01:23:30.666"
+        end="01:23:32.500"><span region="Default">More!</span></p>
+      <p
+        begin="01:23:33.166"
+        end="01:23:35.208"><span region="Default">[apes grunting]</span></p>
+      <p
+        begin="01:23:37.708"
+        end="01:23:39.583"><span region="Default">[Mae gasps]</span></p>
+      <p
+        begin="01:23:39.750"
+        end="01:23:41.583"><span region="Default">[apes chattering]</span></p>
+      <p
+        begin="01:23:43.875"
+        end="01:23:45.250"><span region="Default">Enough!</span></p>
+      <p
+        begin="01:23:45.333"
+        end="01:23:47.750"><span region="Default">[chattering stops]</span></p>
+      <p
+        begin="01:23:50.750"
+        end="01:23:54.750"><span region="Default">Maybe stronger tomorrow.</span></p>
+      <p
+        begin="01:24:14.291"
+        end="01:24:15.708"><span region="Default">Don't worry.</span></p>
+      <p
+        begin="01:24:15.875"
+        end="01:24:18.208"><span region="Default">Whoever's in there is either dead or gone.</span></p>
+      <p
+        begin="01:24:19.875"
+        end="01:24:22.791"><span region="Default">We've been bangin'<br/>on that door for months.</span></p>
+      <p
+        begin="01:24:23.541"
+        end="01:24:25.791"><span region="Default">[chuckles and grunts]</span></p>
+      <p
+        begin="01:24:25.875"
+        end="01:24:27.666"><span region="Default">[Mae] Do you not know where we are?</span></p>
+      <p
+        begin="01:24:28.291"
+        end="01:24:31.583"><span region="Default">When things got bad<br/>and the government went underground,</span></p>
+      <p
+        begin="01:24:31.750"
+        end="01:24:33.625"><span region="Default">this is where half of it went.</span></p>
+      <p
+        begin="01:24:33.791"
+        end="01:24:36.958"><span region="Default">With all their technology,<br/>and all their weapons...</span></p>
+      <p
+        begin="01:24:39.375"
+        end="01:24:40.708"><span region="Default">Don't you understand?</span></p>
+      <p
+        begin="01:24:41.625"
+        end="01:24:43.875"><span region="Default">That ape cannot have what is inside the...</span></p>
+      <p
+        begin="01:24:44.041"
+        end="01:24:47.166"><span region="Default">You gotta stop thinking<br/>about the way things were</span></p>
+      <p
+        begin="01:24:47.333"
+        end="01:24:49.625"><span region="Default">and start thinking about the way they are.</span></p>
+      <p
+        begin="01:24:50.250"
+        end="01:24:51.708"><span region="Default">This is a good life,</span></p>
+      <p
+        begin="01:24:51.875"
+        end="01:24:54.250"><span region="Default">and you have a chance to be a part of it.</span></p>
+      <p
+        begin="01:24:54.833"
+        end="01:24:57.208"><span region="Default">What, and build a world for the apes?</span></p>
+      <p
+        begin="01:24:57.375"
+        end="01:25:00.166"><span region="Default">It is already their world.</span></p>
+      <p
+        begin="01:25:03.666"
+        end="01:25:04.958"><span region="Default">[Trevathan sighs]</span></p>
+      <p
+        begin="01:25:08.291"
+        end="01:25:11.250"><span region="Default">There's hot water and fresh clothes<br/>in that room back there.</span></p>
+      <p
+        begin="01:25:12.833"
+        end="01:25:15.583"><span region="Default">You'll feel better<br/>when you get yourself cleaned up.</span></p>
+      <p
+        begin="01:25:17.166"
+        end="01:25:19.625"><span region="Default">You better figure out<br/>how to be useful around here.</span></p>
+      <p
+        begin="01:25:22.583"
+        end="01:25:24.208"><span region="Default">[Elder chimp chittering softly]</span></p>
+      <p
+        begin="01:25:26.583"
+        end="01:25:27.833"><span region="Default">[Soona] Honored Elder...</span></p>
+      <p
+        begin="01:25:28.916"
+        end="01:25:29.916"><span region="Default">had to bend.</span></p>
+      <p
+        begin="01:25:31.875"
+        end="01:25:34.083"><span region="Default">We had no choice.</span></p>
+      <p
+        begin="01:25:35.916"
+        end="01:25:37.458"><span region="Default">You must accept.</span></p>
+      <p
+        begin="01:25:38.500"
+        end="01:25:39.833"><span region="Default">[Soona sighs]</span></p>
+      <p
+        begin="01:25:40.791"
+        end="01:25:41.958"><span region="Default">It is law.</span></p>
+      <p
+        begin="01:25:44.208"
+        end="01:25:49.208"><span region="Default">The Elders did not tell us everything</span></p>
+      <p
+        begin="01:25:49.375"
+        end="01:25:51.416"><span region="Default">about this world.</span></p>
+      <p
+        begin="01:25:52.333"
+        end="01:25:56.000"><span region="Default">They did not tell us<br/>because they did not know.</span></p>
+      <p
+        begin="01:25:57.291"
+        end="01:26:00.416"><span region="Default">They did not want to know.</span></p>
+      <p
+        begin="01:26:06.875"
+        end="01:26:09.208"><span region="Default">-You are different. [gasps]<br/>-[staff thuds]</span></p>
+      <p
+        begin="01:26:09.291"
+        end="01:26:11.625"><span region="Default">[Sylva growls]</span></p>
+      <p
+        begin="01:26:12.375"
+        end="01:26:13.541"><span region="Default">Come.</span></p>
+      <p
+        begin="01:26:24.416"
+        end="01:26:25.708"><span region="Default">[Soona gasps]</span></p>
+      <p
+        begin="01:26:26.625"
+        end="01:26:28.583"><span region="Default">[Trevathan and Proximus laughing]</span></p>
+      <p
+        begin="01:26:28.666"
+        end="01:26:31.041"><span region="Default">[Trevathan] And that's why<br/>they call it a toga party.</span></p>
+      <p
+        begin="01:26:31.125"
+        end="01:26:32.791"><span region="Default">[Proximus laughing]</span></p>
+      <p
+        begin="01:26:34.333"
+        end="01:26:38.291"><span region="Default">[Proximus] You are a funny<br/>little human, Trevathan.</span></p>
+      <p
+        begin="01:26:38.416"
+        end="01:26:41.041"><span region="Default">[both continue laughing]</span></p>
+      <p
+        begin="01:26:43.708"
+        end="01:26:44.916"><span region="Default">[Proximus] Hey, come.</span></p>
+      <p
+        begin="01:26:45.541"
+        end="01:26:46.583"><span region="Default">Come, sit.</span></p>
+      <p
+        begin="01:26:48.458"
+        end="01:26:49.458"><span region="Default">Please.</span></p>
+      <p
+        begin="01:26:50.125"
+        end="01:26:51.875"><span region="Default">-[staff thuds]<br/>-[Sylva huffs]</span></p>
+      <p
+        begin="01:26:51.958"
+        end="01:26:52.958"><span region="Default">Go.</span></p>
+      <p
+        begin="01:26:53.625"
+        end="01:26:54.666"><span region="Default">Go.</span></p>
+      <p
+        begin="01:27:03.041"
+        end="01:27:04.333"><span region="Default">[grunts]</span></p>
+      <p
+        begin="01:27:05.375"
+        end="01:27:07.708"><span region="Default">Wonderful day, yes?</span></p>
+      <p
+        begin="01:27:11.375"
+        end="01:27:14.291"><span region="Default">You two have come a long way.</span></p>
+      <p
+        begin="01:27:16.291"
+        end="01:27:18.583"><span region="Default">An ape and a human</span></p>
+      <p
+        begin="01:27:18.750"
+        end="01:27:20.375"><span region="Default">traveling together is...</span></p>
+      <p
+        begin="01:27:22.000"
+        end="01:27:23.416"><span region="Default">quite an adventure.</span></p>
+      <p
+        begin="01:27:24.041"
+        end="01:27:26.083"><span region="Default">[Trevathan and Proximus chuckle]</span></p>
+      <p
+        begin="01:27:26.166"
+        end="01:27:27.625"><span region="Default">[Proximus] You are Noa, yes?</span></p>
+      <p
+        begin="01:27:28.333"
+        end="01:27:30.458"><span region="Default">Welcome, Noa.</span></p>
+      <p
+        begin="01:27:39.958"
+        end="01:27:41.041"><span region="Default">[clattering]</span></p>
+      <p
+        begin="01:27:45.458"
+        end="01:27:46.458"><span region="Default">Go.</span></p>
+      <p
+        begin="01:27:54.000"
+        end="01:27:55.458"><span region="Default">Mae...</span></p>
+      <p
+        begin="01:27:55.625"
+        end="01:27:59.250"><span region="Default">you are familiar with the concept of...</span></p>
+      <p
+        begin="01:27:59.875"
+        end="01:28:01.666"><span region="Default">evolution?</span></p>
+      <p
+        begin="01:28:01.833"
+        end="01:28:04.375"><span region="Default">That is the human label, yeah?</span></p>
+      <p
+        begin="01:28:04.541"
+        end="01:28:09.000"><span region="Default">The advancement<br/>that I crave requires time.</span></p>
+      <p
+        begin="01:28:09.166"
+        end="01:28:13.041"><span region="Default">Vast amounts of time that I do not have.</span></p>
+      <p
+        begin="01:28:14.375"
+        end="01:28:17.583"><span region="Default">Unfortunately, I am but a mortal ape.</span></p>
+      <p
+        begin="01:28:17.666"
+        end="01:28:19.666"><span region="Default">-[Proximus chuckles]<br/>-[chuckles]</span></p>
+      <p
+        begin="01:28:19.833"
+        end="01:28:24.833"><span region="Default">So this is why I need to get the knowledge<br/>inside that vault.</span></p>
+      <p
+        begin="01:28:25.000"
+        end="01:28:26.291"><span region="Default">I believe it will deliver</span></p>
+      <p
+        begin="01:28:26.458"
+        end="01:28:29.708"><span region="Default">instant evolution.</span></p>
+      <p
+        begin="01:28:30.708"
+        end="01:28:32.875"><span region="Default">Hmm. Noa.</span></p>
+      <p
+        begin="01:28:33.916"
+        end="01:28:35.250"><span region="Default">You don't understand.</span></p>
+      <p
+        begin="01:28:36.666"
+        end="01:28:38.083"><span region="Default">In their time,</span></p>
+      <p
+        begin="01:28:38.250"
+        end="01:28:43.875"><span region="Default">humans were capable<br/>of many great things, yes?</span></p>
+      <p
+        begin="01:28:44.041"
+        end="01:28:46.291"><span region="Default">They could level mountains.</span></p>
+      <p
+        begin="01:28:48.083"
+        end="01:28:50.500"><span region="Default">They could speak across oceans.</span></p>
+      <p
+        begin="01:28:50.666"
+        end="01:28:53.250"><span region="Default">They could fly, Noa.</span></p>
+      <p
+        begin="01:28:53.791"
+        end="01:28:55.625"><span region="Default">Like eagles fly.</span></p>
+      <p
+        begin="01:28:55.791"
+        end="01:28:58.875"><span region="Default">But now, we will learn.</span></p>
+      <p
+        begin="01:28:59.041"
+        end="01:29:02.541"><span region="Default">Apes will learn. I will learn, yeah,</span></p>
+      <p
+        begin="01:29:02.708"
+        end="01:29:05.583"><span region="Default">from what is inside that vault.</span></p>
+      <p
+        begin="01:29:06.041"
+        end="01:29:08.166"><span region="Default">-[sighs]<br/>-[Mae] It's impossible.</span></p>
+      <p
+        begin="01:29:09.833"
+        end="01:29:11.291"><span region="Default">No one's getting in there.</span></p>
+      <p
+        begin="01:29:11.666"
+        end="01:29:15.333"><span region="Default">[Proximus chuckles]</span></p>
+      <p
+        begin="01:29:16.916"
+        end="01:29:19.125"><span region="Default">Mae, Mae, Mae, Mae.</span></p>
+      <p
+        begin="01:29:20.750"
+        end="01:29:26.625"><span region="Default">My apes encountered your companions.</span></p>
+      <p
+        begin="01:29:27.791"
+        end="01:29:31.166"><span region="Default">I believe this map belonged to you.</span></p>
+      <p
+        begin="01:29:31.791"
+        end="01:29:33.291"><span region="Default">You see, Noa,</span></p>
+      <p
+        begin="01:29:33.833"
+        end="01:29:36.250"><span region="Default">before she was traveling with you</span></p>
+      <p
+        begin="01:29:36.416"
+        end="01:29:40.500"><span region="Default">and that old orangutan,</span></p>
+      <p
+        begin="01:29:40.666"
+        end="01:29:43.916"><span region="Default">Mae was with other humans.</span></p>
+      <p
+        begin="01:29:44.000"
+        end="01:29:45.916"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:29:46.916"
+        end="01:29:48.208"><span region="Default">But sadly,</span></p>
+      <p
+        begin="01:29:50.041"
+        end="01:29:53.541"><span region="Default">my apes did not realize their value,</span></p>
+      <p
+        begin="01:29:53.708"
+        end="01:29:57.333"><span region="Default">so I was brought only bodies.</span></p>
+      <p
+        begin="01:29:58.208"
+        end="01:30:02.625"><span region="Default">I could not speak to them<br/>like I can speak to you.</span></p>
+      <p
+        begin="01:30:04.541"
+        end="01:30:05.541"><span region="Default">I know...</span></p>
+      <p
+        begin="01:30:06.666"
+        end="01:30:10.041"><span region="Default">you are coming here<br/>to get inside my vault.</span></p>
+      <p
+        begin="01:30:10.208"
+        end="01:30:11.833"><span region="Default">It is not yours!</span></p>
+      <p
+        begin="01:30:11.916"
+        end="01:30:13.500"><span region="Default">Oh.</span></p>
+      <p
+        begin="01:30:13.625"
+        end="01:30:16.041"><span region="Default">It is now, isn't it?</span></p>
+      <p
+        begin="01:30:17.041"
+        end="01:30:19.375"><span region="Default">And I will get inside.</span></p>
+      <p
+        begin="01:30:20.291"
+        end="01:30:24.583"><span region="Default">No matter how many apes it costs me.</span></p>
+      <p
+        begin="01:30:25.458"
+        end="01:30:26.458"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:30:26.916"
+        end="01:30:28.625"><span region="Default">I...</span></p>
+      <p
+        begin="01:30:28.708"
+        end="01:30:33.708"><span region="Default">I have heard that you are<br/>a very clever ape, yeah?</span></p>
+      <p
+        begin="01:30:34.666"
+        end="01:30:35.666"><span region="Default">Very clever.</span></p>
+      <p
+        begin="01:30:35.833"
+        end="01:30:39.875"><span region="Default">He repaired one of your<br/>broken staffs, Trevathan.</span></p>
+      <p
+        begin="01:30:42.791"
+        end="01:30:46.541"><span region="Default">I have much use for clever apes.</span></p>
+      <p
+        begin="01:30:46.708"
+        end="01:30:49.250"><span region="Default">Now, can you tell me...</span></p>
+      <p
+        begin="01:30:51.083"
+        end="01:30:55.125"><span region="Default">did Mae tell you<br/>how to get inside my vault?</span></p>
+      <p
+        begin="01:31:00.500"
+        end="01:31:01.916"><span region="Default">She told me nothing.</span></p>
+      <p
+        begin="01:31:02.833"
+        end="01:31:04.500"><span region="Default">Told you nothing! [slams fist]</span></p>
+      <p
+        begin="01:31:04.666"
+        end="01:31:05.666"><span region="Default">Nothing.</span></p>
+      <p
+        begin="01:31:09.458"
+        end="01:31:11.333"><span region="Default">Told you nothing.</span></p>
+      <p
+        begin="01:31:15.541"
+        end="01:31:16.583"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:31:17.583"
+        end="01:31:19.583"><span region="Default">Come. Come with me.</span></p>
+      <p
+        begin="01:31:19.750"
+        end="01:31:20.916"><span region="Default">Come, come.</span></p>
+      <p
+        begin="01:31:22.416"
+        end="01:31:24.000"><span region="Default">I have something to show you.</span></p>
+      <p
+        begin="01:31:25.041"
+        end="01:31:27.000"><span region="Default">Come. Come.</span></p>
+      <p
+        begin="01:31:28.833"
+        end="01:31:29.958"><span region="Default">Come, Noa.</span></p>
+      <p
+        begin="01:31:31.625"
+        end="01:31:33.708"><span region="Default">Tell me, what do you see?</span></p>
+      <p
+        begin="01:31:38.208"
+        end="01:31:40.250"><span region="Default">[distant chatter]</span></p>
+      <p
+        begin="01:31:43.250"
+        end="01:31:45.458"><span region="Default">Stolen clans.</span></p>
+      <p
+        begin="01:31:48.083"
+        end="01:31:49.500"><span region="Default">Not clans.</span></p>
+      <p
+        begin="01:31:51.375"
+        end="01:31:52.458"><span region="Default">A kingdom.</span></p>
+      <p
+        begin="01:31:54.041"
+        end="01:31:57.750"><span region="Default">Noa, a kingdom for apes.</span></p>
+      <p
+        begin="01:32:02.500"
+        end="01:32:05.708"><span region="Default">Humans can never be trusted.</span></p>
+      <p
+        begin="01:32:06.416"
+        end="01:32:09.083"><span region="Default">Where there are two that can speak,</span></p>
+      <p
+        begin="01:32:09.625"
+        end="01:32:11.083"><span region="Default">there must be more.</span></p>
+      <p
+        begin="01:32:13.250"
+        end="01:32:18.958"><span region="Default">Mae has come here to claim<br/>the tools inside my vault.</span></p>
+      <p
+        begin="01:32:19.125"
+        end="01:32:22.291"><span region="Default">Tools that make humans strong</span></p>
+      <p
+        begin="01:32:22.458"
+        end="01:32:24.541"><span region="Default">and make them dangerous.</span></p>
+      <p
+        begin="01:32:27.083"
+        end="01:32:29.250"><span region="Default">That is why I must have them first.</span></p>
+      <p
+        begin="01:32:29.416"
+        end="01:32:30.625"><span region="Default">Yeah?</span></p>
+      <p
+        begin="01:32:30.791"
+        end="01:32:35.833"><span region="Default">They do not understand<br/>that this is our time.</span></p>
+      <p
+        begin="01:32:36.375"
+        end="01:32:38.500"><span region="Default">This is my kingdom.</span></p>
+      <p
+        begin="01:32:41.833"
+        end="01:32:44.875"><span region="Default">I must destroy their kind.</span></p>
+      <p
+        begin="01:32:46.000"
+        end="01:32:49.458"><span region="Default">Unless we want to live in cages again.</span></p>
+      <p
+        begin="01:32:56.416"
+        end="01:32:57.666"><span region="Default">Come.</span></p>
+      <p
+        begin="01:32:57.833"
+        end="01:32:59.333"><span region="Default">Come, Noa.</span></p>
+      <p
+        begin="01:32:59.500"
+        end="01:33:00.833"><span region="Default">Let us eat.</span></p>
+      <p
+        begin="01:33:02.833"
+        end="01:33:03.875"><span region="Default">Trevathan!</span></p>
+      <p
+        begin="01:33:04.416"
+        end="01:33:05.916"><span region="Default">Tell us a story.</span></p>
+      <p
+        begin="01:33:06.416"
+        end="01:33:08.125"><span region="Default">Make it a funny one.</span></p>
+      <p
+        begin="01:33:08.791"
+        end="01:33:10.250"><span region="Default">[Proximus laughs]</span></p>
+      <p
+        begin="01:33:14.125"
+        end="01:33:16.000"><span region="Default">[eagles calling]</span></p>
+      <p
+        begin="01:33:31.125"
+        end="01:33:33.000"><span region="Default">[Dar] They will not come.</span></p>
+      <p
+        begin="01:33:36.791"
+        end="01:33:37.791"><span region="Default">Why?</span></p>
+      <p
+        begin="01:33:39.708"
+        end="01:33:42.125"><span region="Default">Because Eagle Clan...</span></p>
+      <p
+        begin="01:33:44.041"
+        end="01:33:45.125"><span region="Default">is gone.</span></p>
+      <p
+        begin="01:33:48.416"
+        end="01:33:53.500"><span region="Default">Eagle Clan is here.</span></p>
+      <p
+        begin="01:33:54.500"
+        end="01:33:57.041"><span region="Default">We are here.</span></p>
+      <p
+        begin="01:33:59.541"
+        end="01:34:01.500"><span region="Default">In land of Proximus.</span></p>
+      <p
+        begin="01:34:03.250"
+        end="01:34:08.208"><span region="Default">And Proximus has no need for eagles.</span></p>
+      <p
+        begin="01:34:25.250"
+        end="01:34:27.416"><span region="Default">[♪ pensive music playing]</span></p>
+      <p
+        begin="01:34:37.125"
+        end="01:34:39.375"><span region="Default">-[eagle screeches]<br/>-[gasps]</span></p>
+      <p
+        begin="01:34:42.625"
+        end="01:34:46.458"><span region="Default">You come to judge me?</span></p>
+      <p
+        begin="01:34:51.875"
+        end="01:34:53.708"><span region="Default">I judge myself.</span></p>
+      <p
+        begin="01:34:55.500"
+        end="01:34:59.291"><span region="Default">I promised our father</span></p>
+      <p
+        begin="01:34:59.458"
+        end="01:35:01.041"><span region="Default">I would bring them home.</span></p>
+      <p
+        begin="01:35:05.458"
+        end="01:35:06.708"><span region="Default">I failed.</span></p>
+      <p
+        begin="01:35:08.958"
+        end="01:35:11.416"><span region="Default">Eagle Clan belongs</span></p>
+      <p
+        begin="01:35:11.583"
+        end="01:35:15.625"><span region="Default">to Proximus Caesar now.</span></p>
+      <p
+        begin="01:35:19.291"
+        end="01:35:21.875"><span region="Default">That is the law.</span></p>
+      <p
+        begin="01:35:37.291"
+        end="01:35:42.000"><span region="Default">But the law is wrong.</span></p>
+      <p
+        begin="01:35:45.333"
+        end="01:35:46.916"><span region="Default">[Noa hooting]</span></p>
+      <p
+        begin="01:35:47.000"
+        end="01:35:48.166"><span region="Default">[eagle chirping]</span></p>
+      <p
+        begin="01:35:50.708"
+        end="01:35:52.791"><span region="Default">[♪ uplifting music playing]</span></p>
+      <p
+        begin="01:36:11.041"
+        end="01:36:12.625"><span region="Default">[waves crashing]</span></p>
+      <p
+        begin="01:36:29.791"
+        end="01:36:32.500"><span region="Default">[Trevathan] Time for the evening lesson.</span></p>
+      <p
+        begin="01:36:32.666"
+        end="01:36:35.583"><span region="Default">It would be very good for you to be there.</span></p>
+      <p
+        begin="01:36:43.833"
+        end="01:36:46.000"><span region="Default">[door latch clicking]</span></p>
+      <p
+        begin="01:36:51.500"
+        end="01:36:52.916"><span region="Default">[locks door]</span></p>
+      <p
+        begin="01:36:56.875"
+        end="01:36:58.458"><span region="Default">[thud]</span></p>
+      <p
+        begin="01:37:14.583"
+        end="01:37:17.250"><span region="Default">[Noa] You did not come for Echoes.</span></p>
+      <p
+        begin="01:37:18.916"
+        end="01:37:21.833"><span region="Default">And you were not alone.</span></p>
+      <p
+        begin="01:37:23.125"
+        end="01:37:24.208"><span region="Default">[Mae] I'm sorry.</span></p>
+      <p
+        begin="01:37:26.791"
+        end="01:37:29.208"><span region="Default">Proximus's apes found our camp.</span></p>
+      <p
+        begin="01:37:31.875"
+        end="01:37:33.416"><span region="Default">They killed everyone.</span></p>
+      <p
+        begin="01:37:34.791"
+        end="01:37:36.750"><span region="Default">I barely escaped.</span></p>
+      <p
+        begin="01:37:37.666"
+        end="01:37:39.458"><span region="Default">I needed your help.</span></p>
+      <p
+        begin="01:37:40.250"
+        end="01:37:43.083"><span region="Default">-And I was afraid.<br/>-The more you speak,</span></p>
+      <p
+        begin="01:37:43.250"
+        end="01:37:45.250"><span region="Default">the less I believe.</span></p>
+      <p
+        begin="01:37:45.416"
+        end="01:37:47.333"><span region="Default">I was wrong not to trust you.</span></p>
+      <p
+        begin="01:37:47.500"
+        end="01:37:48.500"><span region="Default">And I know that now.</span></p>
+      <p
+        begin="01:37:48.666"
+        end="01:37:51.791"><span region="Default">I trust you only to help yourself.</span></p>
+      <p
+        begin="01:37:54.166"
+        end="01:37:56.625"><span region="Default">But that could help me now.</span></p>
+      <p
+        begin="01:38:00.958"
+        end="01:38:02.416"><span region="Default">I have questions.</span></p>
+      <p
+        begin="01:38:03.791"
+        end="01:38:05.333"><span region="Default">You answer true,</span></p>
+      <p
+        begin="01:38:06.166"
+        end="01:38:07.541"><span region="Default">maybe I help.</span></p>
+      <p
+        begin="01:38:10.666"
+        end="01:38:13.083"><span region="Default">What do you need inside vault?</span></p>
+      <p
+        begin="01:38:15.500"
+        end="01:38:16.500"><span region="Default">It's...</span></p>
+      <p
+        begin="01:38:17.416"
+        end="01:38:18.625"><span region="Default">like a book.</span></p>
+      <p
+        begin="01:38:19.750"
+        end="01:38:21.166"><span region="Default">-A special book.<br/>-How?</span></p>
+      <p
+        begin="01:38:22.541"
+        end="01:38:23.541"><span region="Default">Special?</span></p>
+      <p
+        begin="01:38:25.041"
+        end="01:38:27.791"><span region="Default">Humans lost their ability to speak.</span></p>
+      <p
+        begin="01:38:27.958"
+        end="01:38:29.708"><span region="Default">And this book might bring it back.</span></p>
+      <p
+        begin="01:38:31.375"
+        end="01:38:33.166"><span region="Default">A book can do this?</span></p>
+      <p
+        begin="01:38:34.000"
+        end="01:38:35.250"><span region="Default">This one can.</span></p>
+      <p
+        begin="01:38:42.666"
+        end="01:38:47.250"><span region="Default">Raka said apes and humans</span></p>
+      <p
+        begin="01:38:48.583"
+        end="01:38:50.208"><span region="Default">lived side by side.</span></p>
+      <p
+        begin="01:38:52.833"
+        end="01:38:54.166"><span region="Default">True or not true?</span></p>
+      <p
+        begin="01:38:57.291"
+        end="01:38:58.458"><span region="Default">Apes were silent.</span></p>
+      <p
+        begin="01:39:00.208"
+        end="01:39:01.416"><span region="Default">Like the Echo.</span></p>
+      <p
+        begin="01:39:03.083"
+        end="01:39:04.666"><span region="Default">Humans were dominant.</span></p>
+      <p
+        begin="01:39:06.166"
+        end="01:39:07.541"><span region="Default">The virus spread...</span></p>
+      <p
+        begin="01:39:08.791"
+        end="01:39:10.250"><span region="Default">that we created.</span></p>
+      <p
+        begin="01:39:11.291"
+        end="01:39:12.916"><span region="Default">It made apes smarter.</span></p>
+      <p
+        begin="01:39:14.291"
+        end="01:39:16.291"><span region="Default">And it almost killed all of us.</span></p>
+      <p
+        begin="01:39:23.166"
+        end="01:39:25.875"><span region="Default">You know a way inside, yes?</span></p>
+      <p
+        begin="01:39:27.541"
+        end="01:39:28.541"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:39:30.125"
+        end="01:39:31.916"><span region="Default">One last question.</span></p>
+      <p
+        begin="01:39:35.083"
+        end="01:39:39.333"><span region="Default">Will water destroy what is inside?</span></p>
+      <p
+        begin="01:39:55.916"
+        end="01:39:57.166"><span region="Default">[gasps]</span></p>
+      <p
+        begin="01:39:59.791"
+        end="01:40:00.791"><span region="Default">Noa.</span></p>
+      <p
+        begin="01:40:02.250"
+        end="01:40:06.041"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="01:40:13.583"
+        end="01:40:15.833"><span region="Default">A climb.</span></p>
+      <p
+        begin="01:40:16.000"
+        end="01:40:19.500"><span region="Default">One I cannot do alone.</span></p>
+      <p
+        begin="01:40:19.666"
+        end="01:40:20.666"><span region="Default">Why?</span></p>
+      <p
+        begin="01:40:22.000"
+        end="01:40:24.750"><span region="Default">To free our clan.</span></p>
+      <p
+        begin="01:40:47.250"
+        end="01:40:49.583"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="01:41:09.708"
+        end="01:41:11.416"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:41:24.958"
+        end="01:41:27.250"><span region="Default">Soona, this is Mae.</span></p>
+      <p
+        begin="01:41:29.666"
+        end="01:41:30.791"><span region="Default">Hello, Soona.</span></p>
+      <p
+        begin="01:41:35.291"
+        end="01:41:36.625"><span region="Default">What do we do?</span></p>
+      <p
+        begin="01:41:38.708"
+        end="01:41:40.208"><span region="Default">We're gonna need all of this.</span></p>
+      <p
+        begin="01:41:41.208"
+        end="01:41:42.375"><span region="Default">Follow me.</span></p>
+      <p
+        begin="01:41:56.083"
+        end="01:41:57.250"><span region="Default">Careful.</span></p>
+      <p
+        begin="01:42:00.208"
+        end="01:42:04.083"><span region="Default">The power runs through, yes?</span></p>
+      <p
+        begin="01:42:06.416"
+        end="01:42:07.416"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:42:23.833"
+        end="01:42:27.416"><span region="Default">You cannot make hard climb...</span></p>
+      <p
+        begin="01:42:30.291"
+        end="01:42:31.791"><span region="Default">without Anaya.</span></p>
+      <p
+        begin="01:42:36.125"
+        end="01:42:37.666"><span region="Default">[Soona sighs]</span></p>
+      <p
+        begin="01:42:45.833"
+        end="01:42:47.000"><span region="Default">Hello, Echo.</span></p>
+      <p
+        begin="01:42:53.958"
+        end="01:42:55.666"><span region="Default">[♪ suspenseful music continues]</span></p>
+      <p
+        begin="01:43:04.250"
+        end="01:43:05.333"><span region="Default">[Mae] This burns hot.</span></p>
+      <p
+        begin="01:43:05.875"
+        end="01:43:07.375"><span region="Default">But under pressure,</span></p>
+      <p
+        begin="01:43:08.791"
+        end="01:43:10.833"><span region="Default">it will explode.</span></p>
+      <p
+        begin="01:43:12.250"
+        end="01:43:14.166"><span region="Default">How do you know this?</span></p>
+      <p
+        begin="01:43:14.541"
+        end="01:43:16.458"><span region="Default">[Anaya grunting]</span></p>
+      <p
+        begin="01:43:20.666"
+        end="01:43:21.875"><span region="Default">Oh, shit.</span></p>
+      <p
+        begin="01:43:27.125"
+        end="01:43:28.125"><span region="Default">"Shit"?</span></p>
+      <p
+        begin="01:43:29.416"
+        end="01:43:31.541"><span region="Default">-[Mae] Take that over there.<br/>-[Anaya] Okay.</span></p>
+      <p
+        begin="01:43:31.708"
+        end="01:43:33.625"><span region="Default">I go with Anaya.</span></p>
+      <p
+        begin="01:43:34.208"
+        end="01:43:35.791"><span region="Default">Safer that way.</span></p>
+      <p
+        begin="01:43:37.166"
+        end="01:43:40.208"><span region="Default">Anaya! Anaya. Stop.</span></p>
+      <p
+        begin="01:43:40.750"
+        end="01:43:42.958"><span region="Default">-You're doing it wrong.<br/>-[Anaya] Okay.</span></p>
+      <p
+        begin="01:43:43.125"
+        end="01:43:44.250"><span region="Default">You like her.</span></p>
+      <p
+        begin="01:43:46.750"
+        end="01:43:47.750"><span region="Default">Soona.</span></p>
+      <p
+        begin="01:43:49.875"
+        end="01:43:51.791"><span region="Default">We were born within a sunset.</span></p>
+      <p
+        begin="01:43:55.500"
+        end="01:43:56.666"><span region="Default">[Soona] No. Anaya...</span></p>
+      <p
+        begin="01:43:56.833"
+        end="01:43:58.583"><span region="Default">[Trevathan] He's just going to rebuild it.</span></p>
+      <p
+        begin="01:43:58.666"
+        end="01:43:59.958"><span region="Default">[Mae gasps]</span></p>
+      <p
+        begin="01:44:10.291"
+        end="01:44:11.291"><span region="Default">You...</span></p>
+      <p
+        begin="01:44:13.958"
+        end="01:44:15.583"><span region="Default">You had an opportunity.</span></p>
+      <p
+        begin="01:44:16.125"
+        end="01:44:18.416"><span region="Default">I gave you an opportunity.</span></p>
+      <p
+        begin="01:44:19.000"
+        end="01:44:23.625"><span region="Default">But you're fantasizing about a past<br/>that can never come back.</span></p>
+      <p
+        begin="01:44:30.166"
+        end="01:44:31.541"><span region="Default">Listen to me.</span></p>
+      <p
+        begin="01:44:33.000"
+        end="01:44:37.416"><span region="Default">Trevathan, you don't belong here.</span></p>
+      <p
+        begin="01:44:38.916"
+        end="01:44:41.083"><span region="Default">You think it's over,</span></p>
+      <p
+        begin="01:44:41.250"
+        end="01:44:42.500"><span region="Default">but it's not.</span></p>
+      <p
+        begin="01:44:43.916"
+        end="01:44:47.916"><span region="Default">Nobody is going to blame you<br/>for what happened here.</span></p>
+      <p
+        begin="01:44:49.708"
+        end="01:44:52.791"><span region="Default">Just come with us.</span></p>
+      <p
+        begin="01:44:55.583"
+        end="01:44:56.583"><span region="Default">Please?</span></p>
+      <p
+        begin="01:45:04.208"
+        end="01:45:06.625"><span region="Default">He's gonna skin your monkey alive.</span></p>
+      <p
+        begin="01:45:11.166"
+        end="01:45:12.166"><span region="Default">And you...</span></p>
+      <p
+        begin="01:45:13.333"
+        end="01:45:14.333"><span region="Default">Well...</span></p>
+      <p
+        begin="01:45:16.416"
+        end="01:45:18.250"><span region="Default">you're gonna learn.</span></p>
+      <p
+        begin="01:45:19.666"
+        end="01:45:20.958"><span region="Default">[sighs]</span></p>
+      <p
+        begin="01:45:21.083"
+        end="01:45:22.500"><span region="Default">[both yelling]</span></p>
+      <p
+        begin="01:45:26.208"
+        end="01:45:27.208"><span region="Default">[Trevathan] Oh, no.</span></p>
+      <p
+        begin="01:45:27.416"
+        end="01:45:28.500"><span region="Default">Please!</span></p>
+      <p
+        begin="01:45:28.583"
+        end="01:45:30.375"><span region="Default">[Trevathan grunting]</span></p>
+      <p
+        begin="01:45:30.625"
+        end="01:45:32.333"><span region="Default">[Mae growling]</span></p>
+      <p
+        begin="01:45:32.416"
+        end="01:45:33.958"><span region="Default">[Trevathan choking]</span></p>
+      <p
+        begin="01:45:44.333"
+        end="01:45:45.500"><span region="Default">[choking stops]</span></p>
+      <p
+        begin="01:45:47.041"
+        end="01:45:49.125"><span region="Default">[Mae breathing shakily]</span></p>
+      <p
+        begin="01:45:56.500"
+        end="01:45:58.708"><span region="Default">[♪ foreboding music playing]</span></p>
+      <p
+        begin="01:46:16.666"
+        end="01:46:18.583"><span region="Default">[chimps gasping]</span></p>
+      <p
+        begin="01:46:21.708"
+        end="01:46:23.833"><span region="Default">[waves crashing]</span></p>
+      <p
+        begin="01:46:29.500"
+        end="01:46:30.833"><span region="Default">We need to go.</span></p>
+      <p
+        begin="01:46:31.000"
+        end="01:46:32.250"><span region="Default">It'll be light soon.</span></p>
+      <p
+        begin="01:46:44.083"
+        end="01:46:45.625"><span region="Default">[chimps screeching]</span></p>
+      <p
+        begin="01:46:48.791"
+        end="01:46:50.458"><span region="Default">[all grunting and yelping]</span></p>
+      <p
+        begin="01:46:51.416"
+        end="01:46:52.416"><span region="Default">[Mae coughs]</span></p>
+      <p
+        begin="01:46:52.500"
+        end="01:46:55.083"><span region="Default">[Anaya] You said there would be climb!</span></p>
+      <p
+        begin="01:46:59.291"
+        end="01:47:00.750"><span region="Default">-[Soona gasps]<br/>-[Noa hooting]</span></p>
+      <p
+        begin="01:47:04.416"
+        end="01:47:06.000"><span region="Default">[all screeching]</span></p>
+      <p
+        begin="01:47:09.416"
+        end="01:47:10.458"><span region="Default">[Noa] Mae, wait!</span></p>
+      <p
+        begin="01:47:17.958"
+        end="01:47:19.291"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:47:21.750"
+        end="01:47:23.333"><span region="Default">[Mae grunting]</span></p>
+      <p
+        begin="01:47:23.416"
+        end="01:47:24.416"><span region="Default">There!</span></p>
+      <p
+        begin="01:47:25.375"
+        end="01:47:27.208"><span region="Default">We need to go up there.</span></p>
+      <p
+        begin="01:47:29.083"
+        end="01:47:30.833"><span region="Default">[Anaya] Now we climb?</span></p>
+      <p
+        begin="01:47:44.666"
+        end="01:47:45.958"><span region="Default">[grunting]</span></p>
+      <p
+        begin="01:47:52.041"
+        end="01:47:54.166"><span region="Default">[Anaya] Easier than Top Nest. [hooting]</span></p>
+      <p
+        begin="01:47:55.000"
+        end="01:47:56.166"><span region="Default">Keep climbing.</span></p>
+      <p
+        begin="01:48:00.916"
+        end="01:48:02.125"><span region="Default">[Anaya grunts]</span></p>
+      <p
+        begin="01:48:06.625"
+        end="01:48:08.166"><span region="Default">[rocks clatter]</span></p>
+      <p
+        begin="01:48:13.750"
+        end="01:48:15.250"><span region="Default">[Noa grunting]</span></p>
+      <p
+        begin="01:48:15.333"
+        end="01:48:16.583"><span region="Default">[Mae screaming]</span></p>
+      <p
+        begin="01:48:17.750"
+        end="01:48:18.833"><span region="Default">[Mae panting]</span></p>
+      <p
+        begin="01:48:19.875"
+        end="01:48:20.875"><span region="Default">Noa!</span></p>
+      <p
+        begin="01:48:22.875"
+        end="01:48:25.083"><span region="Default">[both grunting]</span></p>
+      <p
+        begin="01:48:33.875"
+        end="01:48:34.875"><span region="Default">Shit?</span></p>
+      <p
+        begin="01:48:36.125"
+        end="01:48:37.125"><span region="Default">[Mae] Mm-hmm.</span></p>
+      <p
+        begin="01:48:40.791"
+        end="01:48:42.541"><span region="Default">[chimps grunting]</span></p>
+      <p
+        begin="01:48:48.583"
+        end="01:48:50.291"><span region="Default">[Mae grunting]</span></p>
+      <p
+        begin="01:49:07.250"
+        end="01:49:09.541"><span region="Default">[♪ ominous music playing]</span></p>
+      <p
+        begin="01:49:14.166"
+        end="01:49:15.416"><span region="Default">[Flint strikes]</span></p>
+      <p
+        begin="01:49:40.791"
+        end="01:49:41.958"><span region="Default">[Mae] Wait. Careful.</span></p>
+      <p
+        begin="01:49:47.166"
+        end="01:49:48.166"><span region="Default">Oops.</span></p>
+      <p
+        begin="01:49:48.958"
+        end="01:49:50.083"><span region="Default">[Soona] Anaya!</span></p>
+      <p
+        begin="01:49:50.583"
+        end="01:49:51.750"><span region="Default">[metal clanging]</span></p>
+      <p
+        begin="01:50:19.375"
+        end="01:50:23.083"><span region="Default">[Soona] Noa, what is this place?</span></p>
+      <p
+        begin="01:50:25.625"
+        end="01:50:26.708"><span region="Default">It smells. [gags]</span></p>
+      <p
+        begin="01:50:31.458"
+        end="01:50:33.083"><span region="Default">[switch clicks]</span></p>
+      <p
+        begin="01:50:34.291"
+        end="01:50:36.041"><span region="Default">-[machinery powers up]<br/>-[chimps chattering]</span></p>
+      <p
+        begin="01:50:36.125"
+        end="01:50:37.458"><span region="Default">[Anaya] What is that? Noa!</span></p>
+      <p
+        begin="01:50:38.458"
+        end="01:50:39.958"><span region="Default">[Soona] Noa! What happening?</span></p>
+      <p
+        begin="01:50:46.500"
+        end="01:50:47.625"><span region="Default">[sniffs]</span></p>
+      <p
+        begin="01:51:15.250"
+        end="01:51:17.291"><span region="Default">Echo build all this?</span></p>
+      <p
+        begin="01:51:41.250"
+        end="01:51:42.291"><span region="Default">Wait here.</span></p>
+      <p
+        begin="01:51:51.208"
+        end="01:51:53.333"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:52:18.708"
+        end="01:52:20.083"><span region="Default">[♪ mysterious music playing]</span></p>
+      <p
+        begin="01:52:35.375"
+        end="01:52:36.500"><span region="Default">[doll] Mama!</span></p>
+      <p
+        begin="01:52:36.583"
+        end="01:52:37.875"><span region="Default">[both gasping]</span></p>
+      <p
+        begin="01:53:33.416"
+        end="01:53:34.833"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:53:50.250"
+        end="01:53:53.458"><span region="Default">[Noa] The symbols have meaning.</span></p>
+      <p
+        begin="01:54:27.541"
+        end="01:54:29.583"><span region="Default">[♪ gentle music playing]</span></p>
+      <p
+        begin="01:54:39.750"
+        end="01:54:40.750"><span region="Default">[bottle clatters]</span></p>
+      <p
+        begin="01:54:40.833"
+        end="01:54:42.416"><span region="Default">[chimps gasping]</span></p>
+      <p
+        begin="01:54:46.875"
+        end="01:54:48.291"><span region="Default">Time to go.</span></p>
+      <p
+        begin="01:55:06.458"
+        end="01:55:08.291"><span region="Default">[♪ suspenseful music playing]</span></p>
+      <p
+        begin="01:55:13.000"
+        end="01:55:16.375"><span region="Default">[Anaya] Whoa. What are they?</span></p>
+      <p
+        begin="01:55:17.666"
+        end="01:55:18.666"><span region="Default">[Noa] Come!</span></p>
+      <p
+        begin="01:55:22.916"
+        end="01:55:24.833"><span region="Default">[♪ tense music playing]</span></p>
+      <p
+        begin="01:55:49.916"
+        end="01:55:52.583"><span region="Default">-[alarm blaring]<br/>-[chimps chattering]</span></p>
+      <p
+        begin="01:55:57.625"
+        end="01:55:59.083"><span region="Default">We'll have to move fast.</span></p>
+      <p
+        begin="01:55:59.750"
+        end="01:56:00.916"><span region="Default">You go to your clan</span></p>
+      <p
+        begin="01:56:01.416"
+        end="01:56:02.958"><span region="Default">and I'll trigger the explosion.</span></p>
+      <p
+        begin="01:56:05.875"
+        end="01:56:07.750"><span region="Default">[machinery creaks, rumbling]</span></p>
+      <p
+        begin="01:56:09.125"
+        end="01:56:11.208"><span region="Default">[gate creaking]</span></p>
+      <p
+        begin="01:56:32.416"
+        end="01:56:33.583"><span region="Default">[gasps]</span></p>
+      <p
+        begin="01:56:37.208"
+        end="01:56:39.166"><span region="Default">[♪ sinister music playing]</span></p>
+      <p
+        begin="01:56:41.291"
+        end="01:56:42.500"><span region="Default">[Proximus growls]</span></p>
+      <p
+        begin="01:56:43.583"
+        end="01:56:45.916"><span region="Default">[chimps screeching and hooting]</span></p>
+      <p
+        begin="01:56:51.541"
+        end="01:56:53.458"><span region="Default">-[staff crackling]<br/>-[Noa groans]</span></p>
+      <p
+        begin="01:56:55.250"
+        end="01:56:56.500"><span region="Default">[Lightning laughs]</span></p>
+      <p
+        begin="01:56:58.208"
+        end="01:57:03.333"><span region="Default">Noa, you are a very useful ape.</span></p>
+      <p
+        begin="01:57:04.625"
+        end="01:57:08.625"><span region="Default">You understand so many things.</span></p>
+      <p
+        begin="01:57:08.791"
+        end="01:57:11.375"><span region="Default">And yet, you fail to observe</span></p>
+      <p
+        begin="01:57:11.541"
+        end="01:57:14.708"><span region="Default">one of the most important.</span></p>
+      <p
+        begin="01:57:16.500"
+        end="01:57:19.416"><span region="Default">You cannot trust a human!</span></p>
+      <p
+        begin="01:57:21.041"
+        end="01:57:24.750"><span region="Default">Here comes your clan to bear witness.</span></p>
+      <p
+        begin="01:57:26.208"
+        end="01:57:27.916"><span region="Default">[chimps hooting]</span></p>
+      <p
+        begin="01:57:28.000"
+        end="01:57:30.291"><span region="Default">You may be fool enough</span></p>
+      <p
+        begin="01:57:30.458"
+        end="01:57:34.666"><span region="Default">to put your faith<br/>in such a duplicitous creature.</span></p>
+      <p
+        begin="01:57:37.250"
+        end="01:57:38.416"><span region="Default">But I am not.</span></p>
+      <p
+        begin="01:57:41.125"
+        end="01:57:42.416"><span region="Default">[Soona screeching]</span></p>
+      <p
+        begin="01:57:43.083"
+        end="01:57:44.500"><span region="Default">[Noa growling]</span></p>
+      <p
+        begin="01:57:46.541"
+        end="01:57:47.750"><span region="Default">Tell me, Noa,</span></p>
+      <p
+        begin="01:57:48.541"
+        end="01:57:50.458"><span region="Default">ape to ape,</span></p>
+      <p
+        begin="01:57:52.250"
+        end="01:57:56.875"><span region="Default">what did Mae have planned for me<br/>inside my own vault?</span></p>
+      <p
+        begin="01:57:59.541"
+        end="01:58:00.541"><span region="Default">Okay.</span></p>
+      <p
+        begin="01:58:01.041"
+        end="01:58:03.875"><span region="Default">So what do you choose?</span></p>
+      <p
+        begin="01:58:04.291"
+        end="01:58:07.416"><span region="Default">A human over an ape?</span></p>
+      <p
+        begin="01:58:08.458"
+        end="01:58:11.916"><span region="Default">Your sweet little Soona...</span></p>
+      <p
+        begin="01:58:12.000"
+        end="01:58:13.583"><span region="Default">[Soona whimpering]</span></p>
+      <p
+        begin="01:58:13.708"
+        end="01:58:16.125"><span region="Default">...or that stinky human?</span></p>
+      <p
+        begin="01:58:16.208"
+        end="01:58:17.208"><span region="Default">[Noa yells]</span></p>
+      <p
+        begin="01:58:17.291"
+        end="01:58:18.500"><span region="Default">Tell me your plan!</span></p>
+      <p
+        begin="01:58:20.750"
+        end="01:58:21.875"><span region="Default">No!</span></p>
+      <p
+        begin="01:58:21.958"
+        end="01:58:23.458"><span region="Default">-[gunshot echoes]<br/>-[chimps screeching]</span></p>
+      <p
+        begin="01:58:25.625"
+        end="01:58:27.375"><span region="Default">[screeching]</span></p>
+      <p
+        begin="01:58:30.000"
+        end="01:58:31.458"><span region="Default">[breathing heavily]</span></p>
+      <p
+        begin="01:58:33.166"
+        end="01:58:34.416"><span region="Default">[chimps hooting]</span></p>
+      <p
+        begin="01:58:44.833"
+        end="01:58:46.083"><span region="Default">[sniffs]</span></p>
+      <p
+        begin="01:58:51.583"
+        end="01:58:53.958"><span region="Default">-[body thuds]<br/>-[chimps screeching]</span></p>
+      <p
+        begin="01:58:58.625"
+        end="01:58:59.958"><span region="Default">I see.</span></p>
+      <p
+        begin="01:59:02.083"
+        end="01:59:04.625"><span region="Default">You can leave, Mae.</span></p>
+      <p
+        begin="01:59:06.166"
+        end="01:59:07.250"><span region="Default">You can go.</span></p>
+      <p
+        begin="01:59:07.708"
+        end="01:59:10.000"><span region="Default">You're free. Just tell me...</span></p>
+      <p
+        begin="01:59:10.958"
+        end="01:59:15.666"><span region="Default">are there more of those in there?</span></p>
+      <p
+        begin="01:59:22.125"
+        end="01:59:23.250"><span region="Default">[Noa] Mae?</span></p>
+      <p
+        begin="01:59:24.500"
+        end="01:59:25.541"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:59:27.208"
+        end="01:59:28.291"><span region="Default">No.</span></p>
+      <p
+        begin="01:59:29.791"
+        end="01:59:31.666"><span region="Default">We cannot.</span></p>
+      <p
+        begin="01:59:33.000"
+        end="01:59:34.125"><span region="Default">He can't have it.</span></p>
+      <p
+        begin="01:59:34.500"
+        end="01:59:35.750"><span region="Default">Mae.</span></p>
+      <p
+        begin="01:59:37.458"
+        end="01:59:38.750"><span region="Default">-I'm sorry.<br/>-Mae!</span></p>
+      <p
+        begin="01:59:40.041"
+        end="01:59:41.083"><span region="Default">No!</span></p>
+      <p
+        begin="01:59:41.750"
+        end="01:59:43.958"><span region="Default">-[chimps screeching]<br/>-Mae, no!</span></p>
+      <p
+        begin="01:59:46.166"
+        end="01:59:47.375"><span region="Default">Mae!</span></p>
+      <p
+        begin="01:59:48.208"
+        end="01:59:49.416"><span region="Default">[crackling]</span></p>
+      <p
+        begin="02:00:10.708"
+        end="02:00:11.708"><span region="Default">[metal creaking]</span></p>
+      <p
+        begin="02:00:11.791"
+        end="02:00:13.208"><span region="Default">What have you done?</span></p>
+      <p
+        begin="02:00:19.958"
+        end="02:00:21.250"><span region="Default">Climb.</span></p>
+      <p
+        begin="02:00:21.416"
+        end="02:00:22.416"><span region="Default">Climb!</span></p>
+      <p
+        begin="02:00:23.375"
+        end="02:00:24.666"><span region="Default">-Climb!<br/>-No.</span></p>
+      <p
+        begin="02:00:30.250"
+        end="02:00:31.250"><span region="Default">No!</span></p>
+      <p
+        begin="02:00:33.125"
+        end="02:00:34.416"><span region="Default">[Proximus grunting]</span></p>
+      <p
+        begin="02:00:38.583"
+        end="02:00:39.958"><span region="Default">[panting]</span></p>
+      <p
+        begin="02:00:41.125"
+        end="02:00:42.333"><span region="Default">[chimps clamoring]</span></p>
+      <p
+        begin="02:00:46.666"
+        end="02:00:48.416"><span region="Default">[♪ tense music playing]</span></p>
+      <p
+        begin="02:00:48.500"
+        end="02:00:50.250"><span region="Default">[apes screeching in distance]</span></p>
+      <p
+        begin="02:00:56.541"
+        end="02:00:58.166"><span region="Default">[breathing heavily]</span></p>
+      <p
+        begin="02:01:04.458"
+        end="02:01:05.583"><span region="Default">[gasping]</span></p>
+      <p
+        begin="02:01:12.000"
+        end="02:01:14.166"><span region="Default">[gasping, coughs]</span></p>
+      <p
+        begin="02:01:14.875"
+        end="02:01:16.583"><span region="Default">[Anaya] Noa! Noa!</span></p>
+      <p
+        begin="02:01:16.750"
+        end="02:01:18.750"><span region="Default">-[Noa] Soona!<br/>-[Soona] Behind you!</span></p>
+      <p
+        begin="02:01:19.208"
+        end="02:01:21.000"><span region="Default">[Anaya] Climb!</span></p>
+      <p
+        begin="02:01:22.416"
+        end="02:01:24.041"><span region="Default">[Dar] Son! Son!</span></p>
+      <p
+        begin="02:01:24.208"
+        end="02:01:25.375"><span region="Default">-Mother!<br/>-[Dar] Son!</span></p>
+      <p
+        begin="02:01:25.833"
+        end="02:01:27.541"><span region="Default">Mother! Mother!</span></p>
+      <p
+        begin="02:01:27.791"
+        end="02:01:28.791"><span region="Default">-[Dar whimpering]<br/>-Mother!</span></p>
+      <p
+        begin="02:01:30.458"
+        end="02:01:31.458"><span region="Default">[Anaya] Dar!</span></p>
+      <p
+        begin="02:01:31.625"
+        end="02:01:33.125"><span region="Default">[Noa] Grab her!</span></p>
+      <p
+        begin="02:01:33.416"
+        end="02:01:35.541"><span region="Default">[Anaya] Dar! Grab my hand!</span></p>
+      <p
+        begin="02:01:35.708"
+        end="02:01:38.541"><span region="Default">-[Noa] Mother!<br/>-[Anaya] Dar!</span></p>
+      <p
+        begin="02:01:38.625"
+        end="02:01:39.750"><span region="Default">[Dar screeching]</span></p>
+      <p
+        begin="02:01:41.833"
+        end="02:01:42.833"><span region="Default">[Anaya] Dar!</span></p>
+      <p
+        begin="02:01:45.000"
+        end="02:01:46.416"><span region="Default">[Noa grunting]</span></p>
+      <p
+        begin="02:01:46.500"
+        end="02:01:47.833"><span region="Default">[Anaya] Dar, got you.</span></p>
+      <p
+        begin="02:01:48.958"
+        end="02:01:50.583"><span region="Default">Noa, what we do?</span></p>
+      <p
+        begin="02:01:52.583"
+        end="02:01:54.458"><span region="Default">[Noa] This way! Go!</span></p>
+      <p
+        begin="02:02:02.041"
+        end="02:02:05.125"><span region="Default">Eagle Clan! Climb!</span></p>
+      <p
+        begin="02:02:05.291"
+        end="02:02:07.541"><span region="Default">Follow Soona! Follow Anaya!</span></p>
+      <p
+        begin="02:02:07.708"
+        end="02:02:09.833"><span region="Default">-[Anaya] This way! Climb!<br/>-[Soona] Go. Go.</span></p>
+      <p
+        begin="02:02:10.291"
+        end="02:02:11.291"><span region="Default">[Anaya] Climb!</span></p>
+      <p
+        begin="02:02:12.708"
+        end="02:02:13.958"><span region="Default">[chimps grunting]</span></p>
+      <p
+        begin="02:02:19.375"
+        end="02:02:20.458"><span region="Default">This way!</span></p>
+      <p
+        begin="02:02:22.208"
+        end="02:02:23.333"><span region="Default">Hurry!</span></p>
+      <p
+        begin="02:02:25.041"
+        end="02:02:26.083"><span region="Default">[Anaya] Follow Soona!</span></p>
+      <p
+        begin="02:02:26.541"
+        end="02:02:28.458"><span region="Default">-[Soona] Hurry! Hurry!<br/>-[Noa] Go!</span></p>
+      <p
+        begin="02:02:30.333"
+        end="02:02:31.666"><span region="Default">[Noa grunting]</span></p>
+      <p
+        begin="02:02:33.208"
+        end="02:02:35.250"><span region="Default">-[Anaya] Come.<br/>-Go!</span></p>
+      <p
+        begin="02:02:35.416"
+        end="02:02:36.500"><span region="Default">Climb, Soona!</span></p>
+      <p
+        begin="02:02:36.666"
+        end="02:02:38.208"><span region="Default">[Soona] This the way out!</span></p>
+      <p
+        begin="02:02:38.708"
+        end="02:02:39.875"><span region="Default">Hurry!</span></p>
+      <p
+        begin="02:02:40.250"
+        end="02:02:41.250"><span region="Default">-Climb!<br/>-Noa!</span></p>
+      <p
+        begin="02:02:41.416"
+        end="02:02:42.541"><span region="Default">Mother, go!</span></p>
+      <p
+        begin="02:02:42.708"
+        end="02:02:44.208"><span region="Default">-[Anaya] Noa!<br/>-Climb, Anaya!</span></p>
+      <p
+        begin="02:02:44.375"
+        end="02:02:45.666"><span region="Default">-Soona, go!<br/>-Lead them!</span></p>
+      <p
+        begin="02:02:45.833"
+        end="02:02:47.291"><span region="Default">Go! Climb!</span></p>
+      <p
+        begin="02:02:47.458"
+        end="02:02:50.083"><span region="Default">Go! Go, hurry!</span></p>
+      <p
+        begin="02:02:50.166"
+        end="02:02:51.458"><span region="Default">[Sylva growls]</span></p>
+      <p
+        begin="02:02:58.125"
+        end="02:02:59.625"><span region="Default">[♪ menacing music playing]</span></p>
+      <p
+        begin="02:03:01.083"
+        end="02:03:02.166"><span region="Default">[roars]</span></p>
+      <p
+        begin="02:03:16.916"
+        end="02:03:18.083"><span region="Default">[Noa yells]</span></p>
+      <p
+        begin="02:03:18.208"
+        end="02:03:19.666"><span region="Default">[both yelling]</span></p>
+      <p
+        begin="02:03:25.000"
+        end="02:03:26.250"><span region="Default">[gasping]</span></p>
+      <p
+        begin="02:03:28.041"
+        end="02:03:29.708"><span region="Default">[panting]</span></p>
+      <p
+        begin="02:03:29.791"
+        end="02:03:31.958"><span region="Default">[Sylva growls, roars]</span></p>
+      <p
+        begin="02:03:34.875"
+        end="02:03:36.291"><span region="Default">[both grunting]</span></p>
+      <p
+        begin="02:03:43.083"
+        end="02:03:44.458"><span region="Default">[Sylva grunting]</span></p>
+      <p
+        begin="02:03:48.250"
+        end="02:03:49.583"><span region="Default">[Sylva roars]</span></p>
+      <p
+        begin="02:03:51.458"
+        end="02:03:52.666"><span region="Default">[roars]</span></p>
+      <p
+        begin="02:04:13.041"
+        end="02:04:14.791"><span region="Default">-[grunting]<br/>-[metal creaking]</span></p>
+      <p
+        begin="02:04:17.958"
+        end="02:04:19.291"><span region="Default">[growls]</span></p>
+      <p
+        begin="02:04:31.125"
+        end="02:04:32.333"><span region="Default">[screams]</span></p>
+      <p
+        begin="02:04:32.666"
+        end="02:04:34.541"><span region="Default">[panting]</span></p>
+      <p
+        begin="02:04:45.916"
+        end="02:04:47.166"><span region="Default">[metal groaning]</span></p>
+      <p
+        begin="02:05:05.750"
+        end="02:05:07.500"><span region="Default">[panting]</span></p>
+      <p
+        begin="02:05:19.791"
+        end="02:05:21.750"><span region="Default">[chimps chattering]</span></p>
+      <p
+        begin="02:05:29.791"
+        end="02:05:31.000"><span region="Default">[growls]</span></p>
+      <p
+        begin="02:05:31.583"
+        end="02:05:33.125"><span region="Default">[all screeching]</span></p>
+      <p
+        begin="02:05:34.708"
+        end="02:05:37.791"><span region="Default">You think you can destroy my kingdom?</span></p>
+      <p
+        begin="02:05:37.875"
+        end="02:05:39.166"><span region="Default">[yells]</span></p>
+      <p
+        begin="02:05:40.125"
+        end="02:05:42.000"><span region="Default">[chimps screeching]</span></p>
+      <p
+        begin="02:05:43.166"
+        end="02:05:46.041"><span region="Default">[roaring]</span></p>
+      <p
+        begin="02:05:47.750"
+        end="02:05:51.333"><span region="Default">You think you can destroy what I am?</span></p>
+      <p
+        begin="02:05:52.583"
+        end="02:05:54.333"><span region="Default">[Proximus grunts]</span></p>
+      <p
+        begin="02:05:57.166"
+        end="02:05:58.166"><span region="Default">-[Dar] Noa!<br/>-Leave him.</span></p>
+      <p
+        begin="02:05:58.250"
+        end="02:06:00.000"><span region="Default">[chimps chattering]</span></p>
+      <p
+        begin="02:06:02.375"
+        end="02:06:03.416"><span region="Default">[Noa groaning]</span></p>
+      <p
+        begin="02:06:05.708"
+        end="02:06:07.041"><span region="Default">[Proximus yells]</span></p>
+      <p
+        begin="02:06:09.291"
+        end="02:06:10.833"><span region="Default">[all hooting]</span></p>
+      <p
+        begin="02:06:11.708"
+        end="02:06:13.125"><span region="Default">Noa.</span></p>
+      <p
+        begin="02:06:14.791"
+        end="02:06:18.708"><span region="Default">You showed so much promise.</span></p>
+      <p
+        begin="02:06:20.458"
+        end="02:06:23.208"><span region="Default">-[wheezing]<br/>-You are going to stand,</span></p>
+      <p
+        begin="02:06:23.875"
+        end="02:06:27.125"><span region="Default">so that you can bend for your king...</span></p>
+      <p
+        begin="02:06:27.916"
+        end="02:06:29.125"><span region="Default">before you die.</span></p>
+      <p
+        begin="02:06:29.208"
+        end="02:06:30.750"><span region="Default">[choking]</span></p>
+      <p
+        begin="02:06:34.291"
+        end="02:06:38.291"><span region="Default">And you will all bear witness</span></p>
+      <p
+        begin="02:06:38.458"
+        end="02:06:43.916"><span region="Default">-as Noa bends before his king.<br/>-[all whimpering]</span></p>
+      <p
+        begin="02:06:44.458"
+        end="02:06:45.791"><span region="Default">[eagle screeching]</span></p>
+      <p
+        begin="02:06:47.625"
+        end="02:06:49.000"><span region="Default">Now stand.</span></p>
+      <p
+        begin="02:06:49.958"
+        end="02:06:51.583"><span region="Default">Stand now!</span></p>
+      <p
+        begin="02:06:54.625"
+        end="02:06:55.666"><span region="Default">That's it.</span></p>
+      <p
+        begin="02:06:56.250"
+        end="02:06:57.916"><span region="Default">Clever ape.</span></p>
+      <p
+        begin="02:06:59.250"
+        end="02:07:01.166"><span region="Default">[breathing heavily]</span></p>
+      <p
+        begin="02:07:04.916"
+        end="02:07:08.333"><span region="Default">[vocalizing]</span></p>
+      <p
+        begin="02:07:09.416"
+        end="02:07:11.500"><span region="Default">[grunting]</span></p>
+      <p
+        begin="02:07:12.791"
+        end="02:07:14.833"><span region="Default">[Noa continues vocalizing]</span></p>
+      <p
+        begin="02:07:19.083"
+        end="02:07:20.916"><span region="Default">[Proximus laughs]</span></p>
+      <p
+        begin="02:07:21.833"
+        end="02:07:23.333"><span region="Default">What is this?</span></p>
+      <p
+        begin="02:07:23.416"
+        end="02:07:25.166"><span region="Default">[vocalizing]</span></p>
+      <p
+        begin="02:07:26.666"
+        end="02:07:28.500"><span region="Default">Trevathan would love this.</span></p>
+      <p
+        begin="02:07:28.583"
+        end="02:07:31.625"><span region="Default">-[Noa grunting]<br/>-[laughing]</span></p>
+      <p
+        begin="02:07:31.916"
+        end="02:07:34.333"><span region="Default">[vocalizing]</span></p>
+      <p
+        begin="02:07:38.041"
+        end="02:07:40.625"><span region="Default">[grunting]</span></p>
+      <p
+        begin="02:07:40.708"
+        end="02:07:43.041"><span region="Default">[chimps hooting]</span></p>
+      <p
+        begin="02:07:44.708"
+        end="02:07:47.250"><span region="Default">[all vocalizing]</span></p>
+      <p
+        begin="02:07:47.833"
+        end="02:07:50.083"><span region="Default">[all grunting in unison]</span></p>
+      <p
+        begin="02:07:51.166"
+        end="02:07:53.750"><span region="Default">[vocalizing continues]</span></p>
+      <p
+        begin="02:07:57.416"
+        end="02:07:58.875"><span region="Default">[all grunting]</span></p>
+      <p
+        begin="02:07:58.958"
+        end="02:07:59.958"><span region="Default">Enough!</span></p>
+      <p
+        begin="02:08:02.416"
+        end="02:08:03.416"><span region="Default">Enough!</span></p>
+      <p
+        begin="02:08:03.500"
+        end="02:08:05.500"><span region="Default">[vocalizing continues]</span></p>
+      <p
+        begin="02:08:09.750"
+        end="02:08:11.000"><span region="Default">-[eagle screeches]<br/>-[grunts]</span></p>
+      <p
+        begin="02:08:13.625"
+        end="02:08:16.083"><span region="Default">[vocalizing continues]</span></p>
+      <p
+        begin="02:08:17.250"
+        end="02:08:18.500"><span region="Default">[growls]</span></p>
+      <p
+        begin="02:08:19.750"
+        end="02:08:21.333"><span region="Default">-[eagles screeching]<br/>-[Proximus grunting]</span></p>
+      <p
+        begin="02:08:26.250"
+        end="02:08:28.083"><span region="Default">[Noa grunting]</span></p>
+      <p
+        begin="02:08:30.708"
+        end="02:08:32.333"><span region="Default">-[eagles screeching]<br/>-[Proximus grunting]</span></p>
+      <p
+        begin="02:08:33.083"
+        end="02:08:34.583"><span region="Default">[Proximus yelling]</span></p>
+      <p
+        begin="02:08:36.750"
+        end="02:08:38.000"><span region="Default">[Proximus yelling]</span></p>
+      <p
+        begin="02:08:38.791"
+        end="02:08:40.750"><span region="Default">[all vocalizing and grunting]</span></p>
+      <p
+        begin="02:08:45.791"
+        end="02:08:47.250"><span region="Default">-[Noa shouts]<br/>-[growls]</span></p>
+      <p
+        begin="02:08:48.125"
+        end="02:08:50.250"><span region="Default">[screaming]</span></p>
+      <p
+        begin="02:08:58.875"
+        end="02:09:00.541"><span region="Default">[panting]</span></p>
+      <p
+        begin="02:09:05.083"
+        end="02:09:06.791"><span region="Default">[♪ triumphant music playing]</span></p>
+      <p
+        begin="02:09:13.333"
+        end="02:09:17.291"><span region="Default">Let us go home.</span></p>
+      <p
+        begin="02:09:18.833"
+        end="02:09:20.583"><span region="Default">[sniffs]</span></p>
+      <p
+        begin="02:09:23.583"
+        end="02:09:25.250"><span region="Default">[eagles screeching]</span></p>
+      <p
+        begin="02:09:36.958"
+        end="02:09:38.958"><span region="Default">[♪ serene music playing]</span></p>
+      <p
+        begin="02:09:44.041"
+        end="02:09:45.666"><span region="Default">[children laughing and chattering]</span></p>
+      <p
+        begin="02:09:47.958"
+        end="02:09:49.166"><span region="Default">[child] He's coming!</span></p>
+      <p
+        begin="02:09:49.250"
+        end="02:09:50.625"><span region="Default">[child 2 roars playfully]</span></p>
+      <p
+        begin="02:09:52.583"
+        end="02:09:53.750"><span region="Default">[Soona] Soft?</span></p>
+      <p
+        begin="02:09:54.458"
+        end="02:09:56.333"><span region="Default">[Noa] Too firm.</span></p>
+      <p
+        begin="02:09:57.166"
+        end="02:09:58.166"><span region="Default">Too firm.</span></p>
+      <p
+        begin="02:09:59.916"
+        end="02:10:01.375"><span region="Default">-Silk.<br/>-Good.</span></p>
+      <p
+        begin="02:10:08.000"
+        end="02:10:09.000"><span region="Default">Noa.</span></p>
+      <p
+        begin="02:10:30.666"
+        end="02:10:32.291"><span region="Default">[Mae] I came to say goodbye.</span></p>
+      <p
+        begin="02:10:41.541"
+        end="02:10:43.541"><span region="Default">Proximus was right.</span></p>
+      <p
+        begin="02:10:44.666"
+        end="02:10:48.458"><span region="Default">Humans will never give up.</span></p>
+      <p
+        begin="02:10:49.708"
+        end="02:10:53.625"><span region="Default">Not until you claim all things</span></p>
+      <p
+        begin="02:10:53.791"
+        end="02:10:55.333"><span region="Default">for yourselves.</span></p>
+      <p
+        begin="02:10:56.416"
+        end="02:10:57.791"><span region="Default">It was ours.</span></p>
+      <p
+        begin="02:10:58.625"
+        end="02:11:01.083"><span region="Default">That silo was a human place</span></p>
+      <p
+        begin="02:11:01.250"
+        end="02:11:03.041"><span region="Default">with human things and human ideas.</span></p>
+      <p
+        begin="02:11:03.208"
+        end="02:11:04.708"><span region="Default">It was not meant for apes.</span></p>
+      <p
+        begin="02:11:04.875"
+        end="02:11:07.500"><span region="Default">What is for apes?</span></p>
+      <p
+        begin="02:11:09.583"
+        end="02:11:11.708"><span region="Default">Should we go back to silence?</span></p>
+      <p
+        begin="02:11:13.708"
+        end="02:11:16.250"><span region="Default">We will rebuild our home.</span></p>
+      <p
+        begin="02:11:18.000"
+        end="02:11:19.166"><span region="Default">Better.</span></p>
+      <p
+        begin="02:11:19.666"
+        end="02:11:20.875"><span region="Default">Stronger.</span></p>
+      <p
+        begin="02:11:21.833"
+        end="02:11:24.125"><span region="Default">From what we have learned.</span></p>
+      <p
+        begin="02:11:27.000"
+        end="02:11:28.125"><span region="Default">[huffs]</span></p>
+      <p
+        begin="02:11:31.750"
+        end="02:11:33.208"><span region="Default">[sighs]</span></p>
+      <p
+        begin="02:11:34.375"
+        end="02:11:36.625"><span region="Default">If Raka were here,</span></p>
+      <p
+        begin="02:11:38.083"
+        end="02:11:40.541"><span region="Default">he would tell us his Caesar</span></p>
+      <p
+        begin="02:11:41.458"
+        end="02:11:43.416"><span region="Default">had much to say on this.</span></p>
+      <p
+        begin="02:11:44.041"
+        end="02:11:46.083"><span region="Default">[♪ sentimental music playing]</span></p>
+      <p
+        begin="02:11:48.291"
+        end="02:11:50.625"><span region="Default">Was he right?</span></p>
+      <p
+        begin="02:11:57.041"
+        end="02:12:02.791"><span region="Default">Can ape and human live together?</span></p>
+      <p
+        begin="02:12:04.916"
+        end="02:12:06.583"><span region="Default">[wind blowing]</span></p>
+      <p
+        begin="02:12:13.791"
+        end="02:12:15.125"><span region="Default">I don't know.</span></p>
+      <p
+        begin="02:12:18.500"
+        end="02:12:20.041"><span region="Default">[necklace snaps]</span></p>
+      <p
+        begin="02:12:29.333"
+        end="02:12:31.375"><span region="Default">Important.</span></p>
+      <p
+        begin="02:12:51.916"
+        end="02:12:53.916"><span region="Default">[♪ gentle music playing]</span></p>
+      <p
+        begin="02:13:00.750"
+        end="02:13:02.833"><span region="Default">[♪ uplifting music playing]</span></p>
+      <p
+        begin="02:13:20.375"
+        end="02:13:22.041"><span region="Default">[in sign language]</span></p>
+      <p
+        begin="02:13:35.958"
+        end="02:13:37.291"><span region="Default">[screeches]</span></p>
+      <p
+        begin="02:13:39.708"
+        end="02:13:41.041"><span region="Default">[squawks]</span></p>
+      <p
+        begin="02:14:03.416"
+        end="02:14:05.291"><span region="Default">[door unlocks]</span></p>
+      <p
+        begin="02:14:39.416"
+        end="02:14:40.416"><span region="Default">Come.</span></p>
+      <p
+        begin="02:14:46.125"
+        end="02:14:47.750"><span region="Default">[woman] Rescaling back down to 20.</span></p>
+      <p
+        begin="02:14:48.041"
+        end="02:14:50.291"><span region="Default">New latitude point, 2.722.</span></p>
+      <p
+        begin="02:14:50.458"
+        end="02:14:51.500"><span region="Default">[man] Copy that. Spooling up.</span></p>
+      <p
+        begin="02:14:51.666"
+        end="02:14:52.750"><span region="Default">[woman] Let me know<br/>what that distribution looks like.</span></p>
+      <p
+        begin="02:14:52.833"
+        end="02:14:53.833"><span region="Default">[man] Let's get over here.</span></p>
+      <p
+        begin="02:14:54.000"
+        end="02:14:55.291"><span region="Default">[woman 2] Readings have been confirmed.</span></p>
+      <p
+        begin="02:14:55.375"
+        end="02:14:56.666"><span region="Default">-[man 2] Link is ready!<br/>-[woman 1] Pulling up now.</span></p>
+      <p
+        begin="02:14:57.083"
+        end="02:14:58.708"><span region="Default">[♪ dramatic music playing]</span></p>
+      <p
+        begin="02:15:30.791"
+        end="02:15:32.708"><span region="Default">[machinery whirring]</span></p>
+      <p
+        begin="02:15:42.208"
+        end="02:15:43.625"><span region="Default">Hello.</span></p>
+      <p
+        begin="02:15:44.416"
+        end="02:15:45.791"><span region="Default">Is anyone there?</span></p>
+      <p
+        begin="02:15:45.958"
+        end="02:15:47.166"><span region="Default">Come on.</span></p>
+      <p
+        begin="02:15:47.333"
+        end="02:15:48.625"><span region="Default">Do you hear me?</span></p>
+      <p
+        begin="02:15:50.041"
+        end="02:15:51.375"><span region="Default">[static]</span></p>
+      <p
+        begin="02:15:51.458"
+        end="02:15:52.583"><span region="Default">[man over speakers] Yes, hello?</span></p>
+      <p
+        begin="02:15:53.041"
+        end="02:15:55.083"><span region="Default">This is Fort Wayne, Indiana.<br/>We read you!</span></p>
+      <p
+        begin="02:15:55.333"
+        end="02:15:56.333"><span region="Default">[all cheering]</span></p>
+      <p
+        begin="02:15:56.416"
+        end="02:15:57.875"><span region="Default">It's good to hear another voice out there.</span></p>
+      <p
+        begin="02:15:58.833"
+        end="02:16:00.708"><span region="Default">Tell me where you are.<br/>What's your location?</span></p>
+      <p
+        begin="02:16:02.166"
+        end="02:16:03.666"><span region="Default">[♪ dramatic music continues]</span></p>
+      <p
+        begin="02:16:23.958"
+        end="02:16:25.083"><span region="Default">[♪ dramatic music fades]</span></p>
+      <p
+        begin="02:16:28.208"
+        end="02:16:29.875"><span region="Default">[♪ tense music playing]</span></p>
+      <p
+        begin="02:18:31.708"
+        end="02:18:33.083"><span region="Default">[♪ gentle music playing]</span></p>
+      <p
+        begin="02:20:14.791"
+        end="02:20:16.291"><span region="Default">[♪ menacing music playing]</span></p>
+      <p
+        begin="02:22:35.125"
+        end="02:22:37.000"><span region="Default">[♪ unsettling music playing]</span></p>
+    </div>
+  </body>
+</tt>
